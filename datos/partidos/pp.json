@@ -1,0 +1,1411 @@
+{
+  "id": "pp",
+  "nombre": "Partido Popular",
+  "siglas": "PP",
+  "color": "#4a7fc1",
+  "fuente": "pp.pdf",
+  "resumen": "Programa 'Reconstrucción Nacional' con 249 medidas numeradas (algunas 'por anunciar en campaña'). Combina bajadas de impuestos y desregulación con reformas institucionales (independencia de Fiscalía, CGPJ, CIS, INE), control migratorio más estricto, vivienda por la vía de construir mucho más y nucleares. Incluye bastantes compromisos con cifra.",
+  "ideas_fuerza": [
+    "Construir un millón de viviendas y derogar la Ley de Vivienda",
+    "Bajar IRPF a rentas medias/bajas y jóvenes; IVA 0% a alimentos básicos",
+    "Regeneración institucional: Fiscal General independiente, jueces eligen el CGPJ, derogar la amnistía",
+    "Inmigración solo por vía legal con cupos; arraigo excepcional",
+    "Mantener las nucleares y plan de infraestructuras de 300.000 M€"
+  ],
+  "propuestas": [
+    {
+      "id": "pp-001",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Construir un millón de viviendas con una nueva Ley del Suelo",
+      "resumen": "Movilizar suelo público y privado, nueva Ley del Suelo, licencias en 3 meses con silencio positivo, vivienda social en suelo dotacional, cambiar oficinas y locales a vivienda, vivienda industrializada y publicar cada año viviendas iniciadas y terminadas.",
+      "cita": "Construiremos un millón de viviendas. Movilizaremos suelo público y privado en colaboración con las Comunidades Autónomas y las entidades locales.",
+      "pagina": 41,
+      "concrecion": "alta",
+      "cifra": "1.000.000 de viviendas; licencias en 3 meses",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Compradores e inquilinos a medio plazo, promotores, constructoras y ayuntamientos.",
+        "coste": "Mayormente inversión privada; el programa no detalla cuánto aporta el Estado ni en qué plazo exacto.",
+        "viabilidad": "El urbanismo es autonómico y municipal: requiere su colaboración. La falta de mano de obra en construcción es un cuello de botella (el propio programa lo reconoce).",
+        "a_favor": [
+          "Ataca la causa de fondo: faltan viviendas (se estima un déficit de 600.000-700.000).",
+          "Medidas concretas para acelerar trámites y aprovechar oficinas vacías."
+        ],
+        "en_contra": [
+          "No precisa cuántas serán asequibles o protegidas frente a precio libre.",
+          "Construir más no garantiza precios accesibles en zonas de alta demanda a corto plazo."
+        ]
+      }
+    },
+    {
+      "id": "pp-002",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Derogar la Ley de Vivienda y eliminar las zonas tensionadas",
+      "resumen": "Derogar la Ley de Vivienda, suprimiendo las zonas tensionadas y el índice de precios de alquiler, para recuperar la seguridad jurídica y la oferta.",
+      "cita": "Eliminaremos las zonas tensionadas y el índice de precios, que han introducido más intervención, más incertidumbre y menos oferta en el mercado del alquiler.",
+      "pagina": 42,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Inquilinos en zonas tensionadas (Cataluña, País Vasco, Navarra…), propietarios.",
+        "coste": "Sin coste directo.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Hay datos que asocian los topes a una caída de la oferta de alquiler de larga duración.",
+          "Más seguridad para pequeños propietarios."
+        ],
+        "en_contra": [
+          "Otros estudios muestran moderación de precios en zonas con tope.",
+          "Sin tope, los inquilinos actuales pueden sufrir fuertes subidas al renovar."
+        ]
+      }
+    },
+    {
+      "id": "pp-003",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "'Tres años+': deducción al casero que renueve sin subir más que el IPC",
+      "resumen": "Deducción en IRPF para inquilinos según ingresos y deducción o crédito fiscal al propietario particular que renueve el contrato tres años más subiendo la renta por debajo del IPC.",
+      "cita": "El propietario particular que, al vencer el contrato de una vivienda habitual, lo renueve a su inquilino por tres años más subiendo la renta por debajo del IPC tendrá una deducción en el IRPF.",
+      "pagina": 43,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Inquilinos y pequeños propietarios.",
+        "coste": "Menos recaudación de IRPF; no cuantificado.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Incentiva la estabilidad sin imponer topes.",
+          "Ayuda directa a inquilinos con menos ingresos."
+        ],
+        "en_contra": [
+          "Voluntario: el casero puede preferir subir más si el mercado lo permite.",
+          "Las deducciones al inquilino pueden trasladarse al precio."
+        ]
+      }
+    },
+    {
+      "id": "pp-004",
+      "tema": "vivienda",
+      "subtema": "compra",
+      "titulo": "IVA del 4% en la primera vivienda para menores de 40 y aval del 20%",
+      "resumen": "Bajar el IVA de la primera vivienda del 10% al 4% para menores de 40 (pagable a plazos con la hipoteca), ITP reducido acordado con CCAA, y aval público de hasta el 20% del valor para menores de 40 (ampliable a 50).",
+      "cita": "Reduciremos el IVA de la compra de primera vivienda del 10% al 4% para menores de 40 años y permitiremos que se pague de forma fraccionada al ritmo de la hipoteca.",
+      "pagina": 43,
+      "concrecion": "alta",
+      "cifra": "IVA 10% → 4%; aval hasta 20%",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Jóvenes compradores de primera vivienda con ingresos para pagar hipoteca.",
+        "coste": "Menor recaudación de IVA y riesgo asumido por el Estado en los avales.",
+        "viabilidad": "Viable. El aval ya existe (ICO) y se amplía.",
+        "a_favor": [
+          "Ataca la principal barrera: el ahorro previo para la entrada y los impuestos.",
+          "Muy concreta."
+        ],
+        "en_contra": [
+          "Estimular la demanda con poca oferta puede subir precios.",
+          "No ayuda a quien no puede pagar una hipoteca."
+        ]
+      }
+    },
+    {
+      "id": "pp-005",
+      "tema": "vivienda",
+      "subtema": "compra",
+      "titulo": "'Hucha Hogar Joven': cuenta de ahorro para la primera vivienda",
+      "resumen": "Menores de 40 podrán ahorrar hasta 2.000 €/año (máx. 40.000) con deducción del 20% y rendimientos exentos si se usan para comprar, más un aval por el importe ahorrado.",
+      "cita": "Los jóvenes menores de 40 años podrán aportar hasta 2.000 euros al año a una cuenta de ahorro para la compra de su primera vivienda, con una deducción fiscal del 20% de lo aportado.",
+      "pagina": 43,
+      "concrecion": "alta",
+      "cifra": "2.000 €/año, deducción 20%, tope 40.000 €",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Jóvenes con capacidad de ahorro.",
+        "coste": "Hasta 400 € de deducción por persona y año.",
+        "viabilidad": "Viable; existió la 'cuenta vivienda' hasta 2013.",
+        "a_favor": [
+          "Fomenta el ahorro planificado."
+        ],
+        "en_contra": [
+          "Beneficia más a quien ya puede ahorrar; poca ayuda a rentas bajas."
+        ]
+      }
+    },
+    {
+      "id": "pp-006",
+      "tema": "vivienda",
+      "subtema": "okupacion",
+      "titulo": "Desalojo de okupas en 48 horas por orden judicial",
+      "resumen": "Ley para que el propietario recupere su vivienda en 48 horas, que las comunidades de vecinos puedan pedir el desalojo, que el propietario no pague suministros ni impuestos mientras dure y nulidad del empadronamiento del okupa.",
+      "cita": "Aprobaremos una ley para que el propietario pueda recuperar su vivienda en 48 horas desde el primer día.",
+      "pagina": 43,
+      "concrecion": "alta",
+      "cifra": "48 horas",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Propietarios afectados por ocupación, comunidades de vecinos, personas que ocupan por necesidad.",
+        "coste": "Bajo; requiere medios judiciales.",
+        "viabilidad": "Viable con reforma procesal, manteniendo intervención judicial.",
+        "a_favor": [
+          "Responde a una preocupación social extendida.",
+          "Mantiene la orden judicial como garantía."
+        ],
+        "en_contra": [
+          "Los casos de ocupación son estadísticamente pocos frente al total de viviendas.",
+          "Las familias vulnerables necesitan alternativa habitacional."
+        ]
+      }
+    },
+    {
+      "id": "pp-007",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "IVA del 4% para rehabilitar vivienda habitual",
+      "resumen": "Rehabilitación de vivienda habitual con IVA superreducido del 4%, ayudas, avales y más edificabilidad cuando haga viable la obra. Facilitar añadir plantas a edificios existentes.",
+      "cita": "La rehabilitación de vivienda habitual tendrá un IVA superreducido del 4%.",
+      "pagina": 42,
+      "concrecion": "alta",
+      "cifra": "IVA 4%",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Propietarios de viviendas antiguas o vacías.",
+        "coste": "Menor recaudación de IVA.",
+        "viabilidad": "Viable (la directiva europea permite tipos reducidos en rehabilitación).",
+        "a_favor": [
+          "Recupera vivienda vacía o deteriorada sin consumir nuevo suelo."
+        ],
+        "en_contra": [
+          "Aumentar densidad puede presionar servicios en barrios ya saturados."
+        ]
+      }
+    },
+    {
+      "id": "pp-008",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Bajar el IRPF a rentas medias y bajas y deflactarlo con la inflación",
+      "resumen": "Elevar mínimos personales y familiares, bajar el IRPF a rentas medias y bajas, que quien cobre el SMI no pague IRPF por ley, y actualizar la tarifa con la inflación para evitar subidas encubiertas.",
+      "cita": "Deflactaremos la tarifa y actualizaremos los principales parámetros del impuesto para impedir que la inflación vuelva a utilizarse como una subida encubierta de impuestos.",
+      "pagina": 47,
+      "concrecion": "media",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Asalariados y autónomos con rentas medias y bajas.",
+        "coste": "Deflactar la tarifa supone varios miles de millones; no cuantificado.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Con inflación alta, no actualizar la tarifa sube impuestos sin votarlo.",
+          "Protege al trabajador con salario mínimo."
+        ],
+        "en_contra": [
+          "Reduce ingresos públicos en un contexto de deuda alta, sin explicar compensación."
+        ]
+      }
+    },
+    {
+      "id": "pp-009",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Jóvenes sin IRPF el primer año de trabajo y con rebaja los tres siguientes",
+      "resumen": "Trabajadores y autónomos de 18 a 35 años: reducción del IRPF del 100% el primer año que tributen, 75% el segundo, 50% el tercero y 25% el cuarto.",
+      "cita": "La reducción será del 100% el primer año, del 75% el segundo, del 50% el tercero y del 25% el cuarto.",
+      "pagina": 47,
+      "concrecion": "alta",
+      "cifra": "100% / 75% / 50% / 25%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Jóvenes que empiezan a trabajar.",
+        "coste": "No cuantificado; afecta a pocas cohortes cada año.",
+        "viabilidad": "Viable. Portugal aplica un modelo parecido.",
+        "a_favor": [
+          "Aumenta el salario neto en la etapa de emancipación.",
+          "Puede frenar la emigración de jóvenes cualificados."
+        ],
+        "en_contra": [
+          "Diferencia trato fiscal entre trabajadores con el mismo salario según su edad.",
+          "Los jóvenes con salarios bajos ya pagan poco IRPF."
+        ]
+      }
+    },
+    {
+      "id": "pp-010",
+      "tema": "fiscalidad",
+      "subtema": "iva",
+      "titulo": "IVA 0% a alimentos básicos, incluidas carne y pescado",
+      "resumen": "Mientras dure la crisis de inflación, IVA del 0% a los alimentos básicos, incluyendo carne, pescado y conservas.",
+      "cita": "Aplicaremos un IVA del 0% a los alimentos básicos, incluidos la carne, el pescado y las conservas.",
+      "pagina": 47,
+      "concrecion": "alta",
+      "cifra": "IVA 0%",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Todos los consumidores; proporcionalmente más a hogares de rentas bajas.",
+        "coste": "Varios miles de millones al año, según la lista de productos.",
+        "viabilidad": "La directiva europea permite tipo 0% para alimentos desde 2022.",
+        "a_favor": [
+          "Ayuda inmediata a la cesta de la compra."
+        ],
+        "en_contra": [
+          "Estudios del Banco de España sobre la rebaja de 2023 muestran que solo una parte se trasladó a precios.",
+          "Beneficia también a hogares de rentas altas."
+        ]
+      }
+    },
+    {
+      "id": "pp-011",
+      "tema": "fiscalidad",
+      "subtema": "empresas-fiscal",
+      "titulo": "Libertad de amortización para empresas que inviertan",
+      "resumen": "Las empresas podrán descontar en el mismo año toda inversión en maquinaria, digitalización, IA, software o patentes; adelanto de incentivos a startups sin beneficios. Eliminar 'impuestos que frenan la inversión'.",
+      "cita": "Lo que una empresa invierta en maquinaria, equipos, digitalización, inteligencia artificial, ciberseguridad, software o patentes podrá descontarse entero el mismo año.",
+      "pagina": 47,
+      "concrecion": "alta",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Empresas que invierten.",
+        "coste": "Adelanta deducciones: coste fiscal alto al principio, menor a largo plazo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Estimula la inversión productiva, débil en España."
+        ],
+        "en_contra": [
+          "No concreta qué 'impuestos que frenan la inversión' eliminaría (¿banca, energéticas?)."
+        ]
+      }
+    },
+    {
+      "id": "pp-012",
+      "tema": "fiscalidad",
+      "subtema": "gasto",
+      "titulo": "Auditoría de todo el gasto en 100 días y menos ministerios",
+      "resumen": "Auditoría pública del gasto, contratos y subvenciones en 100 días; menos ministerios, altos cargos y asesores; organismos con fecha de caducidad; ninguna subvención prorrogada sin resultados; reducir deuda según reglas europeas.",
+      "cita": "En cien días, los españoles lo sabrán todo. Realizaremos una auditoría de todo el gasto que se ha hecho estos años.",
+      "pagina": 12,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Administración General del Estado, beneficiarios de subvenciones.",
+        "coste": "Ahorro no cuantificado.",
+        "viabilidad": "Viable; la AIReF ya hace 'spending reviews'.",
+        "a_favor": [
+          "Evaluar el gasto de forma sistemática es recomendación habitual de AIReF y la OCDE."
+        ],
+        "en_contra": [
+          "Las auditorías iniciales suelen tener uso político; el ahorro real de reducir altos cargos es pequeño en el total."
+        ]
+      }
+    },
+    {
+      "id": "pp-013",
+      "tema": "fiscalidad",
+      "subtema": "gasto",
+      "titulo": "Nueva financiación autonómica multilateral sin 'regímenes singulares'",
+      "resumen": "Nuevo modelo de financiación autonómica acordado entre todas las comunidades, con más recursos y un fondo de nivelación transitorio. Ninguna comunidad saldrá del régimen común (rechazo a la financiación singular de Cataluña). Las CCAA podrán bajar sus impuestos libremente.",
+      "cita": "Ninguna de las Comunidades que actualmente integran el régimen común saldrá de él ni habrá nuevos regímenes singulares negociados bilateralmente al margen de este sistema.",
+      "pagina": 33,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Todas las comunidades autónomas, especialmente Cataluña.",
+        "coste": "El fondo de nivelación lo paga el Estado; no cuantificado.",
+        "viabilidad": "Requiere consenso de las CCAA, algo que no se logra desde 2009.",
+        "a_favor": [
+          "Mismas reglas para todos los territorios."
+        ],
+        "en_contra": [
+          "Permitir 'bajar impuestos cuanto quieran' mantiene la competencia fiscal entre CCAA (dumping fiscal, según sus críticos)."
+        ]
+      }
+    },
+    {
+      "id": "pp-014",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Autónomos: cuota cero el primer año y sin IVA si facturan menos de 85.000 €",
+      "resumen": "Nuevos autónomos sin cuota el primer año (y el segundo si no llegan al SMI); los que facturen menos de 85.000 € no tendrán que cobrar ni declarar IVA; declaraciones semestrales; bonificación 100% de la cotización del primer empleado durante un año.",
+      "cita": "Si eres autónomo y facturas menos de 85.000 euros, no tendrás que cobrar ni declarar el IVA.",
+      "pagina": 46,
+      "concrecion": "alta",
+      "cifra": "Franquicia IVA 85.000 €; cuota 0 primer año",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Autónomos y pequeños negocios.",
+        "coste": "Menos IVA y cotizaciones; no cuantificado.",
+        "viabilidad": "La franquicia del IVA está permitida por la UE desde 2025 hasta 85.000 €.",
+        "a_favor": [
+          "Gran simplificación administrativa para pequeños negocios."
+        ],
+        "en_contra": [
+          "Riesgo de que negocios se mantengan artificialmente por debajo del umbral.",
+          "Ventaja frente a competidores que sí cobran IVA."
+        ]
+      }
+    },
+    {
+      "id": "pp-015",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Por cada norma nueva, eliminar tres; 25% menos cargas administrativas",
+      "resumen": "Cada nueva regulación eliminará tres; reducir cargas administrativas un 25% (35% pymes) antes de 2029; más declaración responsable y silencio positivo; ayudas reconocidas de oficio; licencias válidas en toda España.",
+      "cita": "Antes de 2029 reduciremos las cargas administrativas generales un 25% y un 35% para las pymes.",
+      "pagina": 13,
+      "concrecion": "alta",
+      "cifra": "-25% cargas (-35% pymes) antes de 2029",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Ciudadanos y empresas.",
+        "coste": "Bajo.",
+        "viabilidad": "Medir 'cargas administrativas' es complejo; requiere colaboración autonómica.",
+        "a_favor": [
+          "La burocracia es una queja habitual de pymes y autónomos.",
+          "Reconocer ayudas de oficio evita que quien tiene derecho no las cobre."
+        ],
+        "en_contra": [
+          "La regla 'una dentro, tres fuera' puede ser más simbólica que efectiva."
+        ]
+      }
+    },
+    {
+      "id": "pp-016",
+      "tema": "trabajo",
+      "subtema": "contratos",
+      "titulo": "Menos cotización a empresas con plantillas estables y publicar los fijos discontinuos sin trabajo",
+      "resumen": "Las empresas con plantillas más estables que la media pagarán menos por desempleo; publicar cada mes cuántos fijos discontinuos están inactivos; perseguir el absentismo y el fraude en bajas reforzando a las mutuas.",
+      "cita": "Las empresas que mantengan sus plantillas más estables que la media de su sector cotizarán menos por desempleo.",
+      "pagina": 46,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Empresas y trabajadores; personas de baja.",
+        "coste": "Menos ingresos por cotizaciones.",
+        "viabilidad": "Viable; algunos aspectos requieren diálogo social.",
+        "a_favor": [
+          "Premia la estabilidad (sistema 'bonus-malus' usado en otros países)."
+        ],
+        "en_contra": [
+          "Dar más papel a las mutuas en las bajas preocupa a los sindicatos por posible presión sobre trabajadores enfermos."
+        ]
+      }
+    },
+    {
+      "id": "pp-017",
+      "tema": "trabajo",
+      "subtema": "desempleo",
+      "titulo": "Cheque de formación en IA para cada trabajador",
+      "resumen": "Cada trabajador tendrá un cheque de formación que conservará si cambia de empresa, financiado con las cuotas de formación existentes, con más recursos para mayores y sectores expuestos a la IA.",
+      "cita": "Cada trabajador tendrá un cheque de formación, que conservará, aunque cambie de empresa, para formarse donde elija.",
+      "pagina": 45,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Todos los trabajadores.",
+        "coste": "Se financia con cuotas existentes, sin nuevas cargas.",
+        "viabilidad": "Viable; Francia tiene un modelo similar (CPF).",
+        "a_favor": [
+          "Prepara a los trabajadores para el impacto de la IA."
+        ],
+        "en_contra": [
+          "En Francia el sistema ha tenido problemas de fraude y formaciones de baja calidad."
+        ]
+      }
+    },
+    {
+      "id": "pp-018",
+      "tema": "migracion",
+      "subtema": "regularizacion",
+      "titulo": "Prohibir por ley las regularizaciones masivas; el arraigo será excepcional",
+      "resumen": "Reformar la Ley de Extranjería para prohibir regularizaciones masivas e indiscriminadas; el arraigo pasa a ser una excepción individual. El empadronamiento no bastará para ayudas no urgentes.",
+      "cita": "Prohibiremos por ley las regularizaciones masivas e indiscriminadas y el arraigo será excepcional.",
+      "pagina": 19,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Inmigrantes en situación irregular (se estiman entre 400.000 y 700.000).",
+        "coste": "Sin coste directo.",
+        "viabilidad": "Competencia estatal.",
+        "a_favor": [
+          "Evita el 'efecto llamada' de regularizaciones periódicas."
+        ],
+        "en_contra": [
+          "Sin arraigo, muchas personas seguirán trabajando sin papeles ni cotizar.",
+          "Sectores como el agrícola o los cuidados dependen de esa mano de obra."
+        ]
+      }
+    },
+    {
+      "id": "pp-019",
+      "tema": "migracion",
+      "subtema": "regularizacion",
+      "titulo": "Visados por puntos y cupos anuales de trabajadores",
+      "resumen": "Visados por puntos (formación, idioma, experiencia); llegar con contrato en origen o visado temporal para buscar empleo; cupos anuales por sectores según el paro y la capacidad de vivienda y servicios, solo con países que colaboren en devoluciones.",
+      "cita": "Fijaremos cupos anuales que determinen cuántos trabajadores pueden venir y para qué sectores. Además, sólo participarán los países que colaboren en los retornos.",
+      "pagina": 19,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Futuros inmigrantes laborales, empresas con falta de mano de obra.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable; similar a Canadá o Australia.",
+        "a_favor": [
+          "Ordena la inmigración según las necesidades del mercado laboral."
+        ],
+        "en_contra": [
+          "La contratación en origen ha funcionado lenta y con pocos volúmenes en España."
+        ]
+      }
+    },
+    {
+      "id": "pp-020",
+      "tema": "migracion",
+      "subtema": "fronteras",
+      "titulo": "Identificación en 7 días y devoluciones rápidas; ejecutar las expulsiones",
+      "resumen": "Identificar en un máximo de 7 días a quien entre irregularmente y tramitar con rapidez asilo o devolución; ampliar el tiempo en CIE; centros de retorno en terceros países; condicionar visados y cooperación a que los países acepten readmisiones; expulsión como regla para condenados por delitos graves.",
+      "cita": "Quienes entren irregularmente por la frontera serán identificados en un máximo de siete días y las devoluciones se producirán sin demora.",
+      "pagina": 18,
+      "concrecion": "alta",
+      "cifra": "Identificación en máx. 7 días",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Personas que llegan de forma irregular; países de origen.",
+        "coste": "Más medios policiales y de internamiento; no cuantificado.",
+        "viabilidad": "Se apoya en el nuevo Pacto Europeo de Migración. Las devoluciones dependen de la cooperación de los países de origen.",
+        "a_favor": [
+          "Hoy solo se ejecuta una pequeña parte de las órdenes de expulsión.",
+          "Alineado con la política europea."
+        ],
+        "en_contra": [
+          "Los 'centros de retorno en terceros países' son controvertidos por posibles vulneraciones de derechos (caso Italia-Albania)."
+        ]
+      }
+    },
+    {
+      "id": "pp-021",
+      "tema": "migracion",
+      "subtema": "fronteras",
+      "titulo": "Menores no acompañados: determinar la edad en 72 h y priorizar el retorno",
+      "resumen": "Determinar la edad en 72 horas, delito de fraude de edad para acceder a protección, priorizar el retorno con la familia en el país de origen y que el Estado asuma la atención inicial en vez del reparto entre CCAA.",
+      "cita": "Promoveremos el regreso de los menores con sus familias como objetivo prioritario.",
+      "pagina": 20,
+      "concrecion": "alta",
+      "cifra": "Determinación de edad en 72 h",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Menores migrantes no acompañados y CCAA (Canarias especialmente).",
+        "coste": "El Estado asumiría la atención inicial.",
+        "viabilidad": "El retorno exige garantías individuales; los tribunales han frenado devoluciones sin ellas.",
+        "a_favor": [
+          "Alivia la saturación de Canarias y Ceuta.",
+          "Combate el fraude de adultos que se declaran menores."
+        ],
+        "en_contra": [
+          "Eliminar el informe individualizado del país de origen reduce garantías para el menor."
+        ]
+      }
+    },
+    {
+      "id": "pp-022",
+      "tema": "migracion",
+      "subtema": "integracion",
+      "titulo": "Compromiso de integración obligatorio y prohibir burka y niqab",
+      "resumen": "Para renovar la residencia habrá que firmar un compromiso de integración (español, Constitución, valores europeos). Prioridad en algunas ayudas por arraigo (empadronamiento, cotización), no solo por nacionalidad. Nueva Ley de Nacionalidad más exigente.",
+      "cita": "Será obligatorio aprender español, conocer la Constitución y los valores de la Unión Europea y, cuando corresponda, formarse para el empleo.",
+      "pagina": 19,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Residentes extranjeros que renuevan permiso.",
+        "coste": "Formación a cargo de las administraciones.",
+        "viabilidad": "Viable; existe en Francia, Alemania o Países Bajos. La prioridad por arraigo se diseña para encajar con la Constitución.",
+        "a_favor": [
+          "La integración lingüística y cívica facilita la convivencia y el empleo."
+        ],
+        "en_contra": [
+          "Si los cursos no son accesibles, puede convertirse en un obstáculo burocrático para renovar."
+        ]
+      }
+    },
+    {
+      "id": "pp-023",
+      "tema": "instituciones",
+      "subtema": "democracia",
+      "titulo": "Derogar la Ley de Amnistía y prohibir indultos como pago político",
+      "resumen": "Derogar la amnistía, nueva Ley del Indulto que impida indultar corrupción, terrorismo o delitos contra el orden constitucional, publicar íntegros los pactos de investidura y no ceder competencias de Estado a cambio de apoyos.",
+      "cita": "Derogaremos la Ley de Amnistía y prohibiremos que el derecho de gracia se utilice como contraprestación política para formar o mantener un Gobierno.",
+      "pagina": 25,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Condenados e investigados por el 'procés'; relación con partidos independentistas.",
+        "coste": "Ninguno.",
+        "viabilidad": "Derogar no anula amnistías ya aplicadas (principio de irretroactividad de lo desfavorable).",
+        "a_favor": [
+          "Evita que la impunidad se use como moneda de cambio.",
+          "Transparencia en los acuerdos de investidura."
+        ],
+        "en_contra": [
+          "Sus defensores consideran la amnistía clave para la normalización en Cataluña."
+        ]
+      }
+    },
+    {
+      "id": "pp-024",
+      "tema": "seguridad",
+      "subtema": "justicia",
+      "titulo": "Fiscal General independiente y jueces que eligen el CGPJ",
+      "resumen": "Fiscal General con mandato único de 5 años que no cesa con el Gobierno y cese automático si es procesado; los jueces eligen los 12 vocales judiciales del CGPJ; 5 años de 'enfriamiento' para jueces que hayan sido políticos; Tribunal Constitucional sin excargos políticos recientes.",
+      "cita": "El fiscal general tendrá un mandato único de cinco años y, como recomienda la Comisión Europea, no cesará con el Gobierno que lo propuso.",
+      "pagina": 26,
+      "concrecion": "alta",
+      "cifra": "Mandato de 5 años",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Poder judicial, Fiscalía, Tribunal Constitucional.",
+        "coste": "Ninguno.",
+        "viabilidad": "Leyes orgánicas: requieren mayoría absoluta.",
+        "a_favor": [
+          "Coincide con recomendaciones de la Comisión Europea y GRECO."
+        ],
+        "en_contra": [
+          "Sus críticos señalan que el PP bloqueó la renovación del CGPJ durante cinco años."
+        ]
+      }
+    },
+    {
+      "id": "pp-025",
+      "tema": "instituciones",
+      "subtema": "democracia",
+      "titulo": "Independencia del CIS, INE, RTVE y reguladores",
+      "resumen": "Refundar el CIS con dirección científica y mandato propio, mandato fijo para el presidente del INE, reforma de RTVE y EFE en 100 días, y responsables de reguladores (CNMC, Banco de España…) sin cargos políticos recientes.",
+      "cita": "Refundaremos el CIS para devolverle su independencia y su prestigio técnico.",
+      "pagina": 27,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Organismos públicos de información y regulación.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Mayor credibilidad de datos y encuestas oficiales."
+        ],
+        "en_contra": [
+          "Todos los gobiernos prometen despolitizar estas instituciones y pocos lo cumplen."
+        ]
+      }
+    },
+    {
+      "id": "pp-026",
+      "tema": "instituciones",
+      "subtema": "democracia",
+      "titulo": "Dos prórrogas presupuestarias obligarán a convocar elecciones",
+      "resumen": "Si un Gobierno prorroga los presupuestos dos años seguidos, se disolverán las Cortes. Además: limitar los decretos-ley, obligar a comparecer al Gobierno y una nueva ley de secretos oficiales.",
+      "cita": "Promoveremos las reformas necesarias para que una segunda prórroga consecutiva provoque la disolución de las Cortes y la convocatoria de elecciones.",
+      "pagina": 26,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Estabilidad de gobiernos en minoría.",
+        "coste": "Elecciones adicionales.",
+        "viabilidad": "Probablemente requiere reforma constitucional.",
+        "a_favor": [
+          "Refuerza la obligación constitucional de presentar presupuestos."
+        ],
+        "en_contra": [
+          "Podría dar a la oposición poder para forzar elecciones bloqueando presupuestos."
+        ]
+      }
+    },
+    {
+      "id": "pp-027",
+      "tema": "instituciones",
+      "subtema": "corrupcion",
+      "titulo": "Restablecer penas por malversación y trazabilidad de todo euro público",
+      "resumen": "Recuperar las penas por malversación reducidas en 2022, reforzar la recuperación de activos, sistema único de trazabilidad de contratos y subvenciones con beneficiarios reales, autoridad de transparencia con poder sancionador y registro obligatorio de lobbies.",
+      "cita": "Restableceremos las penas por malversación. Reforzaremos la Oficina de Recuperación y Gestión de Activos.",
+      "pagina": 28,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Cargos públicos, adjudicatarios de contratos.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Medidas recomendadas por organismos anticorrupción europeos.",
+          "El registro de lobbies es una demanda antigua."
+        ],
+        "en_contra": [
+          "El propio PP ha tenido grandes casos de corrupción (Gürtel); credibilidad cuestionada por sus rivales."
+        ]
+      }
+    },
+    {
+      "id": "pp-028",
+      "tema": "estado",
+      "subtema": "autonomias",
+      "titulo": "Recuperar los delitos de sedición y referéndum ilegal",
+      "resumen": "Volver a incluir en el Código Penal la sedición (adaptada) y la convocatoria de referéndum ilegal; blindar la unidad de la Agencia Tributaria y la caja única de la Seguridad Social.",
+      "cita": "Recuperaremos en el Código Penal el delito de sedición, adaptado a la legislación contemporánea, y el de convocatoria de referéndum ilegal.",
+      "pagina": 15,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Movimientos independentistas.",
+        "coste": "Ninguno.",
+        "viabilidad": "Ley orgánica.",
+        "a_favor": [
+          "Refuerza la respuesta penal ante otro intento como el de 2017."
+        ],
+        "en_contra": [
+          "Puede reavivar la tensión territorial en Cataluña."
+        ]
+      }
+    },
+    {
+      "id": "pp-029",
+      "tema": "estado",
+      "subtema": "lenguas",
+      "titulo": "Castellano en la escuela en toda España y como lengua de trabajo en el Congreso",
+      "resumen": "Garantizar enseñanza en castellano en todas las etapas cumpliendo las sentencias, que los ciudadanos elijan lengua con la Administración, y que el castellano vuelva a ser la lengua de trabajo en el Congreso (las cooficiales se mantienen en el Senado).",
+      "cita": "Garantizaremos el derecho constitucional de recibir enseñanza en castellano en todas las etapas del sistema educativo y en toda la Nación.",
+      "pagina": 32,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Alumnos y diputados de comunidades con lengua cooficial.",
+        "coste": "Bajo.",
+        "viabilidad": "Choca con modelos de inmersión; los tribunales han fijado el 25% en castellano en Cataluña.",
+        "a_favor": [
+          "Protege el derecho a usar la lengua común."
+        ],
+        "en_contra": [
+          "Retirar las lenguas cooficiales del Congreso se percibe como retroceso en el reconocimiento de la pluralidad."
+        ]
+      }
+    },
+    {
+      "id": "pp-030",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Derogar la Ley de Memoria Democrática y aprobar una 'Ley de Concordia'",
+      "resumen": "Sustituir la Ley de Memoria por una de 'concordia' que proteja la investigación histórica y el legado de la Transición, manteniendo la búsqueda de desaparecidos con carácter humanitario.",
+      "cita": "Derogaremos la mal llamada «ley de memoria democrática», corredactada por Bildu.",
+      "pagina": 37,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Víctimas del franquismo y sus familias.",
+        "coste": "Ninguno relevante.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Mantiene las exhumaciones.",
+          "Busca una visión compartida de la historia."
+        ],
+        "en_contra": [
+          "Relatores de la ONU han criticado las 'leyes de concordia' autonómicas por equiparar víctimas y desproteger la memoria."
+        ]
+      }
+    },
+    {
+      "id": "pp-031",
+      "tema": "igualdad",
+      "subtema": "lgtbi",
+      "titulo": "Revisar la Ley Trans: fin de la autodeterminación de sexo en el registro",
+      "resumen": "Eliminar la libre autodeterminación registral del sexo para 'proteger a los menores' y que el sexo biológico rija las categorías deportivas femeninas. Mantiene la lucha contra la LGTBIfobia.",
+      "cita": "Revisaremos las normas que hayan generado inseguridad jurídica en nombre de la igualdad, como la Ley Trans, y eliminaremos la libre autodeterminación registral del sexo.",
+      "pagina": 35,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Personas trans.",
+        "coste": "Ninguno.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Parte del feminismo también critica la autodeterminación por sus efectos en espacios de mujeres."
+        ],
+        "en_contra": [
+          "Colectivos trans lo consideran un retroceso que vuelve a exigir informes médicos."
+        ]
+      }
+    },
+    {
+      "id": "pp-032",
+      "tema": "igualdad",
+      "subtema": "genero",
+      "titulo": "Pulseras antimaltrato fiables y ley integral contra la trata",
+      "resumen": "Que las pulseras de alejamiento dependan de Interior con supervisión continua; integrar servicios autonómicos en VioGen; más medios a unidades especializadas; rendir cuentas del Pacto de Estado; ley integral contra la trata.",
+      "cita": "Garantizaremos la fiabilidad de los dispositivos que vigilan las órdenes de alejamiento. El sistema pasará a depender del Ministerio del Interior.",
+      "pagina": 17,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Víctimas de violencia de género.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Responde a los fallos detectados en las pulseras en 2025.",
+          "Mantiene el Pacto de Estado."
+        ],
+        "en_contra": [
+          "No aborda la prevención o la educación en igualdad."
+        ]
+      }
+    },
+    {
+      "id": "pp-033",
+      "tema": "familia",
+      "subtema": "natalidad",
+      "titulo": "Deducción por hijos reembolsable y abonada cada mes",
+      "resumen": "Unificar las deducciones familiares del IRPF en una sola, cobrable mensualmente incluso por familias que no pagan IRPF; actualizar mínimos familiares con la inflación; declaración conjunta para parejas de hecho; el 'concebido no nacido' computará para ayudas.",
+      "cita": "Refundiremos las deducciones familiares del IRPF en una sola, reembolsable, con un único trámite y abono mensual.",
+      "pagina": 43,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Familias con hijos, incluidas las de rentas bajas.",
+        "coste": "Moderado-alto; no se fija cuantía.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Llega también a quien no tiene cuota suficiente de IRPF.",
+          "Cobro mensual como ayuda directa a la crianza."
+        ],
+        "en_contra": [
+          "No especifica cuánto se cobraría por hijo."
+        ]
+      }
+    },
+    {
+      "id": "pp-034",
+      "tema": "familia",
+      "subtema": "conciliacion",
+      "titulo": "Escuela infantil 0-3 gratuita al final de la legislatura",
+      "resumen": "El Estado financiará la mitad del coste de cada plaza 0-3 (pública o concertada) y las CCAA la otra mitad; será gratuita para todas las familias que la soliciten al acabar la legislatura.",
+      "cita": "Al terminar la legislatura, la etapa será gratuita para todas las familias que la soliciten.",
+      "pagina": 44,
+      "concrecion": "alta",
+      "cifra": "Estado 50% / CCAA 50%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Familias con niños de 0 a 3 años.",
+        "coste": "Elevado; depende de la demanda (miles de millones al año).",
+        "viabilidad": "Requiere acuerdo con todas las CCAA y crear muchas plazas.",
+        "a_favor": [
+          "Favorece la conciliación y la igualdad de oportunidades desde la infancia."
+        ],
+        "en_contra": [
+          "Incluye plazas privadas concertadas, lo que critican quienes prefieren red pública."
+        ]
+      }
+    },
+    {
+      "id": "pp-035",
+      "tema": "familia",
+      "subtema": "conciliacion",
+      "titulo": "Permisos de nacimiento más largos y flexibles; bonos de horas",
+      "resumen": "Ampliar los permisos por nacimiento con flexibilidad para repartirlos; incentivos a contratar personas con hijos pequeños; bonificación del 100% de cuota a autónomos que vuelvan tras el permiso durante dos años; bancos de horas y teletrabajo.",
+      "cita": "Seguiremos avanzando en la ampliación de los permisos por nacimiento de cada progenitor.",
+      "pagina": 44,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Padres y madres trabajadores.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable mediante diálogo social.",
+        "a_favor": [
+          "Mejora la conciliación."
+        ],
+        "en_contra": [
+          "No concreta cuántas semanas más."
+        ]
+      }
+    },
+    {
+      "id": "pp-036",
+      "tema": "familia",
+      "subtema": "infancia",
+      "titulo": "Prohibir redes sociales a menores de 14 años",
+      "resumen": "Ningún menor de 14 años podrá tener cuenta en redes sociales y hasta los 16 necesitará autorización de los padres; verificación de edad obligatoria y sanciones a plataformas según facturación; límites al 'scroll infinito'.",
+      "cita": "Ningún menor de 14 años podrá tener una cuenta en redes sociales, y hasta los 16 necesitará autorización de sus padres.",
+      "pagina": 45,
+      "concrecion": "alta",
+      "cifra": "Prohibido < 14 años",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Menores, familias y plataformas digitales.",
+        "coste": "Bajo para el Estado.",
+        "viabilidad": "La verificación de edad es técnicamente difícil; Australia aplica una prohibición similar desde 2025.",
+        "a_favor": [
+          "Creciente evidencia de daños en salud mental adolescente."
+        ],
+        "en_contra": [
+          "Se puede eludir fácilmente; la verificación plantea problemas de privacidad."
+        ]
+      }
+    },
+    {
+      "id": "pp-037",
+      "tema": "social",
+      "subtema": "pensiones",
+      "titulo": "Pensiones revalorizadas con el IPC cada año",
+      "resumen": "Reconstruir el Pacto de Toledo, garantizar que las pensiones suban cada año con el IPC (también las futuras) e incentivar la jubilación activa con deducciones en IRPF.",
+      "cita": "Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC.",
+      "pagina": 34,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Pensionistas actuales y futuros.",
+        "coste": "Es la ley actual; mantenerla cuesta mucho a medida que se jubila el 'baby boom'.",
+        "viabilidad": "Viable; no explica cómo asegurar la sostenibilidad.",
+        "a_favor": [
+          "Da seguridad a los pensionistas."
+        ],
+        "en_contra": [
+          "No aborda cómo financiar el aumento del gasto en pensiones."
+        ]
+      }
+    },
+    {
+      "id": "pp-038",
+      "tema": "social",
+      "subtema": "dependencia",
+      "titulo": "Estado paga el 50% de la dependencia y deducción del 40% por cuidados",
+      "resumen": "Pacto de Estado por la Dependencia con aportación estatal del 50% del coste público; deducción del 40% de lo pagado por atención profesional a un mayor dependiente; el Estado cotizará por quien deje de trabajar para cuidar.",
+      "cita": "Haremos efectiva la aportación estatal del 50% del coste público del sistema. Las familias se deducirán el 40% de lo que paguen por la atención profesional de un mayor dependiente.",
+      "pagina": 35,
+      "concrecion": "alta",
+      "cifra": "Estado 50%; deducción 40%",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Personas dependientes, familias cuidadoras y CCAA.",
+        "coste": "Alto; hoy el Estado aporta mucho menos del 50%.",
+        "viabilidad": "Viable con presupuesto.",
+        "a_favor": [
+          "Reduce listas de espera de dependencia, muy largas en varias CCAA.",
+          "Reconoce a los cuidadores familiares."
+        ],
+        "en_contra": [
+          "La deducción beneficia más a quien puede pagar cuidados profesionales."
+        ]
+      }
+    },
+    {
+      "id": "pp-039",
+      "tema": "sanidad",
+      "subtema": "atencion-primaria",
+      "titulo": "4.500 médicos más en Atención Primaria y plan de listas de espera",
+      "resumen": "Pacto de Estado por la Sanidad con plan urgente de listas de espera acordado con CCAA; al menos 4.500 médicos más en Primaria; más plazas MIR; ámbito propio de negociación para médicos; reducir guardias.",
+      "cita": "En Atención Primaria, al menos 4.500 médicos más.",
+      "pagina": 52,
+      "concrecion": "alta",
+      "cifra": "+4.500 médicos de familia",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Pacientes y profesionales sanitarios.",
+        "coste": "Alto (salarios), vía nueva financiación autonómica.",
+        "viabilidad": "La gestión sanitaria es autonómica; formar médicos lleva años.",
+        "a_favor": [
+          "La Primaria es el cuello de botella del sistema.",
+          "Cifra concreta y evaluable."
+        ],
+        "en_contra": [
+          "Faltan médicos de familia disponibles para contratar a corto plazo."
+        ]
+      }
+    },
+    {
+      "id": "pp-040",
+      "tema": "sanidad",
+      "subtema": "salud-mental",
+      "titulo": "Plan Nacional de Salud Mental 2027-2037 con financiación garantizada",
+      "resumen": "Más profesionales de salud mental, atención psicológica desde Primaria con prioridad a infancia, adolescencia y suicidio, y estrategia frente a adicciones.",
+      "cita": "Aprobaremos un Plan Nacional de Salud Mental 2027-2037, con financiación garantizada.",
+      "pagina": 53,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas con problemas de salud mental.",
+        "coste": "No cuantificado.",
+        "viabilidad": "Gestión autonómica.",
+        "a_favor": [
+          "España tiene muy pocos psicólogos en la sanidad pública frente a la media europea."
+        ],
+        "en_contra": [
+          "No fija cuántos profesionales."
+        ]
+      }
+    },
+    {
+      "id": "pp-041",
+      "tema": "sanidad",
+      "subtema": "prestaciones",
+      "titulo": "Ley nacional de cuidados paliativos",
+      "resumen": "Garantizar acceso universal a paliativos (incluidos pediátricos y domiciliarios) para que nadie se vea 'empujado a la aceleración de la muerte por falta de alternativas'. Deducciones por gastos de enfermedades graves y celiaquía.",
+      "cita": "Aprobaremos una ley nacional de cuidados paliativos con el fin de que nadie se vea empujado a la aceleración de la muerte por falta de alternativas.",
+      "pagina": 54,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Enfermos terminales y familias.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "La cobertura de paliativos es desigual y deficitaria."
+        ],
+        "en_contra": [
+          "El programa no dice si mantendrá o modificará la ley de eutanasia."
+        ]
+      }
+    },
+    {
+      "id": "pp-042",
+      "tema": "educacion",
+      "subtema": "modelo-educativo",
+      "titulo": "Sustituir la LOMLOE y pasar de curso solo con todo aprobado en la ESO",
+      "resumen": "Nuevo marco educativo que sustituya a la LOMLOE; en la ESO se pasará de curso con las asignaturas aprobadas y refuerzo obligatorio antes de repetir; detección temprana en lectura y cálculo; objetivo: mejor resultado en PISA en cuatro años; PAU común en toda España.",
+      "cita": "En la ESO volverá a pasarse de curso con las asignaturas aprobadas.",
+      "pagina": 51,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Alumnos, docentes y CCAA.",
+        "coste": "Refuerzos educativos con coste.",
+        "viabilidad": "Viable; otra ley educativa más.",
+        "a_favor": [
+          "Más exigencia; responde a malos resultados en PISA 2022."
+        ],
+        "en_contra": [
+          "La repetición tiene mala evidencia en investigación educativa; la inestabilidad legislativa es un problema en sí."
+        ]
+      }
+    },
+    {
+      "id": "pp-043",
+      "tema": "educacion",
+      "subtema": "modelo-educativo",
+      "titulo": "Libre elección de colegio y conciertos que cubran el coste real",
+      "resumen": "La demanda de las familias contará para programar plazas; no se eliminará ningún concierto con demanda; conciertos de al menos 6 años con módulos que cubran el coste real; no cerrar centros de educación especial.",
+      "cita": "Los padres elegirán colegio, y ningún concierto educativo se eliminará donde haya demanda suficiente.",
+      "pagina": 51,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Familias, escuela concertada y pública.",
+        "coste": "Subir los módulos de concierto tiene coste.",
+        "viabilidad": "Competencia compartida con CCAA.",
+        "a_favor": [
+          "Las familias valoran poder elegir centro.",
+          "Acabar con cuotas 'voluntarias' en la concertada."
+        ],
+        "en_contra": [
+          "Defensores de la pública temen trasvase de recursos y más segregación."
+        ]
+      }
+    },
+    {
+      "id": "pp-044",
+      "tema": "educacion",
+      "subtema": "universidad",
+      "titulo": "Beca como derecho por ley y FP de alta demanda sin matrícula",
+      "resumen": "La beca será un derecho legal para quien la necesite y apruebe; matrícula gratuita en ciclos de FP de alta demanda; becas de excelencia; más plazas de FP según un mapa nacional de empleo.",
+      "cita": "La beca será un derecho por ley para quien la necesite y apruebe.",
+      "pagina": 52,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Estudiantes de FP y universidad.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Da seguridad jurídica a los becarios."
+        ],
+        "en_contra": [
+          "No precisa cuantías de las becas."
+        ]
+      }
+    },
+    {
+      "id": "pp-045",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Eliminar el cierre de las nucleares en los primeros 100 días",
+      "resumen": "Tramitar la extensión de Almaraz, Ascó, Vandellós, Cofrentes y Trillo con el aval del CSN; estrategia nuclear y participación en pequeños reactores modulares; neutralidad tecnológica.",
+      "cita": "Eliminaremos el calendario de cierre de Almaraz, Ascó, Vandellós, Cofrentes y Trillo. En los primeros cien días de Gobierno tramitaremos la extensión de su vida útil.",
+      "pagina": 54,
+      "concrecion": "alta",
+      "cifra": "En 100 días",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Sistema eléctrico, comarcas con centrales.",
+        "coste": "Inversiones de las eléctricas para alargar su vida; impuestos nucleares en discusión.",
+        "viabilidad": "Requiere que las eléctricas lo soliciten y el visto bueno del CSN.",
+        "a_favor": [
+          "Aporta estabilidad a la red tras el apagón de abril de 2025.",
+          "Sin emisiones de CO2."
+        ],
+        "en_contra": [
+          "Retrasa el problema de los residuos.",
+          "Las eléctricas piden rebajas fiscales para que les salga rentable."
+        ]
+      }
+    },
+    {
+      "id": "pp-046",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Quitar el impuesto del 7% a la generación eléctrica y Tarifa Social Única",
+      "resumen": "Eliminar de inmediato el impuesto del 7% a la producción eléctrica, reducir la carga fiscal del recibo, abaratar los servicios de ajuste, Tarifa Social Única para hogares vulnerables y compensación automática por apagones.",
+      "cita": "Eliminaremos de inmediato el impuesto del 7% a la producción eléctrica y reduciremos la carga fiscal del recibo.",
+      "pagina": 54,
+      "concrecion": "alta",
+      "cifra": "Fin del impuesto del 7%",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Consumidores y eléctricas.",
+        "coste": "El impuesto recauda en torno a 1.500-2.000 M€/año.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Abarata la factura.",
+          "Simplifica bonos sociales poco conocidos."
+        ],
+        "en_contra": [
+          "No está garantizado que la rebaja llegue íntegra al consumidor."
+        ]
+      }
+    },
+    {
+      "id": "pp-047",
+      "tema": "medio-ambiente",
+      "subtema": "clima",
+      "titulo": "Revisar el ritmo de la transición climática 'sin dogmatismos'",
+      "resumen": "Mantiene la descarbonización como objetivo irrenunciable pero revisando los calendarios por sectores según lo que haga el resto del mundo, la tecnología disponible y la demanda; retirar obligaciones que perjudiquen la competitividad.",
+      "cita": "Pondremos freno a la imposición de calendarios imposibles.",
+      "pagina": 55,
+      "concrecion": "baja",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Industria, transporte, agricultura.",
+        "coste": "Indeterminado.",
+        "viabilidad": "Los grandes objetivos son europeos.",
+        "a_favor": [
+          "Evita costes excesivos para hogares e industria."
+        ],
+        "en_contra": [
+          "Retrasar la transición puede salir más caro a largo plazo y aumentar la exposición a los impactos climáticos."
+        ]
+      }
+    },
+    {
+      "id": "pp-048",
+      "tema": "movilidad",
+      "subtema": "infraestructuras",
+      "titulo": "Plan de infraestructuras de 300.000 M€ en 15 años y prioridad al mantenimiento",
+      "resumen": "Movilizar con el sector privado más de 300.000 M€ en 15 años en autovías, AVE, Cercanías, agua y energía; priorizar mantenimiento y seguridad; revisar las más de 1.000 limitaciones temporales de velocidad; indemnizaciones por retrasos efectivas.",
+      "cita": "Movilizaremos, junto con el sector privado, más de 300.000 millones en los próximos 15 años.",
+      "pagina": 36,
+      "concrecion": "alta",
+      "cifra": "300.000 M€ en 15 años",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Usuarios de tren y carreteras, sector construcción.",
+        "coste": "20.000 M€/año de media, parte privada (no se dice cuánta).",
+        "viabilidad": "Depende de la participación privada (peajes, concesiones).",
+        "a_favor": [
+          "El deterioro de la red ferroviaria y de carreteras es evidente."
+        ],
+        "en_contra": [
+          "La participación privada puede implicar peajes o pagos futuros del Estado."
+        ]
+      }
+    },
+    {
+      "id": "pp-049",
+      "tema": "medio-ambiente",
+      "subtema": "agua",
+      "titulo": "Pacto Nacional del Agua con 40.000 M€ hasta 2030",
+      "resumen": "Inversión de hasta 40.000 M€ en regadíos, desalación, reutilización, presas donde estén justificadas y prevención de inundaciones, especialmente en el Mediterráneo.",
+      "cita": "Movilizaremos hasta 40.000 millones de euros en inversiones hasta 2030.",
+      "pagina": 37,
+      "concrecion": "alta",
+      "cifra": "40.000 M€ hasta 2030",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Agricultura, ciudades del arco mediterráneo, zonas inundables.",
+        "coste": "40.000 M€.",
+        "viabilidad": "Plazo corto para obras hidráulicas grandes.",
+        "a_favor": [
+          "Respuesta a la DANA de Valencia y a sequías recurrentes."
+        ],
+        "en_contra": [
+          "Nuevos regadíos pueden aumentar la demanda total de agua."
+        ]
+      }
+    },
+    {
+      "id": "pp-050",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Multirreincidencia, desórdenes públicos y narcotráfico",
+      "resumen": "Juicios rápidos para multirreincidentes en hurtos; endurecer desórdenes públicos y recuperar la agravante de rostro cubierto; multa mínima de 3.000 € por vandalismo; unidad permanente contra el narco en la frontera sur; prisión permanente revisable para quien oculte el cadáver y violadores reincidentes.",
+      "cita": "Impediremos que nadie haga del hurto y la ocupación un modo de vida.",
+      "pagina": 16,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Delincuentes reincidentes, manifestantes, víctimas.",
+        "coste": "Más medios judiciales y policiales.",
+        "viabilidad": "Viable (algunas reformas ya en trámite en 2025).",
+        "a_favor": [
+          "La multirreincidencia en hurtos es un problema real en grandes ciudades."
+        ],
+        "en_contra": [
+          "Endurecer desórdenes públicos preocupa por su efecto sobre el derecho de manifestación."
+        ]
+      }
+    },
+    {
+      "id": "pp-051",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Mando único de emergencias y Ley de Reconstrucción",
+      "resumen": "Reforma de Protección Civil con un mando único estatal que actúe sin esperar a que la comunidad lo pida; ayudas preparadas antes de cada catástrofe, primera ayuda inmediata exenta de impuestos; más brigadas y medios aéreos contra incendios.",
+      "cita": "El Gobierno central actuará desde el primer momento, sin esperar a que se lo pidan.",
+      "pagina": 20,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Población en zonas de riesgo; CCAA (competentes hoy en emergencias).",
+        "coste": "Moderado.",
+        "viabilidad": "Implica redefinir competencias autonómicas.",
+        "a_favor": [
+          "Lección de la DANA de 2024: descoordinación entre administraciones."
+        ],
+        "en_contra": [
+          "Centralizar puede chocar con el autogobierno y no garantiza mejor respuesta."
+        ]
+      }
+    },
+    {
+      "id": "pp-052",
+      "tema": "exterior",
+      "subtema": "defensa",
+      "titulo": "Ley de programación de la defensa y más efectivos militares",
+      "resumen": "Ley plurianual de financiación de la defensa para cumplir compromisos con aliados, aprobados por las Cortes; más militares, profesión de riesgo y mejores sueldos; industria de defensa con prioridad en drones, antiaérea y munición.",
+      "cita": "Aprobaremos una ley de programación y financiación de la defensa, con objetivos de personal y material a medio y largo plazo.",
+      "pagina": 21,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Fuerzas Armadas, industria de defensa.",
+        "coste": "No fija porcentaje de PIB.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Da previsibilidad y control parlamentario al gasto militar."
+        ],
+        "en_contra": [
+          "No dice si asume el objetivo OTAN del 3,5-5% del PIB ni cómo pagarlo."
+        ]
+      }
+    },
+    {
+      "id": "pp-053",
+      "tema": "exterior",
+      "subtema": "politica-exterior",
+      "titulo": "Apoyo a Ucrania, vínculo atlántico y 'equilibrio' con Marruecos y Argelia",
+      "resumen": "Mantener apoyo militar y sanciones a Rusia; relación fuerte con EE.UU.; volver al equilibrio con Marruecos y Argelia; apoyar a la ONU en el Sáhara; pedir paz y protección de civiles en Gaza con Israel y países árabes como socios; condena de Cuba, Venezuela y Nicaragua.",
+      "cita": "Estaremos siempre con Ucrania frente a Rusia.",
+      "pagina": 56,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Política exterior.",
+        "coste": "Ayuda a Ucrania.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Línea alineada con la mayoría de socios europeos."
+        ],
+        "en_contra": [
+          "Sobre Gaza, no plantea medidas como sanciones o embargo de armas a Israel."
+        ]
+      }
+    },
+    {
+      "id": "pp-054",
+      "tema": "territorio",
+      "subtema": "agro",
+      "titulo": "Pacto Nacional del Campo, PAC sin recortes y seguro de rentas agrarias",
+      "resumen": "Pacto nacional con el sector; defender la PAC y la pesca sin recortes en el presupuesto 2028-34; seguro de ingresos frente a crisis de mercado; repartir fiscalmente ingresos de buenas cosechas entre años; exigir a importaciones los mismos estándares; protección frente al lobo; defensa de la caza.",
+      "cita": "Mantendremos la financiación de la PAC, la pesca y el programa POSEI de apoyo a las regiones ultraperiféricas en el nuevo marco financiero plurianual 2028-2034.",
+      "pagina": 49,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Agricultores, ganaderos, pescadores.",
+        "coste": "Moderado.",
+        "viabilidad": "La PAC se decide en Bruselas.",
+        "a_favor": [
+          "Da estabilidad de ingresos a un sector muy volátil."
+        ],
+        "en_contra": [
+          "Flexibilizar la protección del lobo preocupa a los conservacionistas."
+        ]
+      }
+    },
+    {
+      "id": "pp-055",
+      "tema": "territorio",
+      "subtema": "rural",
+      "titulo": "Menos impuestos en el medio rural y ayudas a municipios de menos de 250 habitantes",
+      "resumen": "Bajar impuestos a quien vive y produce en zonas rurales; jóvenes sin impuestos al comprar vivienda en municipios despoblados; ayudas directas a municipios de menos de 250 habitantes; Estatuto de Pequeños Municipios.",
+      "cita": "Bajaremos los impuestos a quienes viven, invierten y producen en el medio rural.",
+      "pagina": 49,
+      "concrecion": "media",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Habitantes y municipios rurales.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Ayuda a fijar población."
+        ],
+        "en_contra": [
+          "La evidencia sobre incentivos fiscales contra la despoblación es limitada."
+        ]
+      }
+    },
+    {
+      "id": "pp-056",
+      "tema": "economia",
+      "subtema": "ciencia",
+      "titulo": "Zonas de innovación estratégica y 20% de IRPF para talento tecnológico",
+      "resumen": "Zonas con suelo, conexión eléctrica garantizada y fiscalidad favorable durante 7 años para IA, semiconductores, biotecnología o baterías; profesionales de grandes proyectos tecnológicos tributarán al 20% seis años; más deducción por I+D.",
+      "cita": "Los profesionales que vengan a trabajar en grandes proyectos tecnológicos tributarán al 20% durante seis años.",
+      "pagina": 48,
+      "concrecion": "alta",
+      "cifra": "IRPF 20% durante 6 años",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Empresas tecnológicas e investigadores.",
+        "coste": "Menos recaudación.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Atrae inversión y talento en sectores estratégicos."
+        ],
+        "en_contra": [
+          "Regímenes fiscales especiales ('ley Beckham') generan agravio con trabajadores locales."
+        ]
+      }
+    },
+    {
+      "id": "pp-057",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Nueva Ley de Mecenazgo, Premio Nacional de Tauromaquia y Mundial 2030",
+      "resumen": "Corregir 'sesgos ideológicos' en ayudas culturales, nueva Ley de Mecenazgo, restituir el Premio Nacional de Tauromaquia, reforzar el Instituto Cervantes y defender que la final del Mundial 2030 se juegue en España.",
+      "cita": "Recuperaremos el respeto y la promoción de las expresiones que mejor combinan tradición y futuro, empezando por la restitución del Premio Nacional de Tauromaquia.",
+      "pagina": 38,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Sector cultural y taurino.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "El mecenazgo en España es muy inferior al de otros países europeos."
+        ],
+        "en_contra": [
+          "La tauromaquia divide a la opinión pública."
+        ]
+      }
+    },
+    {
+      "id": "pp-b01",
+      "tema": "animales",
+      "subtema": "silvestres",
+      "titulo": "Defender la caza y reducir sus trabas",
+      "resumen": "Respalda la caza sostenible por su papel en la economía de los pueblos y la biodiversidad.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Reduciremos las trabas a la caza sostenible y respaldaremos su contribución a la economía de los pueblos y al mantenimiento de la biodiversidad.",
+      "pagina": 51
+    },
+    {
+      "id": "pp-b02",
+      "tema": "animales",
+      "subtema": "silvestres",
+      "titulo": "Proteger a los ganaderos frente al lobo",
+      "resumen": "Protección de los ganaderos frente al lobo 'asegurando su conservación' con criterios técnicos (no plantea la protección estricta).",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Garantizaremos la protección de los ganaderos frente al lobo asegurando, al mismo tiempo, su conservación y equilibrio con criterios técnicos.",
+      "pagina": 49
+    },
+    {
+      "id": "pp-b03",
+      "tema": "animales",
+      "subtema": "tauromaquia",
+      "titulo": "Recuperar el Premio Nacional de Tauromaquia",
+      "resumen": "Promociona la tauromaquia como tradición, empezando por restituir el premio nacional eliminado.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Recuperaremos el respeto y la promoción de las expresiones que mejor combinan tradición y futuro, empezando por la restitución del Premio Nacional de Tauromaquia.",
+      "pagina": 38
+    },
+    {
+      "id": "pp-b04",
+      "tema": "digital",
+      "subtema": "ia",
+      "titulo": "IA en la economía real: entornos de prueba sin cargas extra",
+      "resumen": "Aplicaciones de IA listas para pymes, entornos de prueba sin normas nacionales añadidas a las europeas y respuesta en 30 días; la agencia de supervisión de IA (AESIA) acompañará más que vigilará.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Habrá entornos de prueba seguros, sin cargas nacionales añadidas al marco europeo, y respuesta a los trámites en treinta días.",
+      "pagina": 48
+    },
+    {
+      "id": "pp-b05",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "'Cultura en libertad': fin de la 'cultura de la cancelación'",
+      "resumen": "Corregir 'sesgos ideológicos' en ayudas culturales, pluralidad en jurados e instituciones; reforzar el Instituto Cervantes y la promoción del español.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Corregiremos los sesgos ideológicos que han excluido del apoyo institucional a determinados proyectos culturales y acabaremos con la censura y la cultura de la cancelación.",
+      "pagina": 38
+    },
+    {
+      "id": "pp-b06",
+      "tema": "cultura",
+      "subtema": "deporte",
+      "titulo": "Que la final del Mundial 2030 sea en España",
+      "resumen": "Más financiación y mecenazgo deportivo, cotización para deportistas de alto nivel y condicionar la participación en el Mundial 2030 a albergar la final.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Defenderemos que España albergue la final del Mundial de fútbol de 2030 y condicionaremos a ello nuestra participación en la competición.",
+      "pagina": 39
+    },
+    {
+      "id": "pp-b07",
+      "tema": "social",
+      "subtema": "discapacidad",
+      "titulo": "Pensiones de discapacidad compatibles con el empleo",
+      "resumen": "Atención temprana, asistencia personal, compatibilizar pensión de discapacidad y trabajo, jubilación anticipada para personas con síndrome de Down y apoyo a familias con autismo.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Haremos compatibles las pensiones de discapacidad con el empleo y ampliaremos los apoyos para adaptar los puestos de trabajo.",
+      "pagina": 35
+    },
+    {
+      "id": "pp-b08",
+      "tema": "territorio",
+      "subtema": "islas",
+      "titulo": "Compensar la insularidad",
+      "resumen": "Conexiones aéreas y marítimas suficientes para Canarias, Baleares, Ceuta y Melilla e incentivos para empleados públicos en islas.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Compensaremos las desventajas de la insularidad y la ultraperiferia y tendremos en cuenta sus costes en las leyes, los planes y las inversiones del Estado.",
+      "pagina": 34
+    }
+  ],
+  "orden": 1
+}

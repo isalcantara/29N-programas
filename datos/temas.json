@@ -1,0 +1,458 @@
+[
+  {
+    "id": "vivienda",
+    "nombre": "Vivienda",
+    "icono": "🏠",
+    "descripcion": "Acceso a la vivienda, alquiler, compra, vivienda pública, okupación y suelo.",
+    "subtemas": [
+      {
+        "id": "alquiler",
+        "nombre": "Alquiler y precios"
+      },
+      {
+        "id": "vivienda-publica",
+        "nombre": "Vivienda pública y social"
+      },
+      {
+        "id": "compra",
+        "nombre": "Compra y acceso para jóvenes"
+      },
+      {
+        "id": "suelo",
+        "nombre": "Suelo, construcción y vivienda vacía"
+      },
+      {
+        "id": "okupacion",
+        "nombre": "Okupación y desahucios"
+      }
+    ]
+  },
+  {
+    "id": "economia",
+    "nombre": "Economía y precios",
+    "icono": "💼",
+    "descripcion": "Crecimiento, empresas, autónomos, industria, ciencia, digitalización y coste de la vida.",
+    "subtemas": [
+      {
+        "id": "precios",
+        "nombre": "Coste de la vida y precios"
+      },
+      {
+        "id": "empresas",
+        "nombre": "Empresas, autónomos y burocracia"
+      },
+      {
+        "id": "modelo-productivo",
+        "nombre": "Industria y modelo productivo"
+      },
+      {
+        "id": "ciencia",
+        "nombre": "Ciencia, innovación y digitalización"
+      }
+    ]
+  },
+  {
+    "id": "trabajo",
+    "nombre": "Trabajo y salarios",
+    "icono": "🛠️",
+    "descripcion": "Jornada laboral, salarios, contratos, despido, desempleo y derechos laborales.",
+    "subtemas": [
+      {
+        "id": "jornada",
+        "nombre": "Jornada y tiempo de trabajo"
+      },
+      {
+        "id": "salarios",
+        "nombre": "Salarios"
+      },
+      {
+        "id": "contratos",
+        "nombre": "Contratos, despido y derechos"
+      },
+      {
+        "id": "desempleo",
+        "nombre": "Desempleo y políticas de empleo"
+      }
+    ]
+  },
+  {
+    "id": "fiscalidad",
+    "nombre": "Impuestos y cuentas públicas",
+    "icono": "🧾",
+    "descripcion": "IRPF, impuestos a empresas y patrimonios, IVA, fraude fiscal, gasto y deuda.",
+    "subtemas": [
+      {
+        "id": "irpf",
+        "nombre": "IRPF y rentas del trabajo"
+      },
+      {
+        "id": "empresas-fiscal",
+        "nombre": "Impuestos a empresas y banca"
+      },
+      {
+        "id": "patrimonio",
+        "nombre": "Patrimonio, herencias y grandes fortunas"
+      },
+      {
+        "id": "iva",
+        "nombre": "IVA e impuestos al consumo"
+      },
+      {
+        "id": "fraude",
+        "nombre": "Fraude fiscal"
+      },
+      {
+        "id": "gasto",
+        "nombre": "Gasto público, deuda y financiación autonómica"
+      }
+    ]
+  },
+  {
+    "id": "sanidad",
+    "nombre": "Sanidad",
+    "icono": "🩺",
+    "descripcion": "Sistema sanitario público, listas de espera, atención primaria, salud mental, farmacia.",
+    "subtemas": [
+      {
+        "id": "listas-espera",
+        "nombre": "Listas de espera y acceso"
+      },
+      {
+        "id": "atencion-primaria",
+        "nombre": "Atención primaria y profesionales"
+      },
+      {
+        "id": "salud-mental",
+        "nombre": "Salud mental"
+      },
+      {
+        "id": "gestion",
+        "nombre": "Modelo de gestión (pública / privada)"
+      },
+      {
+        "id": "prestaciones",
+        "nombre": "Nuevas prestaciones (dental, visión…)"
+      }
+    ]
+  },
+  {
+    "id": "educacion",
+    "nombre": "Educación",
+    "icono": "🎓",
+    "descripcion": "Educación infantil, escuela, FP, universidad, becas y lenguas en la escuela.",
+    "subtemas": [
+      {
+        "id": "infantil",
+        "nombre": "Educación infantil (0-3)"
+      },
+      {
+        "id": "escuela",
+        "nombre": "Primaria y secundaria"
+      },
+      {
+        "id": "fp",
+        "nombre": "Formación profesional"
+      },
+      {
+        "id": "universidad",
+        "nombre": "Universidad y becas"
+      },
+      {
+        "id": "modelo-educativo",
+        "nombre": "Modelo educativo, concertada y libertad de elección"
+      }
+    ]
+  },
+  {
+    "id": "social",
+    "nombre": "Pensiones y protección social",
+    "icono": "🤝",
+    "descripcion": "Pensiones, dependencia y cuidados, pobreza, ingreso mínimo, discapacidad.",
+    "subtemas": [
+      {
+        "id": "pensiones",
+        "nombre": "Pensiones"
+      },
+      {
+        "id": "dependencia",
+        "nombre": "Dependencia y cuidados"
+      },
+      {
+        "id": "pobreza",
+        "nombre": "Pobreza y rentas mínimas"
+      },
+      {
+        "id": "discapacidad",
+        "nombre": "Discapacidad e inclusión"
+      }
+    ]
+  },
+  {
+    "id": "familia",
+    "nombre": "Familia, infancia y juventud",
+    "icono": "👨‍👩‍👧",
+    "descripcion": "Natalidad, permisos, crianza, infancia, juventud y conciliación.",
+    "subtemas": [
+      {
+        "id": "natalidad",
+        "nombre": "Natalidad y ayudas por hijo"
+      },
+      {
+        "id": "conciliacion",
+        "nombre": "Permisos y conciliación"
+      },
+      {
+        "id": "infancia",
+        "nombre": "Infancia y adolescencia"
+      },
+      {
+        "id": "juventud",
+        "nombre": "Juventud"
+      }
+    ]
+  },
+  {
+    "id": "igualdad",
+    "nombre": "Igualdad, derechos y libertades",
+    "icono": "⚖️",
+    "descripcion": "Igualdad de género, violencia machista, LGTBI, aborto, eutanasia, memoria, libertades.",
+    "subtemas": [
+      {
+        "id": "genero",
+        "nombre": "Igualdad de género y violencia"
+      },
+      {
+        "id": "lgtbi",
+        "nombre": "LGTBI"
+      },
+      {
+        "id": "vida",
+        "nombre": "Aborto, eutanasia y bioética"
+      },
+      {
+        "id": "libertades",
+        "nombre": "Libertades, memoria y diversidad"
+      }
+    ]
+  },
+  {
+    "id": "migracion",
+    "nombre": "Inmigración",
+    "icono": "🧳",
+    "descripcion": "Control de fronteras, regularización, integración, asilo y acceso a prestaciones.",
+    "subtemas": [
+      {
+        "id": "fronteras",
+        "nombre": "Fronteras, expulsiones e irregularidad"
+      },
+      {
+        "id": "regularizacion",
+        "nombre": "Regularización y vías legales"
+      },
+      {
+        "id": "integracion",
+        "nombre": "Integración y acceso a servicios"
+      }
+    ]
+  },
+  {
+    "id": "medio-ambiente",
+    "nombre": "Energía y medio ambiente",
+    "icono": "🌱",
+    "descripcion": "Energía y factura eléctrica, nuclear, cambio climático, agua, animales.",
+    "subtemas": [
+      {
+        "id": "energia",
+        "nombre": "Energía y factura"
+      },
+      {
+        "id": "clima",
+        "nombre": "Cambio climático y transición"
+      },
+      {
+        "id": "agua",
+        "nombre": "Agua"
+      },
+      {
+        "id": "naturaleza",
+        "nombre": "Naturaleza, residuos y animales"
+      }
+    ]
+  },
+  {
+    "id": "territorio",
+    "nombre": "Campo, mundo rural e islas",
+    "icono": "🌾",
+    "descripcion": "Agricultura, ganadería, pesca, caza y despoblación. También Canarias y Baleares.",
+    "subtemas": [
+      {
+        "id": "agro",
+        "nombre": "Agricultura, ganadería y pesca"
+      },
+      {
+        "id": "rural",
+        "nombre": "Mundo rural y despoblación"
+      },
+      {
+        "id": "islas",
+        "nombre": "Insularidad (Canarias y Baleares)"
+      }
+    ]
+  },
+  {
+    "id": "movilidad",
+    "nombre": "Transporte e infraestructuras",
+    "icono": "🚆",
+    "descripcion": "Tren, transporte público, carreteras, abono único, infraestructuras.",
+    "subtemas": [
+      {
+        "id": "transporte-publico",
+        "nombre": "Transporte público y tren"
+      },
+      {
+        "id": "infraestructuras",
+        "nombre": "Carreteras e infraestructuras"
+      }
+    ]
+  },
+  {
+    "id": "seguridad",
+    "nombre": "Seguridad y justicia",
+    "icono": "🛡️",
+    "descripcion": "Seguridad ciudadana, policía, delitos, justicia, poder judicial.",
+    "subtemas": [
+      {
+        "id": "seguridad-ciudadana",
+        "nombre": "Seguridad ciudadana y delitos"
+      },
+      {
+        "id": "justicia",
+        "nombre": "Justicia y poder judicial"
+      }
+    ]
+  },
+  {
+    "id": "instituciones",
+    "nombre": "Instituciones y corrupción",
+    "icono": "🏛️",
+    "descripcion": "Corrupción, transparencia, administración pública, ley electoral, medios públicos.",
+    "subtemas": [
+      {
+        "id": "corrupcion",
+        "nombre": "Corrupción y transparencia"
+      },
+      {
+        "id": "administracion",
+        "nombre": "Administración pública"
+      },
+      {
+        "id": "democracia",
+        "nombre": "Sistema electoral y calidad democrática"
+      }
+    ]
+  },
+  {
+    "id": "estado",
+    "nombre": "Modelo de Estado",
+    "icono": "🗺️",
+    "descripcion": "Autonomías, plurinacionalidad, Cataluña, monarquía/república, lenguas, Ceuta y Melilla.",
+    "subtemas": [
+      {
+        "id": "autonomias",
+        "nombre": "Autonomías y plurinacionalidad"
+      },
+      {
+        "id": "forma-estado",
+        "nombre": "Constitución, monarquía y república"
+      },
+      {
+        "id": "lenguas",
+        "nombre": "Lenguas"
+      },
+      {
+        "id": "ceuta-melilla",
+        "nombre": "Ceuta y Melilla"
+      }
+    ]
+  },
+  {
+    "id": "exterior",
+    "nombre": "Defensa y política exterior",
+    "icono": "🌍",
+    "descripcion": "Gasto en defensa, OTAN, guerras, Unión Europea, cooperación, relaciones internacionales.",
+    "subtemas": [
+      {
+        "id": "defensa",
+        "nombre": "Defensa y OTAN"
+      },
+      {
+        "id": "politica-exterior",
+        "nombre": "Política exterior y conflictos"
+      },
+      {
+        "id": "ue",
+        "nombre": "Unión Europea"
+      }
+    ]
+  },
+  {
+    "id": "animales",
+    "nombre": "Bienestar animal",
+    "icono": "🐾",
+    "descripcion": "Animales de compañía, maltrato, granjas, caza, zoos, espectáculos y tauromaquia.",
+    "subtemas": [
+      {
+        "id": "compania",
+        "nombre": "Animales de compañía y maltrato"
+      },
+      {
+        "id": "granja",
+        "nombre": "Animales de granja y alimentación"
+      },
+      {
+        "id": "silvestres",
+        "nombre": "Fauna, caza, zoos y espectáculos"
+      },
+      {
+        "id": "tauromaquia",
+        "nombre": "Tauromaquia"
+      }
+    ]
+  },
+  {
+    "id": "digital",
+    "nombre": "Tecnología, IA y medios",
+    "icono": "💻",
+    "descripcion": "Inteligencia artificial, grandes plataformas, redes sociales, ciencia, medios de comunicación y desinformación.",
+    "subtemas": [
+      {
+        "id": "ia",
+        "nombre": "IA y plataformas digitales"
+      },
+      {
+        "id": "ciencia",
+        "nombre": "Ciencia e I+D"
+      },
+      {
+        "id": "medios",
+        "nombre": "Medios y desinformación"
+      }
+    ]
+  },
+  {
+    "id": "cultura",
+    "nombre": "Cultura y deporte",
+    "icono": "🎭",
+    "descripcion": "Cultura, patrimonio, tauromaquia, medios y deporte.",
+    "subtemas": [
+      {
+        "id": "cultura-general",
+        "nombre": "Cultura y patrimonio"
+      },
+      {
+        "id": "deporte",
+        "nombre": "Deporte"
+      }
+    ]
+  }
+]

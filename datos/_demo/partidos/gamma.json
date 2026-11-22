@@ -1,0 +1,122 @@
+{
+  "id": "gamma",
+  "nombre": "Partido Gamma (DEMO)",
+  "siglas": "GAMMA",
+  "color": "#3c9d5d",
+  "fuente": "demo-gamma.pdf",
+  "resumen": "Partido ficticio de ejemplo. Centrado en transición ecológica, mundo rural y medidas de vivienda mixtas.",
+  "ideas_fuerza": ["Transición ecológica", "Equilibrio territorial", "Vivienda vacía al mercado"],
+  "propuestas": [
+    {
+      "id": "gamma-001",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Recargo a viviendas vacías de grandes tenedores",
+      "resumen": "Recargo en el IBI a viviendas vacías más de 2 años propiedad de quienes tengan más de 10 inmuebles.",
+      "cita": "Las viviendas vacías de grandes tenedores pagarán un recargo para incentivar su salida al mercado.",
+      "pagina": 12,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Grandes propietarios (fondos, bancos, empresas).",
+        "coste": "Genera ingresos municipales.",
+        "viabilidad": "Requiere censo fiable de vivienda vacía, hoy difícil de elaborar.",
+        "a_favor": ["Moviliza viviendas existentes sin construir.", "No afecta a pequeños propietarios."],
+        "en_contra": ["Difícil de inspeccionar y probar que una vivienda está vacía.", "El número de viviendas movilizadas puede ser pequeño."]
+      }
+    },
+    {
+      "id": "gamma-002",
+      "tema": "vivienda",
+      "subtema": "compra",
+      "titulo": "Aval público del 20% de la hipoteca para menores de 35",
+      "resumen": "La administración avalará la parte de la hipoteca que los bancos no financian (hasta el 20%) para jóvenes.",
+      "cita": "Avalaremos la entrada de la primera vivienda para menores de 35 años.",
+      "pagina": 13,
+      "concrecion": "alta",
+      "cifra": "Aval hasta 20%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Jóvenes con ingresos estables pero sin ahorro previo.",
+        "coste": "Riesgo de impago asumido por la administración.",
+        "viabilidad": "Viable; existen programas similares.",
+        "a_favor": ["Elimina la principal barrera de acceso: la entrada."],
+        "en_contra": ["Puede empujar los precios al alza al aumentar la demanda.", "No ayuda a quien no tiene ingresos estables."]
+      }
+    },
+    {
+      "id": "gamma-003",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Autoconsumo solar en todos los edificios públicos en 2030",
+      "resumen": "Instalar placas solares en todos los edificios públicos con cubierta apta antes de 2030.",
+      "cita": "En 2030 todos los edificios públicos aptos producirán su propia energía solar.",
+      "pagina": 40,
+      "concrecion": "alta",
+      "cifra": "100% edificios públicos aptos en 2030",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Administración pública (ahorro en factura) y sector instalador.",
+        "coste": "Inversión inicial moderada que se recupera con el ahorro en 6-10 años.",
+        "viabilidad": "Alta: tecnología madura y plazos razonables.",
+        "a_favor": ["Ahorro a medio plazo y reducción de emisiones."],
+        "en_contra": ["Impacto limitado sobre el total de emisiones."]
+      }
+    },
+    {
+      "id": "gamma-004",
+      "tema": "medio-ambiente",
+      "subtema": "agua",
+      "titulo": "Plan de modernización de regadíos",
+      "resumen": "Ayudas para convertir regadíos tradicionales en sistemas de riego por goteo.",
+      "cita": "Modernizaremos los regadíos para ahorrar agua sin perder producción.",
+      "pagina": 42,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Agricultores y comunidades de regantes.",
+        "coste": "Puede cofinanciarse con fondos europeos.",
+        "viabilidad": "Viable; programa ya existente que se amplía.",
+        "a_favor": ["Ahorro de agua por hectárea."],
+        "en_contra": ["Sin control, el agua ahorrada se usa para ampliar superficie regada (efecto rebote)."]
+      }
+    },
+    {
+      "id": "gamma-005",
+      "tema": "territorio",
+      "subtema": "rural",
+      "titulo": "Bonificación fiscal por vivir en municipios pequeños",
+      "resumen": "Deducción en IRPF para residentes en municipios de menos de 5.000 habitantes.",
+      "cita": "Vivir en un pueblo tendrá premio fiscal.",
+      "pagina": 50,
+      "concrecion": "baja",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Residentes en municipios pequeños.",
+        "coste": "Pérdida de recaudación no cuantificada.",
+        "viabilidad": "Viable, pero el programa no concreta la cuantía.",
+        "a_favor": ["Incentivo para fijar población."],
+        "en_contra": ["Riesgo de empadronamientos ficticios.", "Su efecto sobre la despoblación es incierto."]
+      }
+    },
+    {
+      "id": "gamma-006",
+      "tema": "sanidad",
+      "subtema": "atencion-primaria",
+      "titulo": "Médico de familia en 48 horas",
+      "resumen": "Garantizar cita con el médico de familia en un máximo de 48 horas.",
+      "cita": "Ninguna persona esperará más de 48 horas para ver a su médico de familia.",
+      "pagina": 33,
+      "concrecion": "alta",
+      "cifra": "Máx. 48 horas",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Toda la población.",
+        "coste": "Exige contratar más médicos de familia, especialidad con déficit.",
+        "viabilidad": "Difícil a corto plazo por escasez de profesionales.",
+        "a_favor": ["La atención primaria descongestiona urgencias."],
+        "en_contra": ["Objetivo difícil de cumplir sin profesionales disponibles."]
+      }
+    }
+  ]
+}

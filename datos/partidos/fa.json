@@ -1,0 +1,1202 @@
+{
+  "id": "fa",
+  "nombre": "Frente Amplio",
+  "siglas": "FA",
+  "color": "#e8913a",
+  "fuente": "fa.pdf",
+  "resumen": "Programa muy extenso y detallado (unas 150 páginas) de la coalición de izquierdas. Plantea una fuerte intervención pública: expropiar vivienda a grandes propietarios, topar alquileres al 25% de la renta, jornada de 32 horas, nuevos impuestos a grandes fortunas y empresas, energía y banca públicas, República federal y plurinacional. Contiene muchas cifras concretas; su coste total sería muy elevado.",
+  "ideas_fuerza": [
+    "1,5 millones de viviendas públicas, tope del alquiler y expropiación a grandes tenedores",
+    "Jornada de 32 horas sin bajar sueldo y SMI al 60% del salario medio",
+    "Prestación universal de 200 €/mes por hijo",
+    "Reforma fiscal: tasa Zucman, límite a herencias de 10 M€, IRPF hasta 52%",
+    "Energía pública, 3 horas de luz gratis al día, cierre nuclear",
+    "República federal plurinacional y paz frente al gasto militar"
+  ],
+  "propuestas": [
+    {
+      "id": "fa-001",
+      "tema": "vivienda",
+      "subtema": "vivienda-publica",
+      "titulo": "1,5 millones de viviendas públicas en 12 años con el 1% del PIB",
+      "resumen": "Destinar cada año el 1% del PIB (unos 17.000 M€) a crear 1,5 millones de viviendas públicas en 12 años (125.000 al año) por construcción, compra, movilización de vacías y expropiación, hasta llegar al 20% del parque en 2035. Alquiler público con un máximo de 600 € para un piso de 80 m² y nunca más del 25% de la renta.",
+      "cita": "Se incorporarán 1,5 millones de viviendas públicas en 12 años (125.000 viviendas públicas/año), alcanzando la media europea (9,3 %) durante la legislatura y el 20 % del parque total en 2035.",
+      "pagina": 10,
+      "concrecion": "alta",
+      "cifra": "125.000 viviendas/año; alquiler máx. 600 €",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas con dificultades de acceso a la vivienda; sector construcción.",
+        "coste": "17.000 M€ al año, financiados con la reforma fiscal del programa.",
+        "viabilidad": "Muy ambiciosa: hoy se construyen en España unas 100.000 viviendas al año en total (públicas y privadas); faltan trabajadores y suelo.",
+        "a_favor": [
+          "Ataca directamente el déficit de vivienda pública, muy inferior a la media europea.",
+          "Objetivos y plazos cuantificados."
+        ],
+        "en_contra": [
+          "Ritmo de construcción difícil de alcanzar con la capacidad actual del sector.",
+          "Depende de ingresos fiscales nuevos de recaudación incierta."
+        ]
+      }
+    },
+    {
+      "id": "fa-002",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Expropiar viviendas a fondos y grandes propietarios",
+      "resumen": "Ley de Expropiación progresiva del parque de viviendas de propietarios corporativos: primero a quien tenga más de 1.000 viviendas (Blackstone, CaixaBank…), después a más de 700 y finalmente a empresas con más de 50 inmuebles. Todo el suelo y fincas de la SAREB pasan a la entidad pública Casa 47.",
+      "cita": "El proceso afectará en primera fase al stock residencial de entidades poseedoras de más de 1.000 viviendas (como Blackstone o CaixaBank), en segunda fase a tenedores de más de 700 viviendas y en tercera fase a empresas propietarias de más de 50 inmuebles.",
+      "pagina": 10,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Fondos de inversión, bancos, SOCIMI y empresas con más de 50 viviendas; sus inquilinos.",
+        "coste": "La expropiación exige pagar un justiprecio: decenas de miles de millones. El programa no lo cuantifica.",
+        "viabilidad": "La Constitución permite expropiar por utilidad pública con indemnización, pero una medida masiva sería muy litigada (TC, tribunales europeos).",
+        "a_favor": [
+          "Pasa a manos públicas viviendas ya construidas de forma rápida.",
+          "Reduce el peso de los grandes inversores en el mercado del alquiler."
+        ],
+        "en_contra": [
+          "Coste enorme y riesgo de inseguridad jurídica que frene la inversión en vivienda.",
+          "No aumenta el número total de viviendas."
+        ]
+      }
+    },
+    {
+      "id": "fa-003",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Tope al alquiler: máximo el 25% de la renta media del barrio",
+      "resumen": "En zonas tensionadas, el alquiler no podrá superar el menor entre el 25% de la renta media de los hogares del barrio y el índice oficial; rebaja adicional del 30% en ciudades de más de 200.000 habitantes o con turismo masivo. Declaración automática de zonas tensionadas y el Estado actúa si la comunidad se niega.",
+      "cita": "El techo máximo de la mensualidad será la cifra menor resultante de comparar el 25 % de la renta neta media por hogar de la sección censal y el tope fijado por el índice SERPAVI. Esta regulación provocará una reducción media del 35 % en los precios actuales del mercado.",
+      "pagina": 13,
+      "concrecion": "alta",
+      "cifra": "Máx. 25% de la renta; rebaja media estimada del 35%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Inquilinos (rebaja de precios) y propietarios (pérdida de ingresos) en zonas tensionadas.",
+        "coste": "Sin coste presupuestario; lo asumen los propietarios.",
+        "viabilidad": "Choca con competencias autonómicas y probablemente sería recurrida; la rebaja forzosa de contratos existentes plantea problemas legales.",
+        "a_favor": [
+          "Alivio inmediato para inquilinos que dedican más del 40% de sus ingresos al alquiler."
+        ],
+        "en_contra": [
+          "Una rebaja tan fuerte puede hacer que muchos propietarios retiren sus pisos del alquiler o los vendan.",
+          "La experiencia de Berlín (tope anulado en 2021) mostró caída de la oferta."
+        ]
+      }
+    },
+    {
+      "id": "fa-004",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Contratos de alquiler indefinidos y sindicatos de inquilinas",
+      "resumen": "El contrato de alquiler será indefinido por defecto (en transición, prórrogas automáticas de 5 años, 7 si el casero es empresa). Reconocer sindicatos de inquilinos con capacidad de negociar y regular la 'huelga de alquileres' en casos de abuso. Prohibir algoritmos que fijan precios de alquiler.",
+      "cita": "El contrato de arrendamiento residencial pasará a tener carácter indefinido por defecto.",
+      "pagina": 14,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Inquilinos y propietarios.",
+        "coste": "Ninguno presupuestario.",
+        "viabilidad": "Competencia estatal (LAU).",
+        "a_favor": [
+          "Estabilidad residencial como en Alemania o Suiza, donde el alquiler indefinido es habitual."
+        ],
+        "en_contra": [
+          "Los propietarios pierden capacidad de recuperar su vivienda; puede reducir la oferta."
+        ]
+      }
+    },
+    {
+      "id": "fa-005",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Prohibir comprar viviendas a empresas y eliminar pisos turísticos en zonas tensionadas",
+      "resumen": "Solo se podrá comprar vivienda para vivir en ella o alquilarla a precio regulado; prohibido para empresas con ánimo de lucro, fondos, SOCIMI y bancos. Extinguir en 3 años todas las licencias de pisos turísticos en zonas tensionadas, IVA del 21% y recargo de IBI de hasta el 150% para ellos.",
+      "cita": "Esta prohibición alcanzará de forma absoluta a cualquier persona jurídica con ánimo de lucro, como fondos buitre, SOCIMIs, inmobiliarias, entidades bancarias y fondos de inversión.",
+      "pagina": 11,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Inversores inmobiliarios, propietarios de pisos turísticos, sector turístico.",
+        "coste": "Ninguno; posibles indemnizaciones por licencias.",
+        "viabilidad": "Restricciones de este calibre chocan con la libertad de empresa y la libre circulación de capitales en la UE.",
+        "a_favor": [
+          "Devuelve viviendas al uso residencial en barrios saturados.",
+          "Ataca la vivienda como activo financiero."
+        ],
+        "en_contra": [
+          "Riesgo de reducir la inversión en construcción de vivienda nueva.",
+          "Impacto económico en zonas turísticas."
+        ]
+      }
+    },
+    {
+      "id": "fa-006",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Impuesto del 10% anual sobre el valor de los pisos de empresas y multipropietarios",
+      "resumen": "Impuesto del 10% sobre el valor de las viviendas de empresas (desde la primera) y de particulares a partir del cuarto piso si superan 800.000 € en total, salvo si se alquilan a precio asequible y estable. Recargos del 200% en el ITP por la segunda vivienda y del 1.000% desde la tercera. Fin de los privilegios fiscales de las SOCIMI.",
+      "cita": "Crearemos un impuesto del 10 % sobre el valor de los pisos que afectará a las empresas desde el primer inmueble y a los particulares a partir del cuarto, cuando sus propiedades superen conjuntamente los 800.000 euros.",
+      "pagina": 18,
+      "concrecion": "alta",
+      "cifra": "10% anual; ITP +200% 2ª vivienda, +1.000% 3ª",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Empresas propietarias de vivienda y particulares con varios pisos.",
+        "coste": "Genera ingresos (o rebajas de alquiler para evitarlo).",
+        "viabilidad": "Un 10% anual sobre el valor es confiscatorio en la práctica; podría considerarse inconstitucional.",
+        "a_favor": [
+          "Incentivo muy fuerte a alquilar barato."
+        ],
+        "en_contra": [
+          "Puede forzar ventas masivas y desplomar la oferta de alquiler gestionada por empresas.",
+          "Penaliza también a pequeños ahorradores con varias viviendas heredadas (aunque prevé excepciones)."
+        ]
+      }
+    },
+    {
+      "id": "fa-007",
+      "tema": "vivienda",
+      "subtema": "okupacion",
+      "titulo": "Ningún desahucio sin alternativa y escudo hipotecario de 300 €/mes",
+      "resumen": "Prohibir por ley desahuciar a personas vulnerables sin alternativa habitacional (la Administración paga al pequeño propietario); grandes tenedores obligados a ofrecer alquiler social de 7 años. Deducción de hasta 300 €/mes para hipotecados con ingresos bajos; dación en pago; hipoteca pública a tipo fijo.",
+      "cita": "Prohibiremos de forma permanente y con rango de ley la ejecución de lanzamientos o desahucios de personas y familias en situación de vulnerabilidad económica o social sin que las administraciones públicas hayan proporcionado con carácter previo una alternativa habitacional digna.",
+      "pagina": 15,
+      "concrecion": "alta",
+      "cifra": "Hasta 300 €/mes para hipotecados con < 21.600 €/año",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Familias vulnerables, propietarios, bancos.",
+        "coste": "Elevado para las administraciones (alternativas habitacionales, compensaciones).",
+        "viabilidad": "Sin parque público suficiente, garantizar alternativa a todos es difícil.",
+        "a_favor": [
+          "La dación en pago evita quedar endeudado de por vida tras perder la casa."
+        ],
+        "en_contra": [
+          "Puede encarecer el crédito hipotecario y dificultar el acceso a hipotecas."
+        ]
+      }
+    },
+    {
+      "id": "fa-008",
+      "tema": "trabajo",
+      "subtema": "jornada",
+      "titulo": "37,5 horas ya y avanzar hacia la jornada de 32 horas sin bajar sueldo",
+      "resumen": "Implantar de inmediato las 37,5 horas (35 en el sector público) y reducir progresivamente la jornada máxima hasta 32 horas semanales sin pérdida salarial. Generalizar la jornada continua y limitar la partida.",
+      "cita": "Reduciremos la jornada laboral limitando el tiempo de trabajo efectivo de forma progresiva hasta las 32 horas semanales.",
+      "pagina": 56,
+      "concrecion": "media",
+      "cifra": "37,5 h ya; objetivo 32 h",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Todos los asalariados y empresas.",
+        "coste": "Alto para las empresas: reducir un 20% la jornada sin bajar salarios equivale a subir el coste por hora un 25%.",
+        "viabilidad": "Sin calendario para las 32 h. Experiencias piloto (Islandia, Reino Unido) son en sectores concretos.",
+        "a_favor": [
+          "Más tiempo libre y reparto del empleo.",
+          "Pruebas piloto muestran mantenimiento de la productividad en algunos sectores."
+        ],
+        "en_contra": [
+          "Riesgo para la competitividad de pymes y sectores con baja productividad.",
+          "Podría aumentar la economía sumergida o las horas extra."
+        ]
+      }
+    },
+    {
+      "id": "fa-009",
+      "tema": "trabajo",
+      "subtema": "salarios",
+      "titulo": "SMI al 60% del salario medio neto y salarios ligados al IPC",
+      "resumen": "Suelo legal del SMI en el 60% del salario medio neto (no absorbible por pluses); cláusulas obligatorias de revisión salarial con el IPC en los convenios; impuesto del 30% sobre el aumento de beneficios de grandes empresas que no suban salarios al menos con la inflación.",
+      "cita": "Garantizaremos por ley una subida progresiva del Salario Mínimo Interprofesional (SMI) manteniendo un suelo permanente equivalente al 60 % del salario medio neto de la economía.",
+      "pagina": 51,
+      "concrecion": "alta",
+      "cifra": "SMI 60% salario medio neto; gravamen 30%",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Trabajadores con salarios bajos; empresas de más de 50 M€ de facturación.",
+        "coste": "Para empresas.",
+        "viabilidad": "Viable legalmente; la indexación automática al IPC fue abandonada en los 80 por alimentar la inflación.",
+        "a_favor": [
+          "Protege el poder adquisitivo de los trabajadores."
+        ],
+        "en_contra": [
+          "Las cláusulas automáticas de IPC pueden generar espirales precios-salarios.",
+          "60% del salario neto (no bruto) implica un SMI mayor que el del PSOE."
+        ]
+      }
+    },
+    {
+      "id": "fa-010",
+      "tema": "trabajo",
+      "subtema": "contratos",
+      "titulo": "Trabajadores en los consejos de administración y reparto obligatorio del 10% de beneficios",
+      "resumen": "Un tercio del consejo de administración para la plantilla en empresas de 50 a 1.000 trabajadores y el 50% en las mayores; repartir por ley el 10% del beneficio entre la plantilla antes de pagar dividendos; reservar a los trabajadores entre el 2% y el 10% del capital; fondos colectivos tipo Meidner.",
+      "cita": "Estableceremos por ley el reparto obligatorio del 10 % del beneficio empresarial entre la plantilla en empresas de 50 o más trabajadores.",
+      "pagina": 115,
+      "concrecion": "alta",
+      "cifra": "1/3 o 50% del consejo; 10% del beneficio",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Empresas de más de 50 trabajadores, sus plantillas y accionistas.",
+        "coste": "Menos beneficio para accionistas.",
+        "viabilidad": "Alemania tiene cogestión (hasta el 50% en supervisión); la cesión obligatoria de capital sería muy discutida jurídicamente.",
+        "a_favor": [
+          "La cogestión alemana se asocia a buenas relaciones laborales y visión a largo plazo."
+        ],
+        "en_contra": [
+          "Puede desincentivar la inversión extranjera y el crecimiento de empresas por encima de los umbrales."
+        ]
+      }
+    },
+    {
+      "id": "fa-011",
+      "tema": "trabajo",
+      "subtema": "desempleo",
+      "titulo": "Paro al 80% los primeros seis meses y Plan de Empleo Garantizado",
+      "resumen": "Elevar la prestación por desempleo del 70% al 80% de la base los primeros seis meses y subir un 25% los topes; Plan de Empleo Garantizado público para parados de larga duración y jóvenes; objetivo de bajar el paro al 7%; autodeclaración de ausencias leves por enfermedad (hasta 3 días).",
+      "cita": "Elevaremos el porcentaje de la prestación contributiva por desempleo del 70 % al 80 % de la base reguladora durante los primeros seis meses.",
+      "pagina": 53,
+      "concrecion": "alta",
+      "cifra": "80% los 6 primeros meses; topes +25%",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Desempleados.",
+        "coste": "Elevado.",
+        "viabilidad": "Viable con presupuesto.",
+        "a_favor": [
+          "Mejor protección en la transición entre empleos."
+        ],
+        "en_contra": [
+          "Prestaciones más generosas pueden alargar la búsqueda de empleo según parte de la literatura económica."
+        ]
+      }
+    },
+    {
+      "id": "fa-012",
+      "tema": "social",
+      "subtema": "pensiones",
+      "titulo": "Jubilación a los 65 años y a los 60 en oficios duros",
+      "resumen": "Devolver la edad de jubilación a los 65 años (hoy camino de los 67); jubilación a los 60 en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca; sin penalización a quien se jubile anticipadamente de forma involuntaria con más de 40 años cotizados; pensión mínima igual al SMI en la Constitución.",
+      "cita": "Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011.",
+      "pagina": 58,
+      "concrecion": "alta",
+      "cifra": "Jubilación a los 65; 60 en oficios penosos",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Todos los trabajadores futuros jubilados.",
+        "coste": "Muy elevado: más años cobrando pensión y menos cotizando; no se cuantifica.",
+        "viabilidad": "Contraria a la tendencia europea y a las recomendaciones de la Comisión Europea y AIReF.",
+        "a_favor": [
+          "Justicia para trabajos físicamente muy duros.",
+          "La esperanza de vida en buena salud es menor en rentas bajas."
+        ],
+        "en_contra": [
+          "Agravaría el desequilibrio del sistema de pensiones con la jubilación del baby boom."
+        ]
+      }
+    },
+    {
+      "id": "fa-013",
+      "tema": "familia",
+      "subtema": "natalidad",
+      "titulo": "Prestación universal de 200 € al mes por cada hijo",
+      "resumen": "200 € mensuales por cada menor de 18 años, sin depender de la renta, como derecho del menor; se cobra automáticamente desde el nacimiento vía Agencia Tributaria. Implantación en tres fases (0-6, 7-12, 13-18 años), financiada con la tasa a grandes patrimonios.",
+      "cita": "Aprobaremos la Ley de Prestación Universal por Crianza que concederá 200 € al mes por cada menor de 18 años a cargo.",
+      "pagina": 21,
+      "concrecion": "alta",
+      "cifra": "200 €/mes por menor",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Unos 8 millones de niños y sus familias.",
+        "coste": "Unos 19.000 M€ al año cuando esté completa (8 M de menores × 2.400 €).",
+        "viabilidad": "Financiación ligada a la tasa Zucman, de recaudación incierta.",
+        "a_favor": [
+          "España tiene una de las tasas de pobreza infantil más altas de la UE (33%).",
+          "Modelo universal habitual en Europa (Alemania, Francia)."
+        ],
+        "en_contra": [
+          "Al ser universal, también la cobran familias ricas.",
+          "Coste muy alto."
+        ]
+      }
+    },
+    {
+      "id": "fa-014",
+      "tema": "familia",
+      "subtema": "conciliacion",
+      "titulo": "Permiso de nacimiento de 20 semanas y 10 semanas de permiso parental pagado",
+      "resumen": "Ampliar el permiso por nacimiento a 20 semanas por progenitor (doble en familias monoparentales); permiso parental retribuido al 100% de hasta 10 semanas hasta los 12 años; 10 días por fallecimiento de familiar; 0-3 público gratuito con ratios reducidas; comedor escolar gratuito universal en Infantil y Primaria pública.",
+      "cita": "Ampliaremos el permiso por nacimiento hasta las 20 semanas para cada progenitor con carácter intransferible.",
+      "pagina": 24,
+      "concrecion": "alta",
+      "cifra": "20 semanas; 10 semanas parental al 100%",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Familias con hijos.",
+        "coste": "Elevado.",
+        "viabilidad": "Viable con presupuesto.",
+        "a_favor": [
+          "Mejora la conciliación y la corresponsabilidad."
+        ],
+        "en_contra": [
+          "Costes organizativos para pymes."
+        ]
+      }
+    },
+    {
+      "id": "fa-015",
+      "tema": "social",
+      "subtema": "pobreza",
+      "titulo": "Ingreso Mínimo Vital automático y extendido a jóvenes",
+      "resumen": "Conceder el IMV de oficio cruzando datos; acercarlo al 60% de la renta mediana regional; extenderlo a jóvenes de 18-30 sin requisitos de emancipación; traspasar su gestión a las CCAA; prohibir cortes de luz, agua y gas a hogares vulnerables; dependencia del 0,8% al 1,7% del PIB en 2030.",
+      "cita": "Transformaremos de forma radical el Ingreso Mínimo Vital (IMV) para ser concedido de oficio a través de la interconexión automatizada de datos fiscales y de la Seguridad Social.",
+      "pagina": 22,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Hogares en pobreza.",
+        "coste": "Alto.",
+        "viabilidad": "Viable técnicamente.",
+        "a_favor": [
+          "Hoy muchos hogares con derecho no lo cobran."
+        ],
+        "en_contra": [
+          "Una renta más alta puede desincentivar el empleo si no se compatibiliza bien con el salario."
+        ]
+      }
+    },
+    {
+      "id": "fa-016",
+      "tema": "fiscalidad",
+      "subtema": "patrimonio",
+      "titulo": "Tasa Zucman del 3% a patrimonios de más de 50 M€ y 2% desde 1 M€",
+      "resumen": "Impuesto del 3% anual sobre patrimonios de más de 50 millones (sin exenciones, con cláusula antideslocalización de 5 años); que todo patrimonio de más de 1 M€ pague al menos el 2%; impuesto estatal a herencias de más de 1 M€; límite de 10 M€ heredables por heredero (tipo del 100% por encima).",
+      "cita": "Limitaremos las herencias de los ultrarricos a un máximo de 10 millones de euros por heredero. Esta limitación se implementará estableciendo un tipo impositivo marginal del 100 %.",
+      "pagina": 45,
+      "concrecion": "alta",
+      "cifra": "3% > 50 M€; mín. 2% > 1 M€; herencias tope 10 M€",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Las personas más ricas del país (unos pocos miles de contribuyentes).",
+        "coste": "Genera ingresos; destinados a la prestación por crianza y vivienda.",
+        "viabilidad": "Un tipo del 100% podría considerarse confiscatorio (art. 31 de la Constitución).",
+        "a_favor": [
+          "Los grandes patrimonios tributan proporcionalmente menos que las rentas del trabajo según estudios de Zucman.",
+          "Reduce la concentración de riqueza."
+        ],
+        "en_contra": [
+          "Riesgo de huida de capitales y de grandes contribuyentes.",
+          "Francia rechazó la tasa Zucman en 2025; impuestos al patrimonio recaudan poco en la práctica."
+        ]
+      }
+    },
+    {
+      "id": "fa-017",
+      "tema": "fiscalidad",
+      "subtema": "empresas-fiscal",
+      "titulo": "Tipo mínimo real del 20% en Sociedades y gravámenes permanentes a banca y energéticas",
+      "resumen": "Tipo efectivo mínimo del 20% para grandes empresas; fin de la consolidación fiscal; gravamen estructural del 1,2% a grandes energéticas (para pagar 1.000 € a 1,4 millones de hogares vulnerables) y a la banca; impuesto a depósitos bancarios del 0,03% al 1%; tasa Google al 15%; impuesto del 10% sobre lo apostado en el juego.",
+      "cita": "Impondremos un tipo mínimo efectivo del 20 % sobre el resultado contable ajustado para las grandes empresas y grupos corporativos.",
+      "pagina": 44,
+      "concrecion": "alta",
+      "cifra": "Sociedades mín. 20%; tasa Google 15%; energéticas 1,2%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Grandes empresas, banca, energéticas y tecnológicas.",
+        "coste": "Genera ingresos.",
+        "viabilidad": "Viable legalmente; el impuesto a depósitos del 1% probablemente se trasladaría a los clientes.",
+        "a_favor": [
+          "Las grandes empresas pagan un tipo efectivo inferior al de las pymes en muchos casos."
+        ],
+        "en_contra": [
+          "Riesgo de pérdida de inversión y de traslado de costes a consumidores."
+        ]
+      }
+    },
+    {
+      "id": "fa-018",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Bajar IRPF hasta 27.000 € y subirlo al 52% desde 300.000 €",
+      "resumen": "Bajar el IRPF a salarios de hasta 27.000 € (el SMI sin IRPF); nuevos tramos desde 120.000 € hasta un tipo marginal del 52% a partir de 300.000 €; equiparar la tributación del capital a la del trabajo; eliminar la deducción por planes de pensiones privados y la 'ley Beckham'; duplicar la plantilla de Hacienda.",
+      "cita": "Ampliaremos el número de tramos del IRPF a partir de 120.000 euros anuales y elevaremos progresivamente los tipos marginales hasta alcanzar el 52 % para rentas a partir de 300.000 euros.",
+      "pagina": 46,
+      "concrecion": "alta",
+      "cifra": "Rebaja < 27.000 €; 52% > 300.000 €",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Rebaja a rentas bajas; subida a rentas altas y del capital.",
+        "coste": "Neto positivo previsiblemente.",
+        "viabilidad": "Competencia estatal.",
+        "a_favor": [
+          "Mayor progresividad del sistema fiscal."
+        ],
+        "en_contra": [
+          "Un tipo del 52% está entre los más altos de Europa; riesgo de deslocalización de profesionales de alta renta."
+        ]
+      }
+    },
+    {
+      "id": "fa-019",
+      "tema": "fiscalidad",
+      "subtema": "iva",
+      "titulo": "IVA progresivo de la luz y fin de exenciones a enseñanza y seguros médicos privados",
+      "resumen": "IVA de la electricidad según consumo por persona: del 0% (consumos básicos y vulnerables) al 21% en tramos altos; peluquerías y veterinarios al tipo reducido; pañales al superreducido; productos sin gluten al 0%. Quitar la exención de IVA a la enseñanza privada y del impuesto a seguros médicos privados.",
+      "cita": "El IVA de la electricidad dependerá del consumo por persona: empezará en el 0 % para los consumos más bajos y personas en situación de vulnerabilidad y el autoconsumo y subirá de forma progresiva en los tramos altos hasta el 21 %.",
+      "pagina": 47,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Consumidores de luz; familias con colegios privados o seguros de salud.",
+        "coste": "Neutral o positivo.",
+        "viabilidad": "La directiva europea del IVA limita la progresividad por consumo.",
+        "a_favor": [
+          "Las exenciones a educación y sanidad privadas benefician sobre todo a rentas altas."
+        ],
+        "en_contra": [
+          "Encarece la educación privada y los seguros médicos, que usan también clases medias para evitar listas de espera."
+        ]
+      }
+    },
+    {
+      "id": "fa-020",
+      "tema": "economia",
+      "subtema": "precios",
+      "titulo": "Topes de precio a alimentos básicos y que la CNMC pueda fijar precios máximos",
+      "resumen": "Topes máximos de precio en la cesta básica en emergencias o abusos; impuesto a márgenes excesivos de grandes empresas alimentarias; dar a la CNMC poder para fijar precios máximos en energía, alimentación, transporte, telecomunicaciones y banca; prohibir precios personalizados por datos; obligar a remunerar los depósitos bancarios.",
+      "cita": "Concederemos facultades legales a la CNMC para fijar precios máximos de forma directa en cualquiera de dichos sectores estratégicos cuando detecte o prevea prácticas y márgenes abusivos.",
+      "pagina": 56,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Consumidores, distribución alimentaria, energéticas, bancos.",
+        "coste": "Bajo presupuestariamente.",
+        "viabilidad": "Los controles de precios chocan con el marco europeo de competencia.",
+        "a_favor": [
+          "Responde a la inflación de alimentos de 2022-2024 y a márgenes récord de algunas empresas."
+        ],
+        "en_contra": [
+          "Los controles de precio suelen generar escasez y mercado negro si se prolongan."
+        ]
+      }
+    },
+    {
+      "id": "fa-021",
+      "tema": "sanidad",
+      "subtema": "gestion",
+      "titulo": "Sanidad 100% pública: 8% del PIB y revertir privatizaciones",
+      "resumen": "Garantizar el 8% del PIB para la sanidad pública; derogar la Ley 15/1997 que permite la gestión privada y hacer la gestión directa la norma; internalizar progresivamente servicios privatizados; integrar MUFACE en la sanidad pública; universalidad para residentes sin papeles; empresa farmacéutica 100% pública.",
+      "cita": "Derogaremos expresamente la Ley 15/1997, sobre habilitación de nuevas formas de gestión del SNS, que había abierto la puerta a la colaboración con entidades privadas.",
+      "pagina": 26,
+      "concrecion": "alta",
+      "cifra": "8% del PIB",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Sistema sanitario, concesiones y conciertos privados, funcionarios de MUFACE.",
+        "coste": "Pasar del ~7% al 8% del PIB supone unos 16.000 M€ más al año.",
+        "viabilidad": "La gestión es autonómica; la derogación afectaría a CCAA como Madrid o Valencia.",
+        "a_favor": [
+          "Más control público y fin del lucro en la sanidad."
+        ],
+        "en_contra": [
+          "La transición puede generar problemas de capacidad y más listas de espera a corto plazo."
+        ]
+      }
+    },
+    {
+      "id": "fa-022",
+      "tema": "sanidad",
+      "subtema": "prestaciones",
+      "titulo": "Dentista, gafas y audífonos públicos",
+      "resumen": "Ampliar la salud bucodental pública hasta cubrir al menos al 50% de la población; gafas y lentillas gratis para todas las edades; audífonos financiados; preservativos gratuitos para jóvenes en farmacias; ratio mínima de 10 profesionales de salud mental por 100.000 habitantes.",
+      "cita": "Universalizaremos el «Plan Veo» (gafas y lentillas gratuitas) a todos los grupos de edad de la población residente.",
+      "pagina": 27,
+      "concrecion": "alta",
+      "cifra": "Dental ≥50% población",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Toda la población.",
+        "coste": "Elevado.",
+        "viabilidad": "Depende de CCAA y de recursos.",
+        "a_favor": [
+          "Coberturas habituales en otros sistemas públicos europeos."
+        ],
+        "en_contra": [
+          "Prioridad discutible frente a listas de espera actuales."
+        ]
+      }
+    },
+    {
+      "id": "fa-023",
+      "tema": "sanidad",
+      "subtema": "atencion-primaria",
+      "titulo": "Bajas médicas solo por médicos públicos y fumar prohibido en terrazas",
+      "resumen": "Blindar que solo los médicos del sistema público den altas y bajas (no las mutuas); 25% del presupuesto sanitario a Atención Primaria; prohibir fumar en terrazas y playas, empaquetado genérico; impuestos a refrescos azucarados, bebidas energéticas y ultraprocesados.",
+      "cita": "Prohibiremos fumar en terrazas y playas, implantaremos el empaquetado genérico, prohibiremos vapeadores desechables.",
+      "pagina": 30,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Trabajadores de baja, mutuas, fumadores, hostelería.",
+        "coste": "Los impuestos saludables generan ingresos.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Medidas de salud pública avaladas por la OMS."
+        ],
+        "en_contra": [
+          "La hostelería teme pérdidas; impuestos al consumo pesan más en rentas bajas."
+        ]
+      }
+    },
+    {
+      "id": "fa-024",
+      "tema": "educacion",
+      "subtema": "modelo-educativo",
+      "titulo": "Educación al 7% del PIB, ratios máximas y fondos públicos solo para la pública",
+      "resumen": "Ley de financiación educativa con el 7% del PIB en 2030; ratios máximas por ley (15 en Primaria y FP, 20 en ESO, 23 en Bachillerato); hoja de ruta para que todo el alumnado pueda ir a la pública y el 100% de los fondos públicos vayan a ella; prohibir cuotas en concertada; máximo 18 horas lectivas en Secundaria; inmersión en catalán en Cataluña.",
+      "cita": "El objetivo es que el 100 % de los fondos públicos vayan destinados a la educación pública.",
+      "pagina": 31,
+      "concrecion": "alta",
+      "cifra": "7% PIB; ratios 15/20/23",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Alumnos y familias de la concertada (un 25% del alumnado), profesorado.",
+        "coste": "Muy elevado (subir del ~4,9% al 7% del PIB son ~30.000 M€/año más).",
+        "viabilidad": "Requiere muchas más plazas públicas y profesores; competencias autonómicas.",
+        "a_favor": [
+          "Ratios bajas y más inversión mejoran la atención individual."
+        ],
+        "en_contra": [
+          "Supondría el fin progresivo de la concertada, que muchas familias eligen."
+        ]
+      }
+    },
+    {
+      "id": "fa-025",
+      "tema": "educacion",
+      "subtema": "universidad",
+      "titulo": "Becas al nivel europeo, becas-salario y universidad hacia la gratuidad",
+      "resumen": "Subir el gasto en becas al 0,44% del PIB (media europea), con becas-salario y cobro al inicio de curso; duplicar becas en etapas obligatorias para familias vulnerables; universidades públicas financiadas con al menos el 1% del PIB regional; reducir precios hacia la gratuidad; mismos requisitos para universidades privadas que públicas.",
+      "cita": "Incrementaremos las cuantías de becas postobligatorias hasta el 0,44 % del PIB, garantizando el cobro al inicio de curso.",
+      "pagina": 32,
+      "concrecion": "alta",
+      "cifra": "Becas 0,44% PIB",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Estudiantes y universidades.",
+        "coste": "Alto.",
+        "viabilidad": "Viable con presupuesto.",
+        "a_favor": [
+          "Las becas llegan tarde y cubren poco hoy."
+        ],
+        "en_contra": [
+          "Coste fiscal elevado en un programa con muchas otras prioridades de gasto."
+        ]
+      }
+    },
+    {
+      "id": "fa-026",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Tres horas de luz gratis al día y comercializadora eléctrica pública",
+      "resumen": "Comercializadora pública que ofrezca tres horas diarias de luz gratis en la franja solar (obligatorio también para grandes comercializadoras); redes de distribución eléctrica y de gas públicas; gestión pública de los saltos de agua cuyas concesiones expiren; nuclear e hidráulica fuera del sistema marginalista de precios.",
+      "cita": "En las horas de mayor producción de energía eléctrica solar y en las que hay excedente con respecto a lo que consumimos, la luz será gratis para todos los hogares.",
+      "pagina": 64,
+      "concrecion": "alta",
+      "cifra": "3 h/día gratis",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Todos los hogares; eléctricas (Iberdrola, Endesa, Naturgy).",
+        "coste": "Los peajes de esas horas se pagarían con el gravamen a energéticas; nacionalizar redes exige compensar a sus dueños (miles de millones).",
+        "viabilidad": "La nacionalización de redes y la intervención en precios chocan con el mercado eléctrico europeo.",
+        "a_favor": [
+          "Aprovecha excedentes solares que hoy se tiran o pagan precios negativos.",
+          "Rompe el oligopolio eléctrico."
+        ],
+        "en_contra": [
+          "Coste y litigios de la nacionalización.",
+          "Las eléctricas podrían subir precios en otras horas (el programa prevé sanciones)."
+        ]
+      }
+    },
+    {
+      "id": "fa-027",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Cerrar Almaraz en 2027-28, placas en todos los tejados y 100% renovable en 2040",
+      "resumen": "Cumplir el cierre nuclear (Almaraz en 2027-2028); 81% renovable en 2030 y 100% en 2040; placas solares obligatorias en todas las comunidades de vecinos antes de 2030, adelantadas por el Estado sin intereses; 20% del capital de grandes parques renovables para vecinos y ayuntamientos; Fondo Generacional de la Energía con participación pública del 30%.",
+      "cita": "Almaraz I y II cerrarán en los plazos previstos (2027-2028), sin beneficios fiscales.",
+      "pagina": 64,
+      "concrecion": "alta",
+      "cifra": "100% renovable en 2040; tejados solares antes de 2030",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Sistema eléctrico, comunidades de vecinos, comarcas nucleares.",
+        "coste": "Elevado; las placas se recuperan con el ahorro.",
+        "viabilidad": "Hacer obligatoria la instalación en todas las comunidades plantea problemas prácticos (cubiertas no aptas, acuerdos vecinales).",
+        "a_favor": [
+          "Democratiza los beneficios de las renovables."
+        ],
+        "en_contra": [
+          "Tras el apagón de 2025, cerrar nucleares sin alternativa firme preocupa a operadores y expertos."
+        ]
+      }
+    },
+    {
+      "id": "fa-028",
+      "tema": "medio-ambiente",
+      "subtema": "clima",
+      "titulo": "3,5% del PIB anual a la transición ecológica y prohibir la publicidad fósil",
+      "resumen": "Compromiso legal de destinar el 3,5% del PIB al año a la transición ecológica; reducción de emisiones del 85% en 2040; prohibir la publicidad de empresas fósiles (como con el tabaco); Vicepresidencia de Transición Ecológica con rango sobre el resto de ministerios; Asamblea Ciudadana por el Clima con respuesta vinculante.",
+      "cita": "Compromiso presupuestario legal para destinar el 3,5 % del PIB anual a proyectos de transición ecológica justa.",
+      "pagina": 60,
+      "concrecion": "alta",
+      "cifra": "3,5% PIB/año (~55.000 M€)",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Toda la economía; empresas de combustibles fósiles.",
+        "coste": "Enorme: unos 55.000 M€ al año (incluye inversión pública y probablemente movilización privada).",
+        "viabilidad": "Difícil de financiar junto al resto de compromisos.",
+        "a_favor": [
+          "La inversión climática reduce costes futuros de catástrofes."
+        ],
+        "en_contra": [
+          "Junto con vivienda, sanidad y educación, el gasto total prometido es muy superior a los ingresos nuevos previstos."
+        ]
+      }
+    },
+    {
+      "id": "fa-029",
+      "tema": "medio-ambiente",
+      "subtema": "agua",
+      "titulo": "Frenar el crecimiento del regadío y gravar el consumo excesivo de agua",
+      "resumen": "Prioridad legal a caudales ecológicos y abastecimiento frente a usos agrícolas e industriales; detener el crecimiento del regadío; gravar el agua de grandes agroindustrias, campos de golf y piscinas; restringir el agua para centros de datos en zonas con sequía; prohibir construir en zonas inundables y en los primeros 500 m de costa.",
+      "cita": "Detendremos el crecimiento de las demandas de regadío.",
+      "pagina": 74,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Regantes, agroindustria, turismo, centros de datos.",
+        "coste": "Genera ingresos.",
+        "viabilidad": "Viable; conflicto con regantes del Levante y Andalucía.",
+        "a_favor": [
+          "Los acuíferos están sobreexplotados (Doñana, Mar Menor)."
+        ],
+        "en_contra": [
+          "Limita el crecimiento agrícola y el empleo en zonas de regadío."
+        ]
+      }
+    },
+    {
+      "id": "fa-030",
+      "tema": "movilidad",
+      "subtema": "transporte-publico",
+      "titulo": "Abono único estatal: Cercanías a 20 €/mes y gratis para menores de 16",
+      "resumen": "Abono único nominal válido en todo el Estado: Cercanías 20 €/mes (10 € menores de 26, gratis menores de 16), 60-70% de descuento en Media Distancia, 50% en Larga Distancia; transporte gratis en Canarias, Baleares, Ceuta y Melilla; unir Adif y Renfe en un operador público y revertir la liberalización del AVE; triplicar la inversión en Cercanías.",
+      "cita": "Crearemos un abono único nominativo y mensual válido en todo el Estado, ciudades y modos de transporte. Incluye un esquema de precios de 20 €/mes para Cercanías.",
+      "pagina": 65,
+      "concrecion": "alta",
+      "cifra": "20 €/mes Cercanías",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Usuarios del transporte público; operadores privados de AVE (Ouigo, Iryo).",
+        "coste": "Elevado (subvención a tarifas).",
+        "viabilidad": "Revertir la liberalización del AVE choca con la normativa europea.",
+        "a_favor": [
+          "Los descuentos actuales han aumentado mucho el uso del transporte público."
+        ],
+        "en_contra": [
+          "La liberalización abarató los billetes de AVE; revertirla podría encarecerlos."
+        ]
+      }
+    },
+    {
+      "id": "fa-031",
+      "tema": "movilidad",
+      "subtema": "transporte-publico",
+      "titulo": "Prohibir vuelos nacionales con alternativa en tren de menos de 2,5 h",
+      "resumen": "Prohibir vuelos domésticos con alternativa ferroviaria de 2,5 horas (salvo conexión con vuelos internacionales); tasa progresiva a viajeros frecuentes; paralizar ampliaciones de aeropuertos y destinar al tren los 13.000 M€ previstos; limitar megacruceros; leasing social de coche eléctrico por 100-150 €/mes.",
+      "cita": "Prohibiremos vuelos domésticos que dispongan de una alternativa competitiva en tren de 2,5 horas.",
+      "pagina": 68,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Viajeros, aerolíneas, aeropuertos (Barajas, El Prat).",
+        "coste": "Ahorro al no ampliar aeropuertos.",
+        "viabilidad": "Francia aplicó una medida similar (limitada) en 2023.",
+        "a_favor": [
+          "Reduce emisiones en trayectos donde el tren compite."
+        ],
+        "en_contra": [
+          "Impacto sobre la conectividad aérea y el turismo; poco efecto global en emisiones."
+        ]
+      }
+    },
+    {
+      "id": "fa-032",
+      "tema": "economia",
+      "subtema": "modelo-productivo",
+      "titulo": "Banca pública, Agencia Industrial Pública e I+D al 3% del PIB",
+      "resumen": "Crear un Banco Postal Estatal a partir de Correos y un Banco Público de Inversión; convertir la SEPI en Agencia Industrial que cree empresas públicas; empresa pública de materias primas; I+D+i al 3% del PIB en 2030; prohibir al capital riesgo comprar hospitales, residencias o colegios.",
+      "cita": "Excluiremos al capital riesgo de la gestión de los servicios esenciales y de cuidados. Prohibiremos la adquisición, directa o indirecta, de hospitales, clínicas, residencias, centros de servicios sociales y centros educativos.",
+      "pagina": 80,
+      "concrecion": "media",
+      "cifra": "I+D 3% PIB en 2030",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Sector financiero, industria, fondos de capital riesgo.",
+        "coste": "Capital público para banca y empresas.",
+        "viabilidad": "La UE limita las ayudas de Estado a empresas públicas.",
+        "a_favor": [
+          "Estado emprendedor para sectores estratégicos (modelo de varios países)."
+        ],
+        "en_contra": [
+          "La experiencia de cajas de ahorro politizadas preocupa a sus críticos."
+        ]
+      }
+    },
+    {
+      "id": "fa-033",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Autónomos: cuota mínima si ganan menos del SMI e IVA franquiciado",
+      "resumen": "Tarifa plana mientras se ingrese menos del SMI; franquicia de IVA para pequeños negocios; IVA de caja efectivo; protección del alquiler comercial; crédito ICO; sanciones contra la morosidad de grandes empresas.",
+      "cita": "Vincularemos la tarifa plana de autónomos a la percepción de ingresos inferiores al SMI.",
+      "pagina": 92,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Autónomos y pymes.",
+        "coste": "Menos cotizaciones.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Coincide con propuestas de otros partidos (PP, Vox) sobre autónomos de bajos ingresos."
+        ],
+        "en_contra": [
+          "Menos cotización implica pensiones futuras más bajas."
+        ]
+      }
+    },
+    {
+      "id": "fa-034",
+      "tema": "fiscalidad",
+      "subtema": "gasto",
+      "titulo": "38.000 M€ más para las comunidades y condonar deuda a cambio de no hacer 'dumping fiscal'",
+      "resumen": "Reformar la financiación autonómica con un 2,3% del PIB adicional (unos 38.000 M€ al año); condonar deuda autonómica a cambio de que las CCAA no bajen impuestos por debajo de un mínimo; el Impuesto de Patrimonio se computará aunque la comunidad lo bonifique; más financiación a ayuntamientos.",
+      "cita": "Destinaremos al menos un 2,3 % del PIB adicional al sistema de financiación autonómica cada año.",
+      "pagina": 103,
+      "concrecion": "alta",
+      "cifra": "+38.000 M€/año",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Comunidades autónomas y sus servicios; CCAA que bajan impuestos (Madrid, Andalucía).",
+        "coste": "38.000 M€ al año.",
+        "viabilidad": "Requiere acuerdo con CCAA; limitar su autonomía fiscal sería conflictivo.",
+        "a_favor": [
+          "Más recursos para sanidad y educación.",
+          "Evita la competencia fiscal a la baja entre territorios."
+        ],
+        "en_contra": [
+          "Las CCAA del PP lo considerarían un ataque a su autonomía fiscal."
+        ]
+      }
+    },
+    {
+      "id": "fa-035",
+      "tema": "migracion",
+      "subtema": "regularizacion",
+      "titulo": "Regularización permanente, cierre de los CIE y fin de las devoluciones en frontera",
+      "resumen": "Culminar la regularización extraordinaria de 2026 y crear un procedimiento estable y permanente de regularización; cerrar los Centros de Internamiento de Extranjeros; derogar el 'rechazo en frontera' de Ceuta y Melilla; no condicionar la ayuda al desarrollo a que los países acepten retornos; rechazar centros de retorno en terceros países; cita en extranjería en 7 días.",
+      "cita": "Reformaremos de forma integral la Ley de Extranjería para instaurar un procedimiento estable, permanente y reglado de regularización administrativa.",
+      "pagina": 126,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Inmigrantes en situación irregular, solicitantes de asilo.",
+        "coste": "Más recursos para oficinas de extranjería (+30%); ahorro al cerrar CIE.",
+        "viabilidad": "Competencia estatal, pero choca con la tendencia del Pacto Europeo de Migración.",
+        "a_favor": [
+          "Permite que quienes ya viven y trabajan aquí coticen y tengan derechos.",
+          "Organizaciones de derechos humanos denuncian las condiciones de los CIE."
+        ],
+        "en_contra": [
+          "Sus críticos alertan de un posible 'efecto llamada'.",
+          "Sin CIE, ejecutar expulsiones de personas peligrosas sería más difícil."
+        ]
+      }
+    },
+    {
+      "id": "fa-036",
+      "tema": "exterior",
+      "subtema": "defensa",
+      "titulo": "Rechazar el 5% de la OTAN y reducir el gasto militar",
+      "resumen": "Rechazar explícitamente el objetivo OTAN del 5% del PIB en defensa y reducir el gasto militar, reorientándolo a protección civil, emergencias, sanidad y educación; reconvertir bases militares extranjeras en polos tecnológicos; firmar el Tratado de Prohibición de Armas Nucleares; embargo de armas automático a Estados investigados por crímenes de guerra.",
+      "cita": "Rechazaremos de forma explícita el compromiso de destinar el 5 % del PIB a gasto militar en el marco de la OTAN, impulsando una reducción efectiva de las partidas militares.",
+      "pagina": 130,
+      "concrecion": "media",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Fuerzas Armadas, industria de defensa, bases de Rota y Morón, relación con aliados.",
+        "coste": "Ahorro presupuestario.",
+        "viabilidad": "Tensión grave con EE.UU. y socios OTAN; firmar el TPAN es incompatible con la doctrina nuclear de la Alianza.",
+        "a_favor": [
+          "Libera recursos para gasto social.",
+          "Prioriza la diplomacia y el desarme."
+        ],
+        "en_contra": [
+          "Con la guerra en Ucrania, muchos socios europeos consideran imprescindible rearmarse."
+        ]
+      }
+    },
+    {
+      "id": "fa-037",
+      "tema": "exterior",
+      "subtema": "politica-exterior",
+      "titulo": "Embargo total de armas a Israel, romper relaciones y referéndum en el Sáhara",
+      "resumen": "Ley de embargo integral y permanente de armas a Israel (sin excepciones, cerrando tránsito por bases y puertos); ley que prohíba relaciones comerciales, políticas y diplomáticas con actores implicados en genocidio u ocupación; suspender el acuerdo UE-Israel; retirar el apoyo al plan de autonomía marroquí y defender un referéndum con opción de independencia en el Sáhara; nacionalidad para saharauis nacidos antes de 1977.",
+      "cita": "Retiraremos formalmente el apoyo gubernamental al plan de autonomía marroquí para retomar la posición fijada por el derecho internacional.",
+      "pagina": 131,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Relaciones con Israel, Marruecos, EE.UU.",
+        "coste": "Posibles represalias comerciales y diplomáticas.",
+        "viabilidad": "Viable unilateralmente, pero con fuerte coste diplomático (Marruecos es clave en migración y energía).",
+        "a_favor": [
+          "Coherencia con resoluciones de la ONU y de la Corte Internacional de Justicia."
+        ],
+        "en_contra": [
+          "Romper con Marruecos puede afectar al control migratorio y al suministro energético."
+        ]
+      }
+    },
+    {
+      "id": "fa-038",
+      "tema": "estado",
+      "subtema": "forma-estado",
+      "titulo": "República federal y plurinacional con 'derecho a decidir'",
+      "resumen": "Avanzar hacia una República Federal y plurinacional en la que se elija la Jefatura del Estado, regulando el referéndum (derecho a decidir) para resolver la cuestión territorial; reforma del artículo 135 (prioridad del pago de la deuda); reforma electoral proporcional; voto a los 16; mitad de firmas para iniciativas populares.",
+      "cita": "Nuestro horizonte es avanzar hacia una República Federal que nos permita alcanzar una democracia real en la que también elijamos la Jefatura del Estado.",
+      "pagina": 140,
+      "concrecion": "baja",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Modelo de Estado, Monarquía, Cataluña y País Vasco.",
+        "coste": "Ninguno directo.",
+        "viabilidad": "Requiere reforma constitucional agravada (2/3 de ambas cámaras, elecciones y referéndum): inviable sin un consenso inexistente.",
+        "a_favor": [
+          "Que todos los cargos del Estado sean elegidos democráticamente.",
+          "Busca una solución pactada al conflicto territorial."
+        ],
+        "en_contra": [
+          "Abre un debate constituyente divisivo.",
+          "El 'derecho a decidir' es rechazado por PP, Vox y PSOE."
+        ]
+      }
+    },
+    {
+      "id": "fa-039",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Derogar la 'ley mordaza', prohibir pelotas de goma y desmilitarizar la Guardia Civil",
+      "resumen": "Derogar completamente la Ley de Seguridad Ciudadana; derogar delitos contra los sentimientos religiosos, la Corona y ofensas a símbolos; prohibir pelotas de goma; órgano externo de control policial; restringir las identificaciones por perfil étnico; desmilitarizar la Guardia Civil; equiparación salarial y profesión de riesgo para policías.",
+      "cita": "Derogaremos por completo la Ley Mordaza.",
+      "pagina": 142,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Manifestantes, policías y guardias civiles, libertad de expresión.",
+        "coste": "Bajo.",
+        "viabilidad": "La derogación de la ley de 2015 lleva años bloqueada.",
+        "a_favor": [
+          "Organismos internacionales han criticado varias disposiciones de la ley de 2015."
+        ],
+        "en_contra": [
+          "Sindicatos policiales sostienen que reduce herramientas frente a disturbios."
+        ]
+      }
+    },
+    {
+      "id": "fa-040",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Laicidad: revisar los acuerdos con el Vaticano y fin de la financiación a la Iglesia",
+      "resumen": "Revisar los Acuerdos de 1979 con la Santa Sede; eliminar toda financiación pública y beneficios fiscales a confesiones religiosas (incluido el IBI); recuperar los bienes inmatriculados por la Iglesia; quitar conciertos a colegios que segreguen por sexo o religión; reconocer el suicidio asistido.",
+      "cita": "Revisaremos los Acuerdos de 1979 con la Santa Sede, así como con las otras confesiones religiosas, incluyendo la legislación de privilegio que se deriva de los mismos.",
+      "pagina": 150,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Iglesia católica y otras confesiones, colegios religiosos.",
+        "coste": "Ahorro e ingresos fiscales.",
+        "viabilidad": "Los acuerdos son tratados internacionales: requieren negociación o denuncia formal.",
+        "a_favor": [
+          "Separación efectiva Iglesia-Estado."
+        ],
+        "en_contra": [
+          "La Iglesia y entidades como Cáritas prestan servicios sociales relevantes."
+        ]
+      }
+    },
+    {
+      "id": "fa-041",
+      "tema": "igualdad",
+      "subtema": "genero",
+      "titulo": "5% del presupuesto a igualdad y despenalizar la prostitución",
+      "resumen": "Destinar por ley al menos el 5% del presupuesto no financiero a igualdad; +10% anual contra la violencia machista; consentimiento ('solo sí es sí') como eje del delito sexual; suspensión automática de visitas al progenitor investigado por violencia; eliminar la normativa que penalice a quienes ejercen la prostitución y reconocer sus derechos laborales; 250 M€ para víctimas de trata.",
+      "cita": "Eliminaremos toda normativa que penalice o punitivice a las personas que ejercen la prostitución garantizando el acceso a derechos fundamentales como seguridad social, salud, condiciones de trabajo dignas y la posibilidad de organizarse.",
+      "pagina": 39,
+      "concrecion": "alta",
+      "cifra": "5% del presupuesto; 250 M€ trata",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Víctimas de violencia, personas que ejercen la prostitución.",
+        "coste": "Moderado-alto.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Enfoque de derechos para trabajadoras sexuales defendido por colectivos del sector y Amnistía Internacional."
+        ],
+        "en_contra": [
+          "Postura opuesta al abolicionismo del PSOE y de parte del feminismo, que lo ve como legitimar la explotación."
+        ]
+      }
+    },
+    {
+      "id": "fa-042",
+      "tema": "igualdad",
+      "subtema": "lgtbi",
+      "titulo": "Desplegar la Ley Trans y reconocer a las personas no binarias",
+      "resumen": "Aplicar plenamente la Ley Trans, reconocer legalmente a las personas no binarias, sanidad trans despatologizada, proteger a personas intersexuales de intervenciones no consentidas, Observatorio contra la LGTBIfobia.",
+      "cita": "Desplegaremos de forma efectiva la Ley Trans, reconoceremos a las personas no binarias y protegeremos frente a la violencia intragénero.",
+      "pagina": 123,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Personas trans, no binarias e intersex.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Amplía el reconocimiento de identidades."
+        ],
+        "en_contra": [
+          "El reconocimiento no binario y la autodeterminación siguen siendo polémicos."
+        ]
+      }
+    },
+    {
+      "id": "fa-043",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Derogar la protección de la tauromaquia y 2% del gasto público para cultura",
+      "resumen": "Derogar la ley que declara la tauromaquia patrimonio cultural y suprimir sus subvenciones; destinar el 2% del gasto público total a cultura; Ley del Sistema Público de la Cultura; bibliotecas obligatorias desde 2.000 habitantes.",
+      "cita": "Derogaremos la Ley 18/2013 que reconoce y protege la tauromaquia como patrimonio cultural.",
+      "pagina": 34,
+      "concrecion": "alta",
+      "cifra": "2% del gasto público",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Sector taurino y cultural.",
+        "coste": "Alto para cultura.",
+        "viabilidad": "Viable; el TC anuló en 2016 la prohibición catalana de toros por invadir competencias estatales.",
+        "a_favor": [
+          "Cada vez menos población apoya las corridas; bienestar animal."
+        ],
+        "en_contra": [
+          "Defensores de la tauromaquia la consideran tradición cultural."
+        ]
+      }
+    },
+    {
+      "id": "fa-044",
+      "tema": "territorio",
+      "subtema": "agro",
+      "titulo": "Transición agroecológica: no más macrogranjas y lobo protegido",
+      "resumen": "Ley de Futuro de la Agricultura con transición agroecológica; no autorizar nuevas macrogranjas; ganadería extensiva; 25% de superficie ecológica en 2030; reducir plaguicidas; devolver al lobo la protección estricta; precios justos en origen; desaparición progresiva de la flota pesquera industrial.",
+      "cita": "No autorizaremos nuevas macrogranjas.",
+      "pagina": 77,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Agricultores, ganaderos (especialmente intensivos), pescadores.",
+        "coste": "Ayudas a la transición.",
+        "viabilidad": "Choca con los intereses de parte del sector agrario y de la industria cárnica.",
+        "a_favor": [
+          "Las macrogranjas contaminan acuíferos con nitratos."
+        ],
+        "en_contra": [
+          "Las organizaciones agrarias rechazan la protección estricta del lobo y la reducción de la ganadería intensiva."
+        ]
+      }
+    },
+    {
+      "id": "fa-045",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Cerrar fundaciones franquistas y ley de bebés robados",
+      "resumen": "Desarrollar la Ley de Memoria con reparación a todas las víctimas del franquismo; cerrar fundaciones franquistas; desacralizar Cuelgamuros; Ley sobre Bebés Robados; restitución de bienes incautados.",
+      "cita": "Aprobaremos una Ley sobre Bebés Robados.",
+      "pagina": 147,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Víctimas del franquismo y familias de bebés robados.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Reparación de víctimas largamente reclamada."
+        ],
+        "en_contra": [
+          "PP y Vox lo consideran revisionismo divisivo."
+        ]
+      }
+    },
+    {
+      "id": "fa-b01",
+      "tema": "animales",
+      "subtema": "compania",
+      "titulo": "Endurecer penas por maltrato e incluir a los perros de caza en la ley",
+      "resumen": "Reformar la Ley de Bienestar Animal para incluir perros de caza y de trabajo; penas crecientes por reincidencia y sin sustituirlas por multa; maltrato animal como violencia vicaria.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Reformaremos la Ley 7/2023 de protección de los derechos y el bienestar de los animales, para incluir de forma plena a los perros de caza, de trabajo y a los animales empleados en actividades ganaderas o deportivas.",
+      "pagina": 75
+    },
+    {
+      "id": "fa-b02",
+      "tema": "animales",
+      "subtema": "compania",
+      "titulo": "IVA veterinario al 10%, abandono cero y mascotas permitidas en el alquiler",
+      "resumen": "Plan de abandono cero, fondo para refugios, nulas las cláusulas de alquiler que prohíban mascotas, veterinaria como profesión sanitaria.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Reduciremos el IVA de los productos veterinarios al 10 % y trabajaremos en la UE para que los servicios veterinarios de animales de compañía puedan acogerse al tipo reducido.",
+      "pagina": 76
+    },
+    {
+      "id": "fa-b03",
+      "tema": "animales",
+      "subtema": "granja",
+      "titulo": "Fin de jaulas, granjas peleteras, foie gras y peleas de gallos",
+      "resumen": "Cumplir el fin de jaulas en granjas, cerrar granjas de pieles, eliminar la alimentación forzada, prohibir matar pollitos macho, limitar transporte de animales vivos y etiquetado según sistema de cría.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Eliminaremos las peleas de gallos en todo el Estado, sin excepciones de ningún tipo.",
+      "pagina": 77
+    },
+    {
+      "id": "fa-b04",
+      "tema": "animales",
+      "subtema": "granja",
+      "titulo": "Menú 100% vegetal en comedores públicos",
+      "resumen": "Opción vegetal obligatoria en todos los comedores públicos y plan de fomento de proteínas vegetales.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Garantizaremos una opción de menú 100 % vegetal en todos los comedores públicos.",
+      "pagina": 78
+    },
+    {
+      "id": "fa-b05",
+      "tema": "animales",
+      "subtema": "silvestres",
+      "titulo": "Zoos sin exhibición, fin de delfinarios y lobo con protección estricta",
+      "resumen": "Transformar zoos y acuarios en centros de recuperación, acabar con la cautividad de cetáceos, ley de grandes simios, lobo sin gestión letal y alternativas a la experimentación animal.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Actualizaremos la Ley 31/2003 de conservación de la fauna silvestre en los parques zoológicos, para iniciar la transformación de los zoos y acuarios en espacios de recuperación y protección, eliminando paulatinamente la exhibición.",
+      "pagina": 77
+    },
+    {
+      "id": "fa-b06",
+      "tema": "animales",
+      "subtema": "tauromaquia",
+      "titulo": "Quitar toda subvención a la tauromaquia",
+      "resumen": "Derogar su protección como patrimonio y eliminar ayudas directas e indirectas (incluida la PAC al toro de lidia y retransmisiones).",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Suprimiremos las subvenciones estatales a la tauromaquia, tanto directas como indirectas, eliminando los fondos públicos por retransmisiones televisivas, cesiones de locales, subvenciones directas procedentes de la PAC e incentivos fiscales.",
+      "pagina": 75
+    },
+    {
+      "id": "fa-b07",
+      "tema": "digital",
+      "subtema": "ia",
+      "titulo": "Cárcel de hasta 4 años para directivos de plataformas que no retiren contenido ilícito",
+      "resumen": "Supervisión de la CNMC, transparencia algorítmica, elegir tu propio algoritmo, interoperabilidad entre redes y portabilidad de seguidores.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Tipificación como delito de la desobediencia de directivos de grandes plataformas a órdenes de retirada de contenidos ilícitos, castigada con penas de hasta 4 años de prisión.",
+      "pagina": 119
+    },
+    {
+      "id": "fa-b08",
+      "tema": "digital",
+      "subtema": "ia",
+      "titulo": "Prohibir chatbots 'afectivos' y cajas de recompensa en videojuegos",
+      "resumen": "Prohibir asistentes de IA que simulen vínculos sentimentales, las 'loot boxes' al alcance de menores y regular influencers y mercados de predicción.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Prohibición a los asistentes y chatbots de compañía de simular vínculos sentimentales o emplear dinámicas manipuladoras basadas en perfiles psicológicos para retener al usuario.",
+      "pagina": 121
+    },
+    {
+      "id": "fa-b09",
+      "tema": "digital",
+      "subtema": "medios",
+      "titulo": "Límites a la concentración de medios y refuerzo de EFE",
+      "resumen": "Límites a la propiedad cruzada de medios, transparencia sobre sus dueños, financiación estable de medios públicos y de EFE.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Fijaremos límites a la propiedad y al control cruzado de medios de comunicación en función de audiencias, ingresos publicitarios e influencia.",
+      "pagina": 121
+    },
+    {
+      "id": "fa-b10",
+      "tema": "digital",
+      "subtema": "ciencia",
+      "titulo": "I+D al 3% del PIB en 2030 y software libre en la Administración",
+      "resumen": "Inversión total en I+D+i del 3% del PIB en 2030 y 4% después; nube soberana y software libre para el sector público.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Alcanzaremos una inversión en I+D+i del 3 % del PIB en 2030 y del 4 % en la década siguiente.",
+      "pagina": 80
+    },
+    {
+      "id": "fa-b11",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Proteger a las librerías: coste mínimo de envío de libros",
+      "resumen": "Gastos de envío mínimos obligatorios en la venta online de libros para que las grandes plataformas no compitan con envío gratis.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Estableceremos un coste mínimo de envío obligatorio en la venta de libros a distancia para evitar que las grandes plataformas utilicen el envío gratuito como ventaja desleal frente a las librerías independientes.",
+      "pagina": 36
+    },
+    {
+      "id": "fa-b12",
+      "tema": "social",
+      "subtema": "discapacidad",
+      "titulo": "Desarrollar la ley de derechos de las personas con discapacidad",
+      "resumen": "Cumplir la Ley 4/2026: accesibilidad universal, vida independiente y autonomía personal; más profesionales de apoyo en educación inclusiva.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Desarrollaremos plenamente la Ley 4/2026 de extensión y refuerzo de los derechos de las personas con discapacidad.",
+      "pagina": 26
+    },
+    {
+      "id": "fa-b13",
+      "tema": "territorio",
+      "subtema": "islas",
+      "titulo": "Régimen especial de Baleares indefinido y apoyo al catalán en las islas",
+      "resumen": "Mantener el régimen especial balear y las ayudas al transporte de Baleares y Canarias, diversificar su economía frente a la turistificación.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Mantendremos de forma indefinida el régimen especial de Illes Balears y las ayudas al transporte de Illes Balears y Canarias.",
+      "pagina": 98
+    }
+  ],
+  "orden": 4
+}

@@ -1,0 +1,1178 @@
+{
+  "id": "psoe",
+  "nombre": "PSOE",
+  "siglas": "PSOE",
+  "color": "#d65a5a",
+  "fuente": "psoe.pdf",
+  "resumen": "Programa 'La fuerza de seguir avanzando' con 500 compromisos numerados. Parte de la gestión de gobierno desde 2018 y propone continuarla y ampliarla: vivienda pública y regulación del alquiler, jornada de 37,5 horas, más impuestos a rentas del capital y grandes fortunas, transición ecológica sin nucleares y ampliación de derechos sociales y civiles. Combina compromisos concretos con muchos genéricos.",
+  "ideas_fuerza": [
+    "Vivienda como 'quinto pilar': 1% del PIB anual, 100.000 viviendas públicas estatales, impuesto a grandes tenedores",
+    "Jornada de 37,5 h y SMI blindado por encima del 60% del salario medio",
+    "Más impuestos al capital, grandes fortunas y tecnológicas; prestación universal por crianza",
+    "Sanidad pública: dentista público, psicólogo en 30 días, limitar la privatización",
+    "Renovables al 81%, cierre nuclear hasta 2035 y defensa del Pacto Verde"
+  ],
+  "propuestas": [
+    {
+      "id": "psoe-001",
+      "tema": "vivienda",
+      "subtema": "vivienda-publica",
+      "titulo": "Movilizar el 1% del PIB al año para vivienda",
+      "resumen": "Dedicar cada año el equivalente al 1% del PIB (unos 15.000 M€) a garantizar el acceso a la vivienda asequible, sumando a todas las administraciones y al ICO vía el Fondo España Crece.",
+      "cita": "Movilizar anualmente un 1% del PIB para garantizar el acceso a la vivienda.",
+      "pagina": 27,
+      "concrecion": "alta",
+      "cifra": "1% del PIB anual (~15.000 M€)",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Jóvenes y familias con dificultades de acceso; sector construcción.",
+        "coste": "Muy elevado; mezcla gasto, préstamos y avales, por lo que el esfuerzo presupuestario real es menor que la cifra.",
+        "viabilidad": "Depende de que CCAA y ayuntamientos colaboren; en la legislatura anterior ya hubo problemas de ejecución.",
+        "a_favor": [
+          "España gasta en vivienda muy por debajo de la media europea.",
+          "Objetivo cuantificado y evaluable."
+        ],
+        "en_contra": [
+          "'Movilizar' incluye préstamos y avales, no solo gasto directo.",
+          "La oposición critica que tras ocho años de gobierno el problema ha empeorado."
+        ]
+      }
+    },
+    {
+      "id": "psoe-002",
+      "tema": "vivienda",
+      "subtema": "vivienda-publica",
+      "titulo": "Parque estatal de 100.000 viviendas públicas permanentes (CASA 47)",
+      "resumen": "La entidad estatal CASA 47 construirá y comprará 100.000 viviendas para alquiler o venta asequible, que nunca perderán su protección. Además, al menos una cuarta parte de toda la vivienda nueva deberá ser protegida.",
+      "cita": "Constituir un parque público estatal de 100.000 viviendas mediante la construcción y adquisición para incrementar la oferta de vivienda para la venta o alquiler estable a precio asequible.",
+      "pagina": 28,
+      "concrecion": "alta",
+      "cifra": "100.000 viviendas; ≥25% de la obra nueva protegida",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas con ingresos medios y bajos que buscan alquiler asequible.",
+        "coste": "Varios miles de millones; se financia con el Plan Estatal de Vivienda (7.000 M€) y el ICO.",
+        "viabilidad": "No fija plazo; construir 100.000 viviendas lleva años.",
+        "a_favor": [
+          "Protección permanente: evita que la vivienda pública acabe en el mercado libre como pasó en el pasado.",
+          "España tiene un parque público muy pequeño (2-3%) frente a la media europea (~9%)."
+        ],
+        "en_contra": [
+          "Sin calendario.",
+          "Comprar viviendas existentes no aumenta la oferta total."
+        ]
+      }
+    },
+    {
+      "id": "psoe-003",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Contratos de alquiler más largos y congelar rentas por encima del índice",
+      "resumen": "Ampliar la duración de los contratos de alquiler, congelar temporalmente las rentas que superen el índice de referencia en zonas tensionadas, que el Ministerio publique el mapa de zonas tensionadas si las CCAA no lo hacen y seguro público de impago para jóvenes.",
+      "cita": "Congelar temporalmente las rentas que superen los índices de referencia, evitando incrementos abusivos en los mercados tensionados.",
+      "pagina": 30,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Inquilinos y propietarios en zonas tensionadas.",
+        "coste": "Bajo para el Estado.",
+        "viabilidad": "La declaración de zonas tensionadas corresponde a las CCAA; varias gobernadas por el PP se niegan.",
+        "a_favor": [
+          "Da estabilidad a los inquilinos frente a subidas abruptas.",
+          "El seguro de impago reduce el miedo de los propietarios a alquilar."
+        ],
+        "en_contra": [
+          "Parte de la evidencia indica que los controles de precio reducen la oferta de alquiler tradicional y desplazan al de temporada."
+        ]
+      }
+    },
+    {
+      "id": "psoe-004",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Impuesto progresivo a viviendas de grandes tenedores no destinadas a alquiler asequible",
+      "resumen": "Nuevo impuesto progresivo a las viviendas de fondos y grandes propietarios que estén vacías, sean turísticas o se alquilen a precio abusivo. Impuesto a solares residenciales sin construir. Limitar la compra especulativa en zonas tensionadas.",
+      "cita": "Se gravará con un impuesto progresivo la posesión de todas aquellas viviendas de grandes propietarios y fondos buitre que no se destinen a alquiler residencial asequible.",
+      "pagina": 31,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Fondos de inversión, grandes propietarios (normalmente +10 viviendas).",
+        "coste": "Genera ingresos; no cuantificados.",
+        "viabilidad": "Viable; similar a impuestos sobre vivienda vacía en otros países, aunque detectar 'precio abusivo' es complejo.",
+        "a_favor": [
+          "Busca movilizar viviendas existentes hacia el alquiler residencial."
+        ],
+        "en_contra": [
+          "Los grandes tenedores poseen una parte pequeña del parque (en torno al 5-10%).",
+          "Riesgo de que trasladen el coste o vendan en lugar de alquilar."
+        ]
+      }
+    },
+    {
+      "id": "psoe-005",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Recargo municipal a los pisos turísticos",
+      "resumen": "Permitir a los ayuntamientos cobrar un recargo por pernoctación en viviendas turísticas, destinado a vivienda, servicios y limpieza. Perseguir el fraude en alquiler de temporada.",
+      "cita": "Permitir que los municipios que lo deseen pongan un impuesto sobre las pernoctaciones en las viviendas de uso turístico.",
+      "pagina": 32,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Propietarios de pisos turísticos y turistas.",
+        "coste": "Genera ingresos municipales.",
+        "viabilidad": "Viable; voluntario para cada ayuntamiento.",
+        "a_favor": [
+          "Compensa el impacto del turismo en barrios saturados."
+        ],
+        "en_contra": [
+          "El sector turístico teme pérdida de competitividad."
+        ]
+      }
+    },
+    {
+      "id": "psoe-006",
+      "tema": "vivienda",
+      "subtema": "compra",
+      "titulo": "Préstamos de hasta 50.000 € sin intereses para la primera vivienda (TU CASA)",
+      "resumen": "Desplegar y ampliar el programa TU CASA: préstamos de hasta 50.000 € sin intereses para comprar la primera vivienda, dirigido a personas con ingresos estables sin ahorros. 25.000 M€ del ICO en avales y préstamos para vivienda asequible.",
+      "cita": "Desplegar el Programa TUCASA y ampliar su dotación en caso de que se agoten los 10.000 millones de euros de la línea de préstamos de hasta 50 mil euros sin intereses.",
+      "pagina": 30,
+      "concrecion": "alta",
+      "cifra": "Hasta 50.000 € a 0%; 10.000 M€",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Jóvenes compradores con ingresos estables.",
+        "coste": "10.000 M€ en préstamos (coste real: los intereses no cobrados y los impagos).",
+        "viabilidad": "Ya aprobado; se amplía.",
+        "a_favor": [
+          "Ataca la barrera de la entrada."
+        ],
+        "en_contra": [
+          "Como toda ayuda a la demanda, puede presionar los precios al alza si no aumenta la oferta."
+        ]
+      }
+    },
+    {
+      "id": "psoe-007",
+      "tema": "vivienda",
+      "subtema": "okupacion",
+      "titulo": "Protección frente a desahucios de vulnerables, pagada por la Administración",
+      "resumen": "Marco estable que impida desahuciar a personas vulnerables sin alternativa habitacional, con la Administración (no el pequeño propietario) asumiendo el coste. Mantener juicios rápidos contra la okupación y desalojo en 48 horas.",
+      "cita": "Asegurar que el coste de la prohibición de los desahucios a personas vulnerables no recaiga sobre el pequeño propietario o propietaria debiendo asumir el coste directamente las administraciones.",
+      "pagina": 33,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Familias vulnerables y pequeños propietarios.",
+        "coste": "La Administración compensa a los propietarios; no cuantificado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Protege a familias sin recursos sin cargar al pequeño propietario."
+        ],
+        "en_contra": [
+          "Si las compensaciones tardan, el propietario sigue soportando el coste; críticos lo ven como incentivo al impago."
+        ]
+      }
+    },
+    {
+      "id": "psoe-008",
+      "tema": "vivienda",
+      "subtema": "vivienda-publica",
+      "titulo": "Vivienda como derecho fundamental en la Constitución",
+      "resumen": "Reformar la Constitución para que la vivienda sea un derecho fundamental exigible ante los tribunales (también la sanidad).",
+      "cita": "Reformar la Constitución Española para que la vivienda se considere un derecho fundamental, permitiendo así que la ciudadanía pueda exigir su cumplimiento a los poderes públicos.",
+      "pagina": 27,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Todos los ciudadanos.",
+        "coste": "Potencialmente elevado si se reconocen reclamaciones judiciales.",
+        "viabilidad": "Necesita mayorías de 3/5 o 2/3 en Cortes: requiere al PP.",
+        "a_favor": [
+          "Hace exigible un derecho hoy solo programático."
+        ],
+        "en_contra": [
+          "Sin el apoyo del PP es inviable; puede ser más simbólica que práctica."
+        ]
+      }
+    },
+    {
+      "id": "psoe-009",
+      "tema": "trabajo",
+      "subtema": "jornada",
+      "titulo": "Jornada de 37,5 horas sin bajar sueldo y avanzar hacia 35",
+      "resumen": "Completar la reducción de la jornada máxima legal a 37,5 horas semanales sin pérdida salarial, con periodos transitorios para pymes, e incentivar llegar a 35 horas en convenios. Registro horario digital para acabar con las horas extra no pagadas.",
+      "cita": "Completar la reducción de la jornada a 37,5 horas e incentivar los avances en la negociación colectiva hacia las 35 horas.",
+      "pagina": 41,
+      "concrecion": "alta",
+      "cifra": "37,5 h/semana",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Unos 12 millones de asalariados con jornada de 40 horas; empresas, especialmente pymes.",
+        "coste": "Coste para empresas (más horas a contratar o menor producción).",
+        "viabilidad": "El Congreso la rechazó en 2025; requiere mayoría parlamentaria.",
+        "a_favor": [
+          "Más tiempo libre y conciliación.",
+          "La jornada pactada media ya está cerca de 38 horas."
+        ],
+        "en_contra": [
+          "Las patronales advierten de pérdida de competitividad en pymes y sectores intensivos en mano de obra."
+        ]
+      }
+    },
+    {
+      "id": "psoe-010",
+      "tema": "trabajo",
+      "subtema": "salarios",
+      "titulo": "Blindar por ley el SMI por encima del 60% del salario medio",
+      "resumen": "Fijar por ley que el salario mínimo esté siempre por encima del 60% del salario medio y que las subidas no puedan absorberse con complementos salariales.",
+      "cita": "Blindar por ley el SMI por encima del 60% del salario medio y actualizarlo periódicamente.",
+      "pagina": 37,
+      "concrecion": "alta",
+      "cifra": "SMI > 60% del salario medio",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Trabajadores con salarios bajos (más de 2 millones cobran el SMI).",
+        "coste": "Para empresas de sectores con salarios bajos (agricultura, hostelería, comercio).",
+        "viabilidad": "Viable; cumple la Carta Social Europea.",
+        "a_favor": [
+          "El SMI ha subido un 66% desde 2018 sin destruir empleo según la mayoría de estudios."
+        ],
+        "en_contra": [
+          "El Banco de España detectó efectos negativos en empleo de algunos colectivos y zonas de bajos salarios.",
+          "Atarlo por ley quita margen en una crisis."
+        ]
+      }
+    },
+    {
+      "id": "psoe-011",
+      "tema": "trabajo",
+      "subtema": "contratos",
+      "titulo": "Encarecer el despido improcedente y recuperar salarios de tramitación",
+      "resumen": "Reformar la indemnización por despido improcedente para que repare el daño real y sea disuasoria (según la Carta Social Europea), recuperar los salarios de tramitación y limitar la parcialidad involuntaria (más del 80% de la jornada cuenta como completa).",
+      "cita": "Reformar el despido improcedente para garantizar una reparación efectiva, proporcionada y disuasoria, teniendo en cuenta las circunstancias y los daños causados.",
+      "pagina": 41,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Trabajadores despedidos y empresas.",
+        "coste": "Aumenta el coste del despido para empresas.",
+        "viabilidad": "El Comité Europeo de Derechos Sociales ya consideró insuficiente el sistema español.",
+        "a_favor": [
+          "Protege frente a despidos arbitrarios baratos."
+        ],
+        "en_contra": [
+          "Las empresas advierten que encarecer el despido frena la contratación indefinida."
+        ]
+      }
+    },
+    {
+      "id": "psoe-012",
+      "tema": "trabajo",
+      "subtema": "contratos",
+      "titulo": "Integrar las mutuas en la gestión pública y Estatuto del Becario",
+      "resumen": "Convertir las mutuas en entidades gestoras públicas de la Seguridad Social; Estatuto del Becario con prácticas remuneradas y derecho a paro; plan para mayores de 45; evaluación obligatoria de riesgos de salud mental en el trabajo.",
+      "cita": "Integrar las mutuas colaboradoras en la gestión pública de la Seguridad Social.",
+      "pagina": 40,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Mutuas, trabajadores de baja, becarios.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable con diálogo social.",
+        "a_favor": [
+          "Más control público sobre las bajas laborales."
+        ],
+        "en_contra": [
+          "Postura opuesta a la del PP, que quiere dar más papel a las mutuas para reducir el absentismo."
+        ]
+      }
+    },
+    {
+      "id": "psoe-013",
+      "tema": "fiscalidad",
+      "subtema": "patrimonio",
+      "titulo": "Subir el impuesto a las rentas del capital altas hasta el 35%",
+      "resumen": "Mantener los tipos del ahorro hasta 50.000 € y subirlos a partir de ahí, hasta un máximo del 35% para rentas de capital superiores a 300.000 €. Tributación complementaria de grandes patrimonios para financiar la prestación por crianza.",
+      "cita": "Llegando progresivamente a un tipo máximo del 35% para rentas del capital superiores a 300.000€.",
+      "pagina": 48,
+      "concrecion": "alta",
+      "cifra": "Máximo 35% (hoy 30%) para > 300.000 €",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas con altas rentas de dividendos, intereses o plusvalías (una minoría muy pequeña).",
+        "coste": "Genera ingresos.",
+        "viabilidad": "Competencia estatal.",
+        "a_favor": [
+          "Acerca la tributación del capital a la del trabajo (hasta 47%).",
+          "No afecta al pequeño ahorrador."
+        ],
+        "en_contra": [
+          "El capital es móvil: riesgo de deslocalización o de usar sociedades para diferir impuestos."
+        ]
+      }
+    },
+    {
+      "id": "psoe-014",
+      "tema": "fiscalidad",
+      "subtema": "empresas-fiscal",
+      "titulo": "Más impuestos a tecnológicas, jets privados y sueldos de directivos desproporcionados",
+      "resumen": "Ampliar la tasa Google a grandes tecnológicas y a la IA; tasa a jets privados, megayates y billetes business; más Impuesto de Sociedades a cotizadas donde el CEO gane más de 100 veces la mediana de su plantilla; duplicar la tasa Tobin del 0,2% al 0,4%.",
+      "cita": "Aumentar la tributación de las empresas cotizadas cuya ratio entre la retribución total de su ejecutivo principal y la mediana de su plantilla supere 100 a 1.",
+      "pagina": 48,
+      "concrecion": "alta",
+      "cifra": "Ratio CEO/plantilla 100:1; tasa Tobin 0,4%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Grandes empresas tecnológicas, cotizadas y personas de muy alto patrimonio.",
+        "coste": "Genera ingresos, probablemente modestos.",
+        "viabilidad": "La tasa Google provocó amenazas de aranceles de EE.UU.",
+        "a_favor": [
+          "Grava a quien más tiene y tiene huella ambiental alta.",
+          "Desincentiva la desigualdad salarial extrema."
+        ],
+        "en_contra": [
+          "Riesgo de represalias comerciales de EE.UU.",
+          "La tasa Tobin recauda menos de lo previsto y puede reducir liquidez en bolsa."
+        ]
+      }
+    },
+    {
+      "id": "psoe-015",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Deducción por hijos reembolsable y no subir IRPF a quien cobra el SMI",
+      "resumen": "Convertir el mínimo por descendiente del IRPF en un crédito reembolsable para que lo cobren 2 millones de hogares que hoy no se benefician; deducción automática en IRPF cuando suban mucho los precios; el SMI no pagará IRPF.",
+      "cita": "Convertiremos el mínimo exento por descendiente en el IRPF en un crédito fiscal reembolsable, lo que permitirá que se beneficien de él 2 millones de hogares de ingresos medios y bajos.",
+      "pagina": 49,
+      "concrecion": "alta",
+      "cifra": "2 millones de hogares más",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Familias con hijos de rentas bajas y medias.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Llega a quien no tiene cuota suficiente de IRPF (propuesta coincidente con la del PP)."
+        ],
+        "en_contra": [
+          "No se concreta la cuantía por hijo."
+        ]
+      }
+    },
+    {
+      "id": "psoe-016",
+      "tema": "fiscalidad",
+      "subtema": "gasto",
+      "titulo": "Nueva financiación autonómica (+21.000 M€) y condonación de 83.000 M€ de deuda",
+      "resumen": "Aplicar el nuevo sistema de financiación autonómica con 21.000 M€ adicionales y que el Estado asuma 83.000 M€ de deuda de las CCAA. Reducir déficit y deuda según las reglas europeas.",
+      "cita": "Avanzaremos en la asunción parcial por el Estado de 83.000 millones de euros de deuda autonómica.",
+      "pagina": 60,
+      "concrecion": "alta",
+      "cifra": "+21.000 M€; 83.000 M€ de deuda asumida",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Todas las CCAA y, por tanto, sus servicios públicos.",
+        "coste": "La deuda asumida pasa al Estado (no desaparece).",
+        "viabilidad": "Las CCAA del PP rechazan la quita por considerarla un premio a Cataluña.",
+        "a_favor": [
+          "Más recursos para sanidad, educación y dependencia, que gestionan las CCAA."
+        ],
+        "en_contra": [
+          "Críticos señalan que premia a las comunidades más endeudadas.",
+          "Vinculado a acuerdos con ERC sobre financiación de Cataluña."
+        ]
+      }
+    },
+    {
+      "id": "psoe-017",
+      "tema": "social",
+      "subtema": "pensiones",
+      "titulo": "Blindar en la Constitución las pensiones con el IPC",
+      "resumen": "Reforma constitucional para garantizar la revalorización de pensiones con el IPC; acabar de desplegar la 'cuota de solidaridad' (más cotización a sueldos altos); un año más cotizado por hijo; mejorar la jubilación anticipada en trabajos penosos; orfandad del 20% al 30%.",
+      "cita": "Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC.",
+      "pagina": 40,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Pensionistas actuales y futuros; trabajadores con sueldos altos (cuota de solidaridad).",
+        "coste": "El gasto en pensiones ya supera el 12% del PIB y seguirá creciendo.",
+        "viabilidad": "Reforma constitucional requiere amplias mayorías.",
+        "a_favor": [
+          "Da certidumbre a los pensionistas."
+        ],
+        "en_contra": [
+          "AIReF y la Comisión Europea alertan de la presión de las pensiones sobre las cuentas a largo plazo."
+        ]
+      }
+    },
+    {
+      "id": "psoe-018",
+      "tema": "social",
+      "subtema": "pobreza",
+      "titulo": "Bono social único y automático para luz, gas, transporte, agua y teléfono",
+      "resumen": "Unificar todos los bonos sociales en un único derecho que se reconozca de oficio con datos fiscales; automatizar el Ingreso Mínimo Vital y ajustar su cuantía al coste de la crianza.",
+      "cita": "Crear un bono social único y automático. Integrar el bono social eléctrico, el térmico, las bonificaciones de transporte y las tarifas sociales de telecomunicaciones y agua.",
+      "pagina": 37,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Hogares vulnerables.",
+        "coste": "Aumenta el número de beneficiarios efectivos.",
+        "viabilidad": "Viable; requiere cruce de datos entre administraciones.",
+        "a_favor": [
+          "Una gran parte de quienes tienen derecho a ayudas no las piden por desconocimiento o burocracia."
+        ],
+        "en_contra": [
+          "El IMV ha tenido muchos problemas de gestión y cobros indebidos."
+        ]
+      }
+    },
+    {
+      "id": "psoe-019",
+      "tema": "familia",
+      "subtema": "natalidad",
+      "titulo": "Prestación universal por crianza para todos los menores",
+      "resumen": "Nueva prestación estatal progresiva para todos los hogares con menores (8 millones de niños), mayor en rentas bajas, financiada con impuestos a grandes patrimonios y rentas del capital. Y 'Cuenta de Futuro': 1.000 € al nacer invertidos en fondos públicos, disponibles a los 18 años.",
+      "cita": "Prestación estatal por crianza para todos los hogares con menores de edad, con un diseño fiscal redistributivo y una protección adicional para los hogares de renta baja.",
+      "pagina": 56,
+      "concrecion": "media",
+      "cifra": "Cuenta de Futuro: 1.000 € al nacer",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Todas las familias con hijos menores de edad.",
+        "coste": "Alto; no se fija la cuantía mensual.",
+        "viabilidad": "Depende de la recaudación de los nuevos impuestos al capital.",
+        "a_favor": [
+          "España tiene una de las tasas de pobreza infantil más altas de la UE.",
+          "La mayoría de países europeos tienen ayuda universal por hijo."
+        ],
+        "en_contra": [
+          "No dice cuánto se cobraría.",
+          "Financiación ligada a impuestos de recaudación incierta."
+        ]
+      }
+    },
+    {
+      "id": "psoe-020",
+      "tema": "familia",
+      "subtema": "conciliacion",
+      "titulo": "Pagar 4 semanas del permiso parental al 100%",
+      "resumen": "Prestación que cubra al 100% cuatro semanas del permiso parental para cuidado de hijos menores de 8 años; una semana extra de permiso cuando ambos progenitores no solapen; Ley de Usos del Tiempo.",
+      "cita": "Una prestación de la Seguridad Social que cubra cuatro semanas del permiso parental para el cuidado de hijos menores de ocho años con el 100 % de la base reguladora.",
+      "pagina": 40,
+      "concrecion": "alta",
+      "cifra": "4 semanas al 100%",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Padres y madres trabajadores con hijos pequeños.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable; cumple una directiva europea que España tenía pendiente.",
+        "a_favor": [
+          "Hoy el permiso parental de 8 semanas no está pagado y apenas se usa."
+        ],
+        "en_contra": [
+          "Costes de organización para pymes."
+        ]
+      }
+    },
+    {
+      "id": "psoe-021",
+      "tema": "familia",
+      "subtema": "infancia",
+      "titulo": "Redes sociales a partir de 16 años y responsabilidad penal de directivos",
+      "resumen": "Edad mínima de 16 años para redes sociales, verificación de edad anónima con la cartera digital pública, cuentas de menores invisibles a adultos desconocidos, límites a chatbots de IA para menores y responsabilidad de directivos de plataformas por delitos que toleren.",
+      "cita": "Establecer a 16 años la edad mínima para usar redes sociales.",
+      "pagina": 95,
+      "concrecion": "alta",
+      "cifra": "Edad mínima 16 años",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Menores, familias y plataformas.",
+        "coste": "Bajo.",
+        "viabilidad": "Choca con el marco europeo de servicios digitales; la verificación anónima está en pruebas.",
+        "a_favor": [
+          "Verificación sin dar datos a las plataformas protege la privacidad."
+        ],
+        "en_contra": [
+          "Eludible con VPN o cuentas de adultos."
+        ]
+      }
+    },
+    {
+      "id": "psoe-022",
+      "tema": "sanidad",
+      "subtema": "prestaciones",
+      "titulo": "Dentista en la sanidad pública (Plan Sonríe)",
+      "resumen": "Incorporar progresivamente a la sanidad pública los tratamientos dentales básicos para adultos (empastes, endodoncias, periodoncia) y, mientras tanto, una ayuda de hasta 200 € al año por persona empezando por rentas medias y bajas.",
+      "cita": "Crearemos una ayuda directa de hasta 200 euros anuales por persona, que empezará por los hogares de rentas medias y bajas, para cuidar tu boca.",
+      "pagina": 49,
+      "concrecion": "alta",
+      "cifra": "Hasta 200 €/año por persona",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Adultos que hoy pagan el dentista de su bolsillo.",
+        "coste": "Elevado si se universaliza.",
+        "viabilidad": "La atención la prestan las CCAA; faltan dentistas en la red pública.",
+        "a_favor": [
+          "La salud bucodental es una de las mayores lagunas del sistema público."
+        ],
+        "en_contra": [
+          "200 € cubren poco; es una medida 'mientras tanto' sin calendario para la cobertura total."
+        ]
+      }
+    },
+    {
+      "id": "psoe-023",
+      "tema": "sanidad",
+      "subtema": "salud-mental",
+      "titulo": "Psicólogo gratis en la pública con primera cita en máximo 30 días",
+      "resumen": "Derecho a atención psicológica gratuita con primera consulta en 30 días como máximo, más psicólogos clínicos en Atención Primaria y programas de salud mental infantojuvenil y prevención del suicidio.",
+      "cita": "Garantizar el derecho a la atención psicológica gratuita en la sanidad pública, con una primera consulta en un plazo máximo de 30 días.",
+      "pagina": 50,
+      "concrecion": "alta",
+      "cifra": "Primera cita en ≤ 30 días",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas con problemas de salud mental.",
+        "coste": "Requiere contratar miles de psicólogos clínicos.",
+        "viabilidad": "Faltan especialistas formados (PIR); depende de CCAA.",
+        "a_favor": [
+          "España tiene unos 6 psicólogos clínicos públicos por 100.000 habitantes, frente a ~18 de media europea."
+        ],
+        "en_contra": [
+          "Garantía difícil de cumplir sin plazas suficientes."
+        ]
+      }
+    },
+    {
+      "id": "psoe-024",
+      "tema": "sanidad",
+      "subtema": "gestion",
+      "titulo": "Limitar la privatización: gestión pública directa como modalidad preferente",
+      "resumen": "Establecer por ley la gestión directa pública como forma preferente de prestar la sanidad, con una Ley de Buen Gobierno del SNS; financiación sanitaria en torno al 7% del PIB para acabar con las listas de espera.",
+      "cita": "Limitar la privatización de la sanidad estableciendo la gestión directa como modalidad preferente en la prestación sanitaria.",
+      "pagina": 49,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Conciertos sanitarios de las CCAA (Madrid, Comunidad Valenciana, Cataluña…).",
+        "coste": "Puede requerir más inversión pública inicial.",
+        "viabilidad": "La gestión es autonómica; ley estatal básica posible pero conflictiva.",
+        "a_favor": [
+          "Mayor control público y transparencia."
+        ],
+        "en_contra": [
+          "A corto plazo, limitar conciertos puede aumentar listas de espera."
+        ]
+      }
+    },
+    {
+      "id": "psoe-025",
+      "tema": "sanidad",
+      "subtema": "prestaciones",
+      "titulo": "Garantizar la eutanasia y el aborto en todo el territorio",
+      "resumen": "Garantizar el ejercicio efectivo de la eutanasia y blindar en la Constitución el derecho al aborto (reforma del artículo 43 ya iniciada) para que pueda realizarse en igualdad en todas las CCAA, incluida la red pública.",
+      "cita": "Blindar constitucionalmente el derecho a la interrupción voluntaria del embarazo.",
+      "pagina": 81,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Mujeres que deciden abortar; pacientes que solicitan eutanasia; sanitarios objetores.",
+        "coste": "Bajo.",
+        "viabilidad": "Reforma constitucional necesita 3/5 de las Cortes.",
+        "a_favor": [
+          "En varias provincias es difícil abortar en la sanidad pública por la objeción generalizada."
+        ],
+        "en_contra": [
+          "Quienes se oponen al aborto lo consideran contrario al derecho a la vida."
+        ]
+      }
+    },
+    {
+      "id": "psoe-026",
+      "tema": "educacion",
+      "subtema": "universidad",
+      "titulo": "Primer curso de grado gratis en universidades públicas y becas Erasmus de hasta 1.500 €",
+      "resumen": "Gratuidad de la matrícula del primer curso de grado en la pública; becas Erasmus de 1.000 a 1.500 € al mes según renta; complementos para primera generación universitaria; más residencias; más exigencia a universidades privadas.",
+      "cita": "Impulsar la gratuidad de la matrícula del primer curso de grado en las universidades públicas de todo el país.",
+      "pagina": 53,
+      "concrecion": "alta",
+      "cifra": "Erasmus 1.000-1.500 €/mes",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Estudiantes universitarios.",
+        "coste": "Moderado.",
+        "viabilidad": "Las tasas las fijan las CCAA; requiere acuerdos.",
+        "a_favor": [
+          "Reduce barreras de entrada; las becas Erasmus actuales no cubren el coste de vida."
+        ],
+        "en_contra": [
+          "La matrícula gratuita también beneficia a familias con recursos."
+        ]
+      }
+    },
+    {
+      "id": "psoe-027",
+      "tema": "educacion",
+      "subtema": "escuela",
+      "titulo": "Universalizar la educación 0-3 pública, bajar ratios y Estatuto Docente",
+      "resumen": "Universalizar 0-3 con más escuelas infantiles públicas; limitar alumnos por aula; un orientador por cada 250 alumnos; abandono escolar por debajo del 10% en 2030; comedor gratuito para alumnado en pobreza.",
+      "cita": "Universalizar la educación de 0 a 3 años, promoviendo su inclusión plena en el sistema, aumentando progresivamente la oferta de escuelas infantiles públicas.",
+      "pagina": 51,
+      "concrecion": "media",
+      "cifra": "1 orientador / 250 alumnos; abandono < 10%",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Familias con hijos pequeños, alumnado y docentes.",
+        "coste": "Alto.",
+        "viabilidad": "Competencia autonómica.",
+        "a_favor": [
+          "La educación temprana reduce desigualdades."
+        ],
+        "en_contra": [
+          "Sin plazos ni cifras para el 0-3 (a diferencia del PP, que promete gratuidad en la legislatura)."
+        ]
+      }
+    },
+    {
+      "id": "psoe-028",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Mantener el cierre nuclear hasta 2035 y 81% renovable en 2030",
+      "resumen": "Mantener el calendario de cierre de las nucleares (2027-2035) con planes de transición justa para las comarcas; 81% de electricidad renovable en 2030; almacenamiento, bombeo hidráulico e hidrógeno verde; hoja de ruta de abandono de combustibles fósiles.",
+      "cita": "Mantener el calendario de cierre de las centrales nucleares hasta 2035 y desarrollar proyectos de transición justa en las comarcas afectadas.",
+      "pagina": 65,
+      "concrecion": "alta",
+      "cifra": "81% renovable en 2030",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Sistema eléctrico, comarcas nucleares (Almaraz, Ascó…).",
+        "coste": "Inversión en almacenamiento y redes; transición justa.",
+        "viabilidad": "Las eléctricas propietarias de Almaraz pidieron prorrogarla; el Gobierno puede negarse.",
+        "a_favor": [
+          "Las renovables han abaratado el precio mayorista en España.",
+          "Sin residuos nucleares nuevos."
+        ],
+        "en_contra": [
+          "Tras el apagón de abril de 2025, hay dudas sobre la estabilidad de un sistema con tanta renovable y menos generación firme."
+        ]
+      }
+    },
+    {
+      "id": "psoe-029",
+      "tema": "medio-ambiente",
+      "subtema": "clima",
+      "titulo": "Defender el Pacto Verde, ZBE y Agencia Estatal de Protección Civil",
+      "resumen": "Defender el Pacto Verde europeo sin rebajar ambición; impulsar Zonas de Bajas Emisiones; Ley de Adaptación al Cambio Climático; Agencia Estatal de Protección Civil y Emergencias; Centro de predicción de fenómenos extremos; refugios climáticos.",
+      "cita": "Defender y profundizar el Pacto Verde Europeo, garantizando que la simplificación administrativa no suponga una reducción de la ambición climática.",
+      "pagina": 73,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Industria, transporte, ciudades.",
+        "coste": "Fondos europeos y Plan Social para el Clima (9.000 M€).",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "España es especialmente vulnerable al cambio climático (DANA, incendios, sequías)."
+        ],
+        "en_contra": [
+          "Costes de la transición para hogares y sectores como transporte o agricultura."
+        ]
+      }
+    },
+    {
+      "id": "psoe-030",
+      "tema": "medio-ambiente",
+      "subtema": "agua",
+      "titulo": "Agua como derecho constitucional y regadíos sin más consumo",
+      "resumen": "Mínimo vital de agua para hogares vulnerables blindado en la Constitución; bancos públicos de agua; más desalación y reutilización; modernizar regadíos sin aumentar el consumo total; centros de datos con uso responsable de agua.",
+      "cita": "Modernizar los regadíos, mejorando la eficiencia hídrica y energética sin aumentar el consumo total de agua.",
+      "pagina": 68,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Hogares, regantes, industria.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Evita el 'efecto rebote' del ahorro en regadío."
+        ],
+        "en_contra": [
+          "Los regantes reclaman más agua, no solo eficiencia."
+        ]
+      }
+    },
+    {
+      "id": "psoe-031",
+      "tema": "migracion",
+      "subtema": "integracion",
+      "titulo": "Migración regular y Plan de Integración de 500 M€",
+      "resumen": "Plan de Integración y Ciudadanía 2026-2030 con 500 M€; contratación en origen y homologación ágil de títulos; ampliar vías legales de asilo y visados humanitarios; sistema de acogida con el interés del menor en el centro; Unidad de Apoyo a la Infancia Migrante.",
+      "cita": "Desplegar el Plan de Integración y Ciudadanía 2026-2030, con una dotación inicial de 500 millones de euros.",
+      "pagina": 92,
+      "concrecion": "media",
+      "cifra": "500 M€",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Personas migrantes y refugiadas; CCAA de acogida.",
+        "coste": "500 M€ iniciales.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "España necesita mano de obra por el envejecimiento; la integración reduce conflictos."
+        ],
+        "en_contra": [
+          "No incluye medidas sobre devoluciones o control de fronteras, que preocupan a parte de la población."
+        ]
+      }
+    },
+    {
+      "id": "psoe-032",
+      "tema": "igualdad",
+      "subtema": "genero",
+      "titulo": "Ley abolicionista de la prostitución y ley contra la violencia vicaria",
+      "resumen": "Ley orgánica que prohíba el proxenetismo en todas sus formas y trate a las personas prostituidas como víctimas; ley contra la trata; ley contra la violencia vicaria; delito específico de deepfakes sexuales; coeducación y educación afectivo-sexual obligatorias.",
+      "cita": "Aprobar una Ley Orgánica contra la Trata de Seres Humanos, y una Ley Orgánica Abolicionista del Sistema Prostitucional, prohibiendo el proxenetismo en todas sus formas.",
+      "pagina": 83,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Mujeres en prostitución, víctimas de violencia de género.",
+        "coste": "Programas de salida y protección.",
+        "viabilidad": "Las leyes abolicionistas han fracasado en legislaturas anteriores por falta de apoyos.",
+        "a_favor": [
+          "Modelo 'nórdico' adoptado en Suecia, Francia o Irlanda."
+        ],
+        "en_contra": [
+          "Colectivos de trabajadoras sexuales y parte del feminismo creen que empuja la actividad a la clandestinidad."
+        ]
+      }
+    },
+    {
+      "id": "psoe-033",
+      "tema": "igualdad",
+      "subtema": "lgtbi",
+      "titulo": "Ley Trans como 'suelo común' y prohibir terapias de conversión",
+      "resumen": "Garantizar que la Ley Trans/LGTBI (4/2023) se aplique igual en toda España frente a retrocesos autonómicos; penalizar en el Código Penal las 'terapias de conversión'; garantizar tratamientos hormonales.",
+      "cita": "Culminar la reforma del Código Penal para penalizar las llamadas «terapias de conversión».",
+      "pagina": 96,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Personas LGTBI, en especial trans.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "España lidera el ranking europeo de derechos LGTBI."
+        ],
+        "en_contra": [
+          "La autodeterminación de sexo sigue siendo polémica, también dentro del feminismo."
+        ]
+      }
+    },
+    {
+      "id": "psoe-034",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Completar exhumaciones y retirar simbología franquista",
+      "resumen": "Completar el Plan de Exhumaciones y el censo de víctimas, culminar la resignificación de Cuelgamuros, retirar simbología franquista y avanzar en eliminar entidades que hagan apología de la dictadura.",
+      "cita": "Completar el Plan de Exhumaciones, finalizar el Censo de las Víctimas de la Guerra y la Dictadura y ampliar las medidas de reconocimiento y reparación.",
+      "pagina": 98,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Familias de víctimas del franquismo; fundaciones franquistas.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "España es de los países con más desaparecidos en fosas comunes del mundo."
+        ],
+        "en_contra": [
+          "PP y Vox lo consideran divisivo."
+        ]
+      }
+    },
+    {
+      "id": "psoe-035",
+      "tema": "instituciones",
+      "subtema": "democracia",
+      "titulo": "Voto a los 16, escaño ciudadano y fin de aforamientos ajenos al cargo",
+      "resumen": "Rebajar la edad de voto a 16 años; un 'escaño ciudadano' sin voto en Congreso y Senado para la sociedad civil; menos firmas para la iniciativa legislativa popular; suprimir aforamientos para delitos no relacionados con el cargo; reforma territorial del Senado.",
+      "cita": "Impulsar la participación juvenil y la profundización democrática, rebajando la edad de voto a los 16 años.",
+      "pagina": 89,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Jóvenes de 16-17 años; sistema político.",
+        "coste": "Bajo.",
+        "viabilidad": "La edad de voto requiere reforma de la ley electoral (mayoría absoluta).",
+        "a_favor": [
+          "Austria o Malta ya votan a los 16."
+        ],
+        "en_contra": [
+          "Sus críticos lo ven como medida para ganar votos jóvenes."
+        ]
+      }
+    },
+    {
+      "id": "psoe-036",
+      "tema": "instituciones",
+      "subtema": "corrupcion",
+      "titulo": "Agencia Independiente de Integridad Pública y ley de lobbies",
+      "resumen": "Ley Orgánica de Integridad Pública con una agencia independiente anticorrupción, mapas de riesgo en todas las administraciones, protección de denunciantes, registro obligatorio de lobbies y 'huella normativa'.",
+      "cita": "Crear una Agencia Independiente de Integridad Pública que coordine los organismos de supervisión y refuerce la protección de quienes denuncian.",
+      "pagina": 102,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Cargos públicos y grupos de interés.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Recomendado por la UE y GRECO."
+        ],
+        "en_contra": [
+          "El PSOE afronta en 2025-26 casos de corrupción en su entorno (Cerdán, Ábalos), lo que sus rivales usan para cuestionar su credibilidad."
+        ]
+      }
+    },
+    {
+      "id": "psoe-037",
+      "tema": "seguridad",
+      "subtema": "justicia",
+      "titulo": "Fiscal General con mandato de 5 años y que los fiscales instruyan",
+      "resumen": "Fiscal General con mandato de cinco años desvinculado de la legislatura y sin instrucciones del Gobierno en casos concretos; nueva Ley de Enjuiciamiento Criminal en la que investiguen los fiscales bajo supervisión judicial; acceso a la carrera judicial con pruebas anonimizadas y becas.",
+      "cita": "Reforzar la autonomía del Ministerio Fiscal, con un mandato de cinco años para la Fiscalía General del Estado desvinculado de la legislatura.",
+      "pagina": 99,
+      "concrecion": "alta",
+      "cifra": "Mandato de 5 años",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Fiscalía, jueces, procesos penales.",
+        "coste": "Requiere muchos más fiscales.",
+        "viabilidad": "Ley orgánica.",
+        "a_favor": [
+          "Modelo de la mayoría de países europeos (fiscal instructor)."
+        ],
+        "en_contra": [
+          "Con el Fiscal General condenado en 2025, la oposición teme que dar la instrucción a la Fiscalía aumente el control político."
+        ]
+      }
+    },
+    {
+      "id": "psoe-038",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Sustituir la 'ley mordaza' y cámaras corporales en todos los agentes",
+      "resumen": "Nueva Ley de Seguridad Ciudadana que sustituya a la de 2015, garantizando reunión y manifestación, identificaciones sin discriminación y cámaras corporales para toda la Policía y Guardia Civil. Más agentes, plan contra el narcotráfico y servicio de atención a víctimas de ciberestafas con más responsabilidad de bancos.",
+      "cita": "Aprobar una nueva Ley de Seguridad Ciudadana que sustituya a la Ley Orgánica 4/2015, garantizando los derechos de reunión y manifestación.",
+      "pagina": 99,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Manifestantes, policías y ciudadanía.",
+        "coste": "Cámaras y medios.",
+        "viabilidad": "La derogación lleva bloqueada desde 2019.",
+        "a_favor": [
+          "Las cámaras corporales protegen tanto a ciudadanos como a agentes."
+        ],
+        "en_contra": [
+          "Sindicatos policiales temen perder herramientas como las devoluciones en frontera o las sanciones por desobediencia."
+        ]
+      }
+    },
+    {
+      "id": "psoe-039",
+      "tema": "estado",
+      "subtema": "lenguas",
+      "titulo": "Lenguas cooficiales en las Cortes, en la Administración y oficiales en la UE",
+      "resumen": "Consolidar catalán, euskera y gallego en las Cortes y extenderlos a la atención de la Administración del Estado en esos territorios; seguir pidiendo su oficialidad en la UE.",
+      "cita": "Consolidaremos el uso de las lenguas cooficiales en las Cortes Generales y lo extenderemos a la atención de la Administración General del Estado.",
+      "pagina": 91,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Hablantes de lenguas cooficiales.",
+        "coste": "Traducción e interpretación.",
+        "viabilidad": "La oficialidad en la UE requiere unanimidad de los 27 y está bloqueada.",
+        "a_favor": [
+          "Reconocimiento de la pluralidad lingüística."
+        ],
+        "en_contra": [
+          "PP y Vox lo ven como concesión a socios nacionalistas."
+        ]
+      }
+    },
+    {
+      "id": "psoe-040",
+      "tema": "exterior",
+      "subtema": "defensa",
+      "titulo": "No al 5% del PIB en defensa: defensa europea y eficiencia",
+      "resumen": "Rechaza el objetivo OTAN del 5% del PIB en gasto militar por poner en riesgo el Estado del bienestar; apuesta por defensa europea común, compras conjuntas y modernización tecnológica; promover que España sea observadora del Tratado de Prohibición de Armas Nucleares.",
+      "cita": "Lo hemos hecho rechazando el aumento del gasto militar al 5% del PIB, pues ello pondría en riesgo nuestro Estado del bienestar. Somos aliados, no vasallos.",
+      "pagina": 104,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Fuerzas Armadas, relaciones con la OTAN y EE.UU.",
+        "coste": "Menor gasto que los socios.",
+        "viabilidad": "Tensiones con aliados de la OTAN y con EE.UU.",
+        "a_favor": [
+          "Protege el gasto social; más eficaz gastar en común con la UE."
+        ],
+        "en_contra": [
+          "Aliados critican que España sea de los que menos gasta en defensa."
+        ]
+      }
+    },
+    {
+      "id": "psoe-041",
+      "tema": "exterior",
+      "subtema": "politica-exterior",
+      "titulo": "Palestina, embargo de armas a Israel y apoyo a Ucrania",
+      "resumen": "Mantener el reconocimiento de Palestina y el embargo de armas a Israel; promover sanciones de la UE a quienes obstaculicen la solución de dos Estados; apoyo a Ucrania; rechazo a la guerra con Irán; alcanzar el 0,7% en ayuda al desarrollo; impuesto mínimo global a grandes fortunas.",
+      "cita": "Promover la solución de los dos Estados en Israel y Palestina, como única forma posible para alcanzar una paz justa y duradera en Oriente Próximo.",
+      "pagina": 108,
+      "concrecion": "media",
+      "cifra": "Cooperación al 0,7% de la RNB",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Relaciones internacionales.",
+        "coste": "El 0,7% supondría duplicar la ayuda al desarrollo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Coherencia con el derecho internacional."
+        ],
+        "en_contra": [
+          "Tensiones diplomáticas con Israel y con EE.UU."
+        ]
+      }
+    },
+    {
+      "id": "psoe-042",
+      "tema": "movilidad",
+      "subtema": "transporte-publico",
+      "titulo": "19.000 M€ en mantenimiento ferroviario y Pacto por la Seguridad Ferroviaria",
+      "resumen": "Tras los accidentes de 2026: blindar 19.000 M€ en mantenimiento ferroviario hasta 2030, ERTMS en Madrid-Sevilla, dirección técnica en Adif y Renfe, Defensor de víctimas; abono de transporte integrado con tarifas sencillas; reparar 5.000 km de carreteras (1.629 M€).",
+      "cita": "Blindaremos durante los próximos 5 años la conservación y el mantenimiento de la red: unos 19.000 millones de euros en 2026-2030.",
+      "pagina": 19,
+      "concrecion": "alta",
+      "cifra": "19.000 M€ (tren); 1.629 M€ (5.000 km de carreteras)",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Usuarios del tren y conductores.",
+        "coste": "Cuantificado.",
+        "viabilidad": "Viable; parte ya comprometida.",
+        "a_favor": [
+          "Prioriza mantenimiento y seguridad."
+        ],
+        "en_contra": [
+          "La oposición responsabiliza al Gobierno del deterioro ferroviario que ahora promete corregir."
+        ]
+      }
+    },
+    {
+      "id": "psoe-043",
+      "tema": "economia",
+      "subtema": "modelo-productivo",
+      "titulo": "Fondo España Crece de 120.000 M€ y Ley de Industria",
+      "resumen": "Fondo público-privado de 120.000 M€ para inversión productiva tras los fondos europeos; Ley de Industria y Autonomía Estratégica; I+D pública al 1,25% del PIB y 1,5% en 2035; 'Régimen 20' para homogeneizar requisitos entre CCAA.",
+      "cita": "El Fondo España Crece, que movilizará 120.000 millones de euros para asegurar que la modernización continúe más allá de los fondos europeos.",
+      "pagina": 12,
+      "concrecion": "alta",
+      "cifra": "120.000 M€; I+D 1,5% PIB en 2035",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Empresas, industria e investigación.",
+        "coste": "En gran parte préstamos e inversión privada.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Da continuidad a la inversión cuando terminan los Next Generation."
+        ],
+        "en_contra": [
+          "'Movilizar' no es gastar: la cifra incluye capital privado esperado."
+        ]
+      }
+    },
+    {
+      "id": "psoe-044",
+      "tema": "economia",
+      "subtema": "precios",
+      "titulo": "Vigilar que las rebajas de IVA lleguen al precio y Autoridad del Cliente Financiero",
+      "resumen": "Reforzar a la CNMC para que las rebajas de IVA en alimentos se trasladen al precio y castigar el abuso en mercados concentrados; Observatorio de Márgenes Empresariales con rango de ley; Autoridad del Cliente Financiero que resuelva reclamaciones bancarias en 90 días.",
+      "cita": "Garantizar que cualquier rebaja del IVA a bienes básicos se traslade a precios, reforzando la CNMC.",
+      "pagina": 37,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Consumidores, distribución, banca.",
+        "coste": "La Autoridad se financia con una tasa a la banca.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Ataca la crítica de que las rebajas fiscales se quedan en márgenes."
+        ],
+        "en_contra": [
+          "Controlar márgenes es difícil sin intervenir precios."
+        ]
+      }
+    },
+    {
+      "id": "psoe-045",
+      "tema": "social",
+      "subtema": "dependencia",
+      "titulo": "Ley de Servicios Sociales y 'A Tu Lado': visitas a domicilio a mayores de 80",
+      "resumen": "Primera Ley estatal de Servicios Sociales con cartera común; reducir listas de dependencia; ayuda a domicilio como servicio esencial; visitas periódicas de enfermería o trabajo social a mayores de 80; ayudas para ascensores; suelo para cooperativas sénior; remuneración de cuidadoras principales igual al SMI.",
+      "cita": "A partir de los 80 años, una visita periódica a domicilio de enfermería o trabajo social para detectar a tiempo la fragilidad y la soledad.",
+      "pagina": 57,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas mayores y dependientes, cuidadoras.",
+        "coste": "Elevado.",
+        "viabilidad": "Depende de CCAA.",
+        "a_favor": [
+          "Envejecimiento acelerado; muchas personas mayores viven solas."
+        ],
+        "en_contra": [
+          "No precisa recursos ni plazos para reducir listas de dependencia."
+        ]
+      }
+    },
+    {
+      "id": "psoe-046",
+      "tema": "territorio",
+      "subtema": "agro",
+      "titulo": "Ley de Agricultura Familiar y freno a la compra de tierras por fondos",
+      "resumen": "Defender una PAC fuerte priorizando explotaciones familiares y profesionales; Ley de Agricultura Familiar y Profesional; evitar la concentración de tierras fértiles en fondos de inversión; bancos de tierras para jóvenes; exigir reciprocidad a importaciones.",
+      "cita": "Evitar la concentración de los terrenos fértiles en manos de fondos de inversión.",
+      "pagina": 68,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Agricultores, fondos de inversión agrícola.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Protege el modelo familiar frente a la concentración."
+        ],
+        "en_contra": [
+          "Limitar inversores puede reducir capital para modernizar el campo."
+        ]
+      }
+    },
+    {
+      "id": "psoe-047",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Abono de cine de 15 €/mes para menores de 25 y Ley General de Cultura",
+      "resumen": "Abono de cine de 15 € al mes para menores de 25 años; Bono Cultural Joven; Ley General de Cultura; Estatuto del Artista; que los creadores cobren por el uso de sus obras en IA.",
+      "cita": "Crear un abono de cine de 15 euros al mes para menores de 25 años, en colaboración con el sector.",
+      "pagina": 103,
+      "concrecion": "alta",
+      "cifra": "15 €/mes",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Jóvenes, sector cultural.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Fomenta el acceso a la cultura."
+        ],
+        "en_contra": [
+          "Medida menor en impacto."
+        ]
+      }
+    },
+    {
+      "id": "psoe-b01",
+      "tema": "animales",
+      "subtema": "compania",
+      "titulo": "Tolerancia cero al maltrato y abandono cero",
+      "resumen": "Retirar financiación pública a prácticas que amparen maltrato, estrategia de abandono cero con adopción responsable, animales incluidos en la violencia vicaria.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Garantizar tolerancia cero al maltrato, retirando financiación pública a prácticas que lo amparen.",
+      "pagina": 73
+    },
+    {
+      "id": "psoe-b02",
+      "tema": "animales",
+      "subtema": "silvestres",
+      "titulo": "Zoos y parques marinos reorientados a la conservación",
+      "resumen": "Transformar zoológicos y parques marinos hacia recuperación, conservación e investigación; evacuación y rescate animal en emergencias.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Avanzar en la transformación de nuestros zoológicos y parques marinos al siglo XXI, impulsando el bienestar de los animales y reorientando sus funciones hacia recuperación, conservación, investigación y educación ambiental.",
+      "pagina": 73
+    },
+    {
+      "id": "psoe-b03",
+      "tema": "digital",
+      "subtema": "ia",
+      "titulo": "Ley de IA: etiquetar contenidos y multas de hasta 35 M€",
+      "resumen": "Supervisión humana de decisiones automatizadas, etiquetado obligatorio de contenido generado por IA, prohibir deepfakes sin consentimiento y respetar los derechos de autor.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Garantizar la supervisión humana de las decisiones que afecten a la ciudadanía, el etiquetado obligatorio de los contenidos generados o manipulados con IA y la prohibición de los deepfakes sin consentimiento.",
+      "pagina": 96
+    },
+    {
+      "id": "psoe-b04",
+      "tema": "digital",
+      "subtema": "ia",
+      "titulo": "Responsabilidad penal de directivos de plataformas",
+      "resumen": "Que los directivos respondan si no retiran contenidos ilegales o de odio; delito de manipulación algorítmica; publicar un índice de odio de cada red (HODIO).",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Exigir responsabilidad penal a los directivos de las plataformas que no retiren contenidos ilegales o de odio y tipificar como delito la manipulación algorítmica.",
+      "pagina": 96
+    },
+    {
+      "id": "psoe-b05",
+      "tema": "digital",
+      "subtema": "medios",
+      "titulo": "Estrategia contra la desinformación",
+      "resumen": "Estrategia integral frente a la desinformación basada en transparencia, pluralismo y supervisión independiente.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Aprobar una Estrategia integral frente a la desinformación. Basada en la transparencia, el pluralismo, la protección de la libertad de expresión y la supervisión independiente.",
+      "pagina": 96
+    },
+    {
+      "id": "psoe-b06",
+      "tema": "cultura",
+      "subtema": "deporte",
+      "titulo": "Estatuto del Deportista y profesionalizar el fútbol femenino",
+      "resumen": "Protección social y salud mental de deportistas, receta deportiva desde Primaria y profesionalización del fútbol femenino.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Impulsar la igualdad efectiva en el deporte y la profesionalización del fútbol femenino.",
+      "pagina": 55
+    },
+    {
+      "id": "psoe-b07",
+      "tema": "social",
+      "subtema": "discapacidad",
+      "titulo": "Cumplir la cuota del 2% de empleo para personas con discapacidad",
+      "resumen": "Reforzar inspección de la cuota de reserva y desplegar la Ley 4/2026 de discapacidad y dependencia.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Garantizar el cumplimiento efectivo de la cuota de reserva del 2% de empleo para personas con discapacidad en las empresas y sector público.",
+      "pagina": 43
+    },
+    {
+      "id": "psoe-b08",
+      "tema": "territorio",
+      "subtema": "islas",
+      "titulo": "Desarrollar el Régimen Económico y Fiscal de Canarias",
+      "resumen": "Pleno desarrollo del REF canario y plan integral para Ceuta y Melilla.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Desarrollaremos plenamente el Régimen Económico y Fiscal de Canarias y su condición de región ultraperiférica.",
+      "pagina": 92
+    }
+  ],
+  "orden": 2
+}

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>29N · Programas electorales</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-row">
+      <a class="logo" href="#/resumen">29N <span>Programas</span></a>
+      <nav class="tabs" id="tabs">
+        <a href="#/resumen" data-v="resumen">Resumen</a>
+        <a href="#/comparar" data-v="comparar">Comparar por tema</a>
+        <a href="#/explorar" data-v="explorar">Explorar</a>
+        <a href="#/brujula" data-v="brujula">Mi brújula</a>
+      </nav>
+    </div>
+    <div class="chips" id="chips" aria-label="Partidos visibles"></div>
+  </header>
+
+  <div id="aviso-demo" class="aviso" hidden>
+    Estás viendo <b>datos de demostración</b> con partidos ficticios. Deja los programas en la raíz del proyecto y pide a Claude que los procese.
+  </div>
+
+  <main id="app"></main>
+
+  <dialog id="detalle"></dialog>
+  <div id="toast" class="toast" hidden></div>
+
+  <script src="datos.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

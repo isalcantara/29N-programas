@@ -1,0 +1,1602 @@
+{
+  "vivienda": {
+    "resumen": "Es el gran tema de estas elecciones y donde las diferencias son más nítidas. PP y VOX apuestan por construir mucho más, derogar la Ley de Vivienda y dar ventajas fiscales a la compra. PSOE combina más vivienda pública con la regulación actual. FA y PODEMOS proponen una intervención muy fuerte: topes o rebajas obligatorias del alquiler, prohibir la compra especulativa y expropiar viviendas a grandes propietarios.",
+    "ejes": [
+      {
+        "pregunta": "¿Limitar por ley el precio del alquiler?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Elimina zonas tensionadas e índice de precios; incentivos fiscales."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Mantiene zonas tensionadas y congela rentas por encima del índice."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Deroga la Ley de Vivienda; incentivos fiscales."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Tope: máximo el 25% de la renta media del barrio (rebaja media del 35%)."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Rebaja del 40% por ley, también en contratos vigentes."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Expropiar viviendas a grandes propietarios?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "No; defiende la seguridad jurídica."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "No expropia; impuesto a sus viviendas vacías, turísticas o caras."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "No; fiscalidad 'disuasoria' a fondos y compradores no comunitarios."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí, por fases: desde +1.000 viviendas hasta +50."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Sí, expropiación de uso a partir de la vivienda número 11."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Cuánta vivienda pública?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "1 millón de viviendas en total (sin precisar cuántas públicas)."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "100.000 estatales; 1% del PIB al año; ≥25% de la obra nueva protegida."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Más vivienda protegida con colaboración privada; sin cifra."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "1,5 millones públicas en 12 años; 1% del PIB al año."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Compra pública, tanteo y SAREB al parque público; sin cifra total."
+          }
+        }
+      },
+      {
+        "pregunta": "Okupación: ¿desalojo rápido?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "En 48 horas por orden judicial."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Juicios rápidos y desalojo en 48 h; sin desahucios de vulnerables sin alternativa."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "En menos de 24 horas; impago como estafa."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Prioriza prohibir desahucios de vulnerables sin alternativa."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Suspensión indefinida de desahucios de vulnerables; ilegalizar empresas de desokupación."
+          }
+        }
+      }
+    ]
+  },
+  "trabajo": {
+    "resumen": "La izquierda propone reducir la jornada y subir salarios por ley con distinta intensidad (PSOE 37,5 h; FA hacia 32 h; PODEMOS 30 h y SMI de 1.800 €). PP no plantea reducir la jornada y se centra en bonificar a empresas con plantillas estables y en controlar el absentismo. VOX propone derogar la reforma laboral sin detallar el modelo alternativo.",
+    "ejes": [
+      {
+        "pregunta": "¿Reducir la jornada laboral por ley?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No lo propone; bancos de horas y flexibilidad."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "37,5 horas e incentivar 35 en convenios."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "37,5 ya y avanzar hasta 32 horas."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "35 y luego 30 horas en la legislatura."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Cuánto debe subir el salario mínimo?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No fija objetivo; quien cobre el SMI no pagará IRPF."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Siempre por encima del 60% del salario medio."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "60% del salario medio neto (más alto que el PSOE)."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "1.800 €/mes y nunca menos del 75% del salario mediano."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Encarecer el despido?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "No; bonificaciones por estabilidad."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Indemnización 'reparadora y disuasoria' y salarios de tramitación."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No se pronuncia (deroga la reforma laboral)."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí, más autorización previa en despidos colectivos."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Recuperar y ampliar garantías frente al despido."
+          }
+        }
+      }
+    ]
+  },
+  "fiscalidad": {
+    "resumen": "Dos modelos opuestos. PP y VOX bajan impuestos (IRPF, IVA de alimentos, Sociedades, energía) y dicen financiarlo recortando gasto y con crecimiento, sin cuantificarlo. PSOE sube impuestos al capital, tecnológicas y lujo. FA y PODEMOS plantean una reforma fiscal mucho más profunda contra grandes fortunas, empresas y banca para financiar su amplio programa de gasto.",
+    "ejes": [
+      {
+        "pregunta": "¿Bajar el IRPF?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "A rentas medias y bajas, jóvenes y familias; deflactar tarifa."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Solo deducciones para rentas bajas y en picos de inflación."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Bajada general y según número de hijos."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Baja hasta 27.000 €, sube hasta el 52% desde 300.000 €."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Baja el tipo mínimo; sube desde 60.000 €."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Más impuestos a grandes fortunas y rentas del capital?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "No; trato fiscal igual a todo el ahorro; CCAA libres de bajar impuestos."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Capital hasta el 35%; tributación complementaria de grandes patrimonios."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Rebaja 'masiva' de impuestos."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Tasa Zucman 3%, mínimo 2% desde 1 M€, herencias topadas en 10 M€."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Grandes Fortunas permanente; capital igual que trabajo."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Impuestos especiales a banca y energéticas?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Eliminar 'impuestos que frenan la inversión'; quitar el 7% a la generación eléctrica."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Defiende los gravámenes aplicados; más a tecnológicas."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Bajar impuestos a la energía."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Gravamen permanente del 1,2% a energéticas y a la banca."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Que al menos el 50% del beneficio de la gran banca vaya al Estado."
+          }
+        }
+      }
+    ]
+  },
+  "sanidad": {
+    "resumen": "Todos prometen reducir listas de espera y más profesionales, pero difieren en el papel de la privada. PP y VOX aceptan la colaboración público-privada; PSOE quiere que la gestión pública sea la preferente; FA y PODEMOS quieren derogar la ley que permite la gestión privada y revertir privatizaciones. PSOE, FA y Podemos añaden prestaciones nuevas (dentista, psicólogo, gafas).",
+    "ejes": [
+      {
+        "pregunta": "¿Usar la sanidad privada para reducir esperas?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Plan de listas de espera con CCAA; no lo descarta."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "Gestión pública directa como modalidad preferente."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Sí, cuando ayude a reducir demoras."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Derogar la Ley 15/1997 y revertir privatizaciones."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Gestión pública directa obligatoria; prohibir externalizar."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Dentista en la sanidad pública?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No lo menciona."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Tratamientos básicos y ayuda de 200 €/año mientras tanto."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No lo menciona."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Cubrir al menos al 50% de la población; también gafas y audífonos."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Cartera ampliada sin detalle concreto."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Compromiso concreto en salud mental?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Plan 2027-2037 con financiación garantizada (sin cifra de profesionales)."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Psicólogo público con primera cita en 30 días."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Reforzar la Estrategia Nacional; sin cifras."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Mínimo 10 profesionales por 100.000 habitantes."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "18 psiquiatras y 18 psicólogos por 100.000 habitantes."
+          }
+        }
+      }
+    ]
+  },
+  "educacion": {
+    "resumen": "PP y VOX quieren sustituir la LOMLOE, más exigencia y libertad de elección de centro (incluida la concertada) y garantizar la enseñanza en castellano. PSOE continúa el modelo actual ampliando becas y la red pública. FA y PODEMOS apuestan por que los fondos públicos vayan solo a la escuela pública (fin progresivo de la concertada) y PODEMOS suprimiría la asignatura de Religión.",
+    "ejes": [
+      {
+        "pregunta": "¿Mantener la escuela concertada?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Ningún concierto se elimina si hay demanda; conciertos de 6 años."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Prioriza la pública; no plantea eliminar conciertos."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Libre elección de centro y distrito único."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "100% de fondos públicos para la pública a largo plazo."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Moratoria a conciertos; una única red pública."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Derogar la ley educativa actual (LOMLOE)?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Nuevo marco; pasar de curso con todo aprobado en la ESO."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "La mantiene."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Derogarla; reválidas y EvAU única."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Reformarla para incluir alfabetización digital."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Nueva Ley de Calidad de la Educación."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Universidad pública gratuita?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Beca como derecho; FP de alta demanda sin matrícula."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Primer curso de grado gratis."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Mejorar becas."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Bajar precios hacia la gratuidad."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Gratuidad total de grado, máster y doctorado; becas-salario."
+          }
+        }
+      }
+    ]
+  },
+  "social": {
+    "resumen": "Todos mantienen la revalorización de pensiones con el IPC. La diferencia está en la edad de jubilación y en la generosidad: FA (65 años) y PODEMOS (63 años) proponen rebajarla y subir mucho las pensiones mínimas, con un coste muy alto. PP y PSOE refuerzan la dependencia; PP con deducciones fiscales y PSOE con una nueva ley de servicios sociales.",
+    "ejes": [
+      {
+        "pregunta": "¿Rebajar la edad de jubilación?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "No; incentiva la jubilación activa."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "No en general; mejoras para trabajos penosos y largas carreras."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "A los 65 años; a los 60 en oficios duros."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "A los 63 años."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Pensiones ligadas al IPC?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Sí, cada año con el IPC."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Sí, y blindado en la Constitución."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Sostenibilidad vía crecimiento y natalidad; sin compromiso explícito."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí, en la Constitución; pensión mínima igual al SMI."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Sí; pensión mínima igual al SMI."
+          }
+        }
+      }
+    ]
+  },
+  "familia": {
+    "resumen": "Hay un consenso amplio en ayudar a la crianza, pero con fórmulas distintas: PP y PSOE convierten las deducciones por hijo en un pago mensual que llega también a quien no paga IRPF; FA (200 €/mes) y PODEMOS (15% del SMI hasta los 21 años) proponen prestaciones universales mucho más cuantiosas. VOX extiende las ventajas de familia numerosa desde el primer hijo. PP y PSOE coinciden en limitar las redes sociales a menores (14 y 16 años).",
+    "ejes": [
+      {
+        "pregunta": "¿Ayuda mensual por hijo para todas las familias?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Deducción reembolsable cobrada cada mes (sin cuantía)."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Prestación universal progresiva (sin cuantía) + Cuenta de Futuro de 1.000 €."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Beneficios de familia numerosa desde el primer hijo."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "200 €/mes por menor."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "15% del SMI al mes por hijo hasta los 21 años."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Escuela infantil 0-3 gratuita?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Gratuita al final de la legislatura (pública o concertada)."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Universalizar con más plazas públicas (sin plazo)."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "'Gratuidad real' de 0 a 3 años."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Plazas públicas gratuitas para toda familia que lo pida."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Red pública con ratios muy reducidas."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Edad mínima para redes sociales?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "14 años (16 con permiso paterno)."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "16 años con verificación anónima."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Proteger a menores en entornos digitales; sin edad."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Regulación severa para menores de 16."
+          },
+          "podemos": {
+            "postura": "sin",
+            "texto": "Propone una red social pública; no fija edad."
+          }
+        }
+      }
+    ]
+  },
+  "migracion": {
+    "resumen": "Es el tema con mayor polarización. VOX propone cerrar la inmigración, 'remigración' y prioridad nacional en ayudas. PP endurece el sistema (prohibir regularizaciones masivas, arraigo excepcional, cupos y visados por puntos) pero rechaza discriminar solo por nacionalidad. PSOE apuesta por vías legales e integración. FA y PODEMOS quieren regularización permanente, cerrar los CIE y acabar con las devoluciones en frontera.",
+    "ejes": [
+      {
+        "pregunta": "¿Regularizar a inmigrantes en situación irregular?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Prohibir regularizaciones masivas; arraigo solo excepcional."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Vías legales y contratación en origen; no detalla regularizaciones."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Nunca; suprimir el arraigo."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Procedimiento permanente de regularización."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Regularización permanente sin exigir contrato."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Prioridad a los españoles en ayudas y servicios?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Prioridad por arraigo (empadronamiento, cotización), no solo nacionalidad."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "Igualdad de trato."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "'Prioridad nacional' en vivienda, ayudas, IMV y sanidad."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Igualdad de derechos; ley antirracista."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Igualdad de trato e 'ius soli'."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Mantener los CIE y las devoluciones en frontera?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Ampliar estancia en CIE; rechazo en frontera también a nado."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Repatriación de todos los irregulares."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Cerrar los CIE y derogar el rechazo en frontera."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Cerrar los CIE; fin de las devoluciones en caliente."
+          }
+        }
+      }
+    ]
+  },
+  "medio-ambiente": {
+    "resumen": "El debate central es nuclear y ritmo de la transición. PP y VOX quieren mantener las nucleares (VOX incluso construir nuevas) y frenar o revertir normas climáticas europeas. PSOE, FA y PODEMOS mantienen el cierre nuclear y aceleran las renovables; FA y PODEMOS añaden fuerte intervención pública en el sector eléctrico.",
+    "ejes": [
+      {
+        "pregunta": "¿Mantener abiertas las centrales nucleares?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Eliminar el calendario de cierre en 100 días."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "Mantener el cierre hasta 2035."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Mantenerlas y estudiar construir nuevas."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Almaraz cerrará en 2027-2028."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Cumplir el calendario empezando por Almaraz."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Mantener la ambición climática europea (Pacto Verde)?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Objetivo irrenunciable, pero revisar 'calendarios imposibles'."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Defender y profundizar el Pacto Verde."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Revertirlo: fin de prohibición de motores de combustión y ZBE."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Más ambición: 3,5% del PIB al año a la transición."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Más ambición: 95% renovable en 2035."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Empresa o control público de la energía?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Neutralidad tecnológica y mercado."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No lo plantea."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "No; bajar impuestos a la energía."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Comercializadora pública, redes públicas, 3 h de luz gratis."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Nacionalizar Repsol, Red Eléctrica 100% pública."
+          }
+        }
+      }
+    ]
+  },
+  "exterior": {
+    "resumen": "PP apuesta por cumplir los compromisos con la OTAN mediante una ley de financiación de la defensa y por el vínculo con EE.UU. PSOE rechaza el 5% del PIB pero sigue en la OTAN y apoya la defensa europea. VOX sube el gasto en defensa y pone el foco en Marruecos y Gibraltar. FA reduce el gasto militar y PODEMOS propone salir de la OTAN. En Oriente Próximo, la izquierda plantea embargo o ruptura con Israel.",
+    "ejes": [
+      {
+        "pregunta": "¿Aumentar el gasto en defensa?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Ley plurianual para cumplir compromisos con aliados."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Rechaza el 5% del PIB; defensa europea y eficiencia."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Más inversión en defensa y sueldos militares."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Reducir el gasto militar."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Revertir el rearme y congelar el gasto."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Seguir en la OTAN?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Sí, socio fiable."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Sí, 'aliados, no vasallos'."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "No lo cuestiona."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "No propone salir; rechaza el 5% y quiere desmilitarizar bases extranjeras."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Salir de la OTAN y cerrar Rota y Morón."
+          }
+        }
+      },
+      {
+        "pregunta": "Israel: ¿embargo o ruptura?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Proteger a civiles en Gaza; Israel como socio en soluciones diplomáticas."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Mantener embargo de armas y reconocimiento de Palestina."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Embargo total y permanente; romper relaciones con responsables."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Ruptura diplomática, cultural y comercial."
+          }
+        }
+      }
+    ]
+  },
+  "estado": {
+    "resumen": "PP y VOX refuerzan la unidad: recuperar la sedición, castellano en la escuela y en el Congreso y rechazo a acuerdos bilaterales con Cataluña (VOX va más lejos: ilegalizar partidos que atenten contra la unidad). PSOE defiende el Estado autonómico, más presencia de las lenguas cooficiales y una financiación con condonación de deuda. FA y PODEMOS proponen una república federal y plurinacional con 'derecho a decidir'.",
+    "ejes": [
+      {
+        "pregunta": "¿Monarquía o república?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Defiende la monarquía parlamentaria."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "No lo plantea (mantiene el marco constitucional)."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Más protección legal de la Corona."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "República federal: elegir la jefatura del Estado."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Proceso constituyente hacia la Tercera República."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Recuperar el delito de sedición?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Sí, y el de referéndum ilegal."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "No (lo derogó en 2022)."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Sí, e ilegalizar partidos contra la unidad."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "No; propone 'derecho a decidir'."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "No."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Lenguas cooficiales en el Congreso?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Castellano como lengua de trabajo (sí en el Senado)."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Consolidarlas y extenderlas a la Administración."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Educación en español; lengua regional nunca como requisito."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Ley de plurilingüismo; inmersión en catalán."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Reconocimiento plurinacional."
+          }
+        }
+      }
+    ]
+  },
+  "seguridad": {
+    "resumen": "PP y VOX endurecen el Código Penal (multirreincidencia, desórdenes, prisión permanente revisable, edad penal en VOX). PSOE, FA y PODEMOS proponen derogar o sustituir la 'ley mordaza'. En justicia hay una coincidencia llamativa: PP, VOX y PODEMOS quieren que los jueces elijan a los vocales judiciales del CGPJ; PSOE y PODEMOS quieren que los fiscales instruyan.",
+    "ejes": [
+      {
+        "pregunta": "¿Derogar la 'ley mordaza' (Seguridad Ciudadana 2015)?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Endurece desórdenes públicos y la agravante de rostro cubierto."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Sustituirla por una nueva ley con cámaras corporales."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Más mano dura y medios policiales."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Derogarla por completo; prohibir pelotas de goma."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Derogarla; prohibir pelotas de goma."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Endurecer penas (prisión permanente, menores)?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Ampliar prisión permanente; más internamiento de menores violentos."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "No lo plantea."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Bajar la edad penal y ampliar prisión permanente."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Enfoque preventivo y restaurativo."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Enfoque garantista."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Que los jueces elijan a los 12 vocales judiciales del CGPJ?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Sí."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No lo plantea."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Sí."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Reforma para que ningún partido controle el CGPJ."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Reforma la elección del turno judicial y evita bloqueos."
+          }
+        }
+      }
+    ]
+  },
+  "igualdad": {
+    "resumen": "VOX propone derogar las leyes de violencia de género y la de Memoria Democrática y 'defender la vida desde la concepción'. PP revisa la Ley Trans (fin de la autodeterminación) y sustituye la ley de Memoria por una de 'Concordia', pero mantiene el Pacto contra la violencia de género. PSOE, FA y PODEMOS blindan el aborto en la Constitución y amplían derechos; difieren entre sí en prostitución (PSOE abolicionista, FA por derechos laborales).",
+    "ejes": [
+      {
+        "pregunta": "¿Mantener las leyes de violencia de género?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Sí; mejorar pulseras y VioGen."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Ampliarlas (violencia vicaria, digital, económica)."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Derogarlas."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Ampliarlas; 5% del presupuesto a igualdad."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Ampliarlas; fondo de 1.000 M€."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Blindar el aborto en la Constitución?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Sí, reforma del artículo 43."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "'Defensa de la vida desde la concepción'."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí, y garantizarlo en la sanidad pública."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Sí."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Autodeterminación de género (Ley Trans)?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Eliminar la libre autodeterminación registral."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "La ley como 'suelo común' en toda España."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Deporte femenino por criterios biológicos."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Desplegarla y reconocer a personas no binarias."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Ampliar derechos LGTBIQA+."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Ley de Memoria Democrática?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Derogarla y aprobar una 'Ley de Concordia'."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Completar exhumaciones y retirar simbología franquista."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Derogarla."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Ampliarla: cerrar fundaciones franquistas."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Ampliarla: verdad, justicia y reparación."
+          }
+        }
+      }
+    ]
+  },
+  "economia": {
+    "resumen": "PP y VOX ponen el foco en reducir burocracia ('una norma nueva, tres derogadas') y en aliviar a autónomos y empresas. PSOE apuesta por la inversión público-privada (Fondo España Crece) y la política industrial. FA y PODEMOS plantean un Estado empresario: banca pública, supermercados públicos (Podemos), topes de precios y participación de los trabajadores en las empresas.",
+    "ejes": [
+      {
+        "pregunta": "¿Controlar precios o márgenes de alimentos?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "IVA 0% a alimentos básicos."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Vigilar que las rebajas de IVA lleguen al precio."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Bajar IVA de productos básicos."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Topes en la cesta básica en emergencias; impuesto a márgenes."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Tope a márgenes y supermercados públicos."
+          }
+        }
+      },
+      {
+        "pregunta": "Autónomos: ¿cuota cero con ingresos bajos?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Cuota cero el primer año (y segundo si < SMI); sin IVA hasta 85.000 €."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Seguir con la cotización por ingresos reales."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Cuota cero por debajo del SMI."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Tarifa plana mientras se gane menos del SMI."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Cuota según beneficio; cero con pérdidas."
+          }
+        }
+      }
+    ]
+  },
+  "instituciones": {
+    "resumen": "PP concentra su regeneración en limitar al Gobierno: derogar la amnistía, Fiscal General independiente, CIS e INE independientes y elecciones si no hay presupuestos. PSOE propone voto a los 16, escaño ciudadano y una agencia anticorrupción. FA y PODEMOS añaden reforma electoral proporcional y acabar con la inviolabilidad del Rey. Casi todos coinciden en regular los lobbies y endurecer la lucha contra la corrupción.",
+    "ejes": [
+      {
+        "pregunta": "¿Derogar la Ley de Amnistía?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Sí; prohibir indultos como pago político."
+          },
+          "psoe": {
+            "postura": "no",
+            "texto": "No."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Prohibir indultos por delitos contra la unidad."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "No."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "No."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Voto a los 16 años?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No lo menciona."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Sí."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No lo menciona."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Sí."
+          }
+        }
+      }
+    ]
+  },
+  "movilidad": {
+    "resumen": "Todos priorizan el mantenimiento ferroviario tras los accidentes de 2026. PP y PSOE cuantifican inversiones (PP: 300.000 M€ en 15 años con privados; PSOE: 19.000 M€ en mantenimiento). FA y PODEMOS proponen transporte muy barato o gratuito, renacionalizar el tren y prohibir vuelos cortos.",
+    "ejes": [
+      {
+        "pregunta": "¿Transporte público gratuito o casi?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No lo plantea."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Tarifas sencillas y asequibles; mantener descuentos."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No lo plantea."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Abono único: Cercanías 20 €/mes, gratis < 16."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Gratis todo el transporte público, incluido el AVE."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Prohibir vuelos cortos con alternativa en tren?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Ampliar aeropuertos según demanda."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No lo plantea."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No lo plantea."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí, con tren de menos de 2,5 h."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Sí, con tren de menos de 3 h."
+          }
+        }
+      }
+    ]
+  },
+  "territorio": {
+    "resumen": "PP y VOX se posicionan como defensores del campo frente a 'imposiciones de Bruselas', defienden la caza y rebajas fiscales rurales (VOX rechaza Mercosur). PSOE defiende la PAC y la agricultura familiar. FA y PODEMOS apuestan por la transición agroecológica, moratoria a macrogranjas y frenar la compra de tierras por fondos.",
+    "ejes": [
+      {
+        "pregunta": "¿Moratoria a macrogranjas?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "No; seguro de rentas y menos burocracia."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Prioriza ganadería extensiva; sin moratoria."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Derogar normas que impongan cargas al sector."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "No autorizar nuevas macrogranjas."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Moratoria indefinida."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Proteger al lobo de forma estricta?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Proteger a los ganaderos con criterios técnicos."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No lo concreta."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Defensa de la caza y del ganadero."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Devolverle la protección estricta."
+          },
+          "podemos": {
+            "postura": "sin",
+            "texto": "No lo concreta."
+          }
+        }
+      },
+      {
+        "pregunta": "Islas: ¿qué proponen para Canarias y Baleares?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Compensar la insularidad con conexiones e inversiones."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Desarrollar el REF canario."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Bajar el IGIC y suprimir el AIEM."
+          },
+          "fa": {
+            "postura": "matiz",
+            "texto": "Régimen especial balear indefinido; transporte gratis en islas."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Revisar el REF canario por favorecer a grandes empresas."
+          }
+        }
+      }
+    ]
+  },
+  "cultura": {
+    "resumen": "La tauromaquia divide a los bloques (PP y VOX la promueven; FA y PODEMOS la desprotegerían). En cultura general, PP habla de acabar con la 'cultura de la cancelación' y de mecenazgo; PSOE de abono de cine joven y Ley General de Cultura; FA y PODEMOS de mucho más gasto público (2% del gasto, duplicar presupuesto, museos gratis). En deporte, PP se centra en el Mundial 2030, VOX en las selecciones y el 'criterio biológico', PSOE y PODEMOS en el deporte femenino; FA no tiene propuestas.",
+    "ejes": [
+      {
+        "pregunta": "¿Proteger y promover la tauromaquia?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Restituir el Premio Nacional de Tauromaquia."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Defensa y promoción."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Derogar su protección y quitar subvenciones."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Derogar su protección."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Más gasto público en cultura?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Prioriza mecenazgo e incentivos privados."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Ley General de Cultura con financiación estable."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Rebajas de impuestos y mecenazgo."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "2% del gasto público total."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Duplicar el presupuesto; museos gratis."
+          }
+        }
+      },
+      {
+        "pregunta": "Deporte: ¿cuál es la prioridad?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Final del Mundial 2030 y mecenazgo deportivo."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Estatuto del Deportista y fútbol femenino profesional."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Selecciones nacionales y deporte femenino por criterios biológicos."
+          },
+          "fa": {
+            "postura": "sin",
+            "texto": "No tiene propuestas de deporte."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Duplicar fondos del deporte femenino."
+          }
+        }
+      }
+    ]
+  },
+  "animales": {
+    "resumen": "Aquí la diferencia es muy clara. PP y VOX no incluyen ninguna medida sobre animales de compañía o maltrato; solo hablan de caza, lobo y tauromaquia, que defienden. PSOE propone tolerancia cero al maltrato y reconvertir zoos, sin pronunciarse sobre los toros. FA y PODEMOS dedican apartados extensos: endurecer penas, incluir perros de caza en la ley, acabar con jaulas, circos, peleterías y subvenciones taurinas.",
+    "ejes": [
+      {
+        "pregunta": "¿Propone medidas contra el maltrato y el abandono?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No las menciona."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Tolerancia cero y abandono cero."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No las menciona."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Penas crecientes, sin sustitución por multa, IVA veterinario al 10%."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Más SEPRONA, menos compraventa y más adopción."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Incluir a los perros de caza en la Ley de Bienestar Animal?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Reducir trabas a la caza."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No lo concreta."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Defensa de la caza como actividad esencial."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Sí, de forma plena."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Sí, la ley para todos los animales."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Seguir apoyando la tauromaquia?",
+        "posiciones": {
+          "pp": {
+            "postura": "si",
+            "texto": "Restituir el Premio Nacional de Tauromaquia."
+          },
+          "psoe": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "vox": {
+            "postura": "si",
+            "texto": "Defensa y promoción."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Derogar su protección y quitar todas las subvenciones."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Acabar con ella; consultas territoriales."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Limitar la ganadería intensiva (jaulas, macrogranjas, pieles)?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "No; apoyo al sector y menos burocracia."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Prioriza la ganadería extensiva, sin prohibiciones."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Derogar normas que encarezcan al sector."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Fin de jaulas, peleterías, foie gras y nuevas macrogranjas."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Hoja de ruta para eliminar jaulas y exportación en vivo."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Zoos, delfinarios y circos con animales?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "psoe": {
+            "postura": "matiz",
+            "texto": "Reorientar zoos hacia la conservación."
+          },
+          "vox": {
+            "postura": "sin",
+            "texto": "No se pronuncia."
+          },
+          "fa": {
+            "postura": "no",
+            "texto": "Zoos sin exhibición y fin de la cautividad de cetáceos."
+          },
+          "podemos": {
+            "postura": "no",
+            "texto": "Prohibir circos y espectáculos con animales."
+          }
+        }
+      }
+    ]
+  },
+  "digital": {
+    "resumen": "Todos quieren impulsar la IA, pero difieren en cuánto regularla. PP y VOX priorizan no añadir cargas a las empresas y VOX denuncia 'censura'. PSOE, FA y PODEMOS quieren regular duro a las grandes plataformas, con responsabilidad penal para sus directivos y leyes contra la desinformación; PODEMOS propone además una red social pública.",
+    "ejes": [
+      {
+        "pregunta": "¿Responsabilidad penal para directivos de grandes plataformas?",
+        "posiciones": {
+          "pp": {
+            "postura": "sin",
+            "texto": "No lo plantea; sí sanciones por facturación si no protegen a menores."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Si no retiran contenidos ilegales o de odio."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Prioriza la libertad de expresión frente a la 'censura'."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Hasta 4 años de prisión por desobedecer órdenes de retirada."
+          },
+          "podemos": {
+            "postura": "matiz",
+            "texto": "Ley de información veraz; red social pública."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Regular más la IA que el marco europeo?",
+        "posiciones": {
+          "pp": {
+            "postura": "no",
+            "texto": "Sin cargas nacionales añadidas al marco europeo."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "Ley de IA con etiquetado y multas de hasta 35 M€."
+          },
+          "vox": {
+            "postura": "no",
+            "texto": "Impulsar su implantación."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "Prohibir chatbots afectivos, auditorías, inventario público de IA."
+          },
+          "podemos": {
+            "postura": "sin",
+            "texto": "No lo concreta."
+          }
+        }
+      },
+      {
+        "pregunta": "¿Cuánto invertir en ciencia?",
+        "posiciones": {
+          "pp": {
+            "postura": "matiz",
+            "texto": "Más deducción por I+D y financiación estable; sin porcentaje."
+          },
+          "psoe": {
+            "postura": "si",
+            "texto": "I+D pública al 1,25% y 1,5% del PIB en 2035."
+          },
+          "vox": {
+            "postura": "matiz",
+            "texto": "Reforzar I+D+i; sin cifra."
+          },
+          "fa": {
+            "postura": "si",
+            "texto": "I+D total al 3% del PIB en 2030."
+          },
+          "podemos": {
+            "postura": "si",
+            "texto": "Inversión pública en ciencia al 2% del PIB."
+          }
+        }
+      }
+    ]
+  }
+}

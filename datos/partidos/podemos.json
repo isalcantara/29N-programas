@@ -1,0 +1,987 @@
+{
+  "id": "podemos",
+  "nombre": "Podemos",
+  "siglas": "PODEMOS",
+  "color": "#8a5cb0",
+  "fuente": "podemos.pdf",
+  "resumen": "Programa 'Así de básico: paz, casa y trabajo' con 442 medidas numeradas. Es el más intervencionista: bajada por ley del 40% de los alquileres, expropiación de uso de viviendas, nacionalizar Repsol, supermercados públicos, transporte público gratis, SMI de 1.800 €, jornada de 30 horas, jubilación a los 63, salida de la OTAN y proceso constituyente republicano. Muchas cifras concretas; coste total muy alto y no cuantificado en conjunto.",
+  "ideas_fuerza": [
+    "Bajar los alquileres un 40% por ley y expropiar el uso de viviendas de grandes tenedores",
+    "SMI de 1.800 €, jornada de 30 horas y jubilación a los 63",
+    "Empresas públicas: energía (nacionalizar Repsol), banca y supermercados",
+    "Salida de la OTAN, cierre de Rota y Morón, ruptura con Israel",
+    "Tercera República mediante proceso constituyente"
+  ],
+  "propuestas": [
+    {
+      "id": "podemos-001",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Bajar los alquileres un 40% por ley, también en contratos vigentes",
+      "resumen": "Reducción extraordinaria del 40% del precio de todos los alquileres (contratos vigentes, renovaciones y nuevos), siempre que el resultado no quede por debajo del 60% del precio medio de la zona.",
+      "cita": "Aprobaremos una reducción extraordinaria del 40 % de los precios del alquiler, aplicable a los contratos vigentes, sus renovaciones y prórrogas, así como a los nuevos contratos.",
+      "pagina": 8,
+      "concrecion": "alta",
+      "cifra": "-40% en todos los alquileres",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Todos los inquilinos (beneficio inmediato) y todos los propietarios que alquilan, incluidos pequeños propietarios.",
+        "coste": "Sin coste presupuestario; lo asumen los propietarios (miles de millones al año).",
+        "viabilidad": "Rebajar por ley contratos ya firmados plantea serias dudas de constitucionalidad (seguridad jurídica, derecho de propiedad).",
+        "a_favor": [
+          "Alivio enorme e inmediato para millones de inquilinos que destinan casi la mitad de su sueldo al alquiler."
+        ],
+        "en_contra": [
+          "Muchos propietarios podrían retirar sus viviendas del alquiler o venderlas, reduciendo drásticamente la oferta.",
+          "Afecta igual a pequeños propietarios que dependen de esa renta."
+        ]
+      }
+    },
+    {
+      "id": "podemos-002",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Expropiar el uso de las viviendas de grandes tenedores (más de 10)",
+      "resumen": "Expropiación de uso por interés social de las viviendas que superen las diez en manos de grandes tenedores, fondos y bancos (unas 626.000), incorporando al parque público las vacías o turísticas. Todo el patrimonio de la SAREB al parque público. Inmobiliaria pública que gestione alquileres con renta máxima del 30% de la renta media.",
+      "cita": "Impulsaremos la expropiación de uso por interés social de las viviendas que superen las diez en manos de grandes tenedores, fondos de inversión, entidades financieras y bancos, incluyendo las aproximadamente 626.000 viviendas concentradas en manos de grandes propietarios.",
+      "pagina": 8,
+      "concrecion": "alta",
+      "cifra": "~626.000 viviendas",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Fondos, bancos, grandes propietarios y sus inquilinos.",
+        "coste": "La expropiación de uso requiere compensación; no cuantificada.",
+        "viabilidad": "Muy litigiosa; algunas CCAA aprobaron figuras similares parcialmente anuladas por los tribunales.",
+        "a_favor": [
+          "Moviliza rápidamente viviendas vacías o turísticas hacia el alquiler social."
+        ],
+        "en_contra": [
+          "Inseguridad jurídica que podría frenar la inversión en vivienda nueva."
+        ]
+      }
+    },
+    {
+      "id": "podemos-003",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Prohibir comprar casas que no sean para vivir y prohibir los pisos turísticos",
+      "resumen": "Solo se podrá comprar vivienda para residencia habitual propia o de un familiar, o segunda residencia de uso propio, durante al menos 4 años (prohibido comprar para alquilar). Fin del uso turístico de viviendas mientras dure la emergencia habitacional y moratoria de nuevas plazas hoteleras en zonas masificadas. Contratos de alquiler indefinidos.",
+      "cita": "Prohibiremos la adquisición y acumulación de viviendas que no estén destinadas a residencia habitual.",
+      "pagina": 8,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Inversores particulares y empresas, propietarios de pisos turísticos, sector turístico.",
+        "coste": "Ninguno directo.",
+        "viabilidad": "Limitación muy fuerte del derecho de propiedad y de la libre circulación de capitales en la UE.",
+        "a_favor": [
+          "Saca la vivienda del mercado de inversión."
+        ],
+        "en_contra": [
+          "Si nadie puede comprar para alquilar, la oferta de alquiler privado desaparecería con el tiempo salvo que la cubra el Estado.",
+          "Impacto económico en el turismo."
+        ]
+      }
+    },
+    {
+      "id": "podemos-004",
+      "tema": "vivienda",
+      "subtema": "okupacion",
+      "titulo": "Suspensión indefinida de desahucios de vulnerables y prohibir desalojos extrajudiciales",
+      "resumen": "Prohibir desahuciar a personas vulnerables sin alternativa (se presume vulnerabilidad si no hay alternativa), también en rentas antiguas; ilegalizar las empresas de 'desokupación'; cortes de suministros prohibidos; cheque energético de 300 € para hogares con ingresos por debajo del SMI.",
+      "cita": "Prohibiremos los desahucios y lanzamientos de personas en situación de vulnerabilidad sin alternativa habitacional digna y adecuada, estableciendo su suspensión indefinida.",
+      "pagina": 9,
+      "concrecion": "alta",
+      "cifra": "Cheque energético 300 €/año",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Familias vulnerables, propietarios, empresas de desalojo.",
+        "coste": "Para los propietarios afectados o la Administración.",
+        "viabilidad": "Viable legalmente, aunque los tribunales exigen compensar a los propietarios.",
+        "a_favor": [
+          "Evita que familias acaben en la calle."
+        ],
+        "en_contra": [
+          "Presumir la vulnerabilidad puede amparar impagos de personas que sí podrían pagar."
+        ]
+      }
+    },
+    {
+      "id": "podemos-005",
+      "tema": "economia",
+      "subtema": "precios",
+      "titulo": "Supermercados públicos y tope a los márgenes de las grandes cadenas",
+      "resumen": "Crear una red pública de supermercados que venda sin margen de beneficio y priorice la compra de proximidad; limitar por ley los márgenes de las grandes distribuidoras en productos básicos.",
+      "cita": "Establecimiento de una red pública de supermercados. La existencia de un operador público en el sector de la gran distribución de alimentos tendrá innumerables ventajas: el control de precios.",
+      "pagina": 17,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Consumidores, grandes cadenas (Mercadona, Carrefour…), pequeños productores.",
+        "coste": "Inversión pública para crear la red; no cuantificada.",
+        "viabilidad": "Viable legalmente; complejo operativamente.",
+        "a_favor": [
+          "Competencia pública que presione precios a la baja; experiencias municipales en otros países."
+        ],
+        "en_contra": [
+          "La distribución alimentaria tiene márgenes netos bajos (2-4%); el ahorro posible es limitado.",
+          "Riesgo de pérdidas que paguen los contribuyentes."
+        ]
+      }
+    },
+    {
+      "id": "podemos-006",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Nacionalizar Repsol y crear una empresa pública de energía",
+      "resumen": "El Estado comprará la mayoría de Repsol e integrará los saltos hidroeléctricos que caduquen en una Empresa Pública de Energía; 100% de Red Eléctrica público; tope al gas de 40 €/MWh y facturas que no puedan subir más de un 5%.",
+      "cita": "El Estado adquirirá, a través de la Empresa Pública de Energía, la mayoría absoluta del accionariado de Repsol.",
+      "pagina": 18,
+      "concrecion": "alta",
+      "cifra": "Tope gas 40 €/MWh; factura máx. +5%",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Repsol y sus accionistas, consumidores de energía.",
+        "coste": "Comprar más del 50% de Repsol costaría en torno a 8.000-10.000 M€ a precios de mercado.",
+        "viabilidad": "Posible por compra o expropiación con indemnización; generaría conflicto con inversores internacionales.",
+        "a_favor": [
+          "Control público sobre un sector estratégico, como hacen Noruega o Francia (EDF)."
+        ],
+        "en_contra": [
+          "Gran desembolso público por una empresa petrolera en plena transición energética."
+        ]
+      }
+    },
+    {
+      "id": "podemos-007",
+      "tema": "movilidad",
+      "subtema": "transporte-publico",
+      "titulo": "Transporte público gratis para todos (incluido el AVE)",
+      "resumen": "Gratuidad universal de todo el transporte público: bus, metro, tranvía, Cercanías, Media y Larga distancia, con una tarjeta única para todo el país. Renacionalizar el ferrocarril, unir Renfe y Adif y revocar las licencias de Ouigo e Iryo. No renovar concesiones de autopistas.",
+      "cita": "Garantizaremos la gratuidad de todo el transporte público de viajeros, incluyendo los servicios urbanos e interurbanos de autobús, metro, tranvía, cercanías, media y larga distancia ferroviaria.",
+      "pagina": 19,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Todos los usuarios del transporte público; operadores privados ferroviarios.",
+        "coste": "Muy elevado: varios miles de millones al año en ingresos por billetes perdidos.",
+        "viabilidad": "Revocar licencias de operadores privados choca con la liberalización ferroviaria europea.",
+        "a_favor": [
+          "Fomenta el transporte público y reduce emisiones y gastos de las familias."
+        ],
+        "en_contra": [
+          "Riesgo de saturación sin inversión suficiente en capacidad.",
+          "Expulsar a Ouigo e Iryo eliminaría la competencia que bajó los precios del AVE."
+        ]
+      }
+    },
+    {
+      "id": "podemos-008",
+      "tema": "fiscalidad",
+      "subtema": "empresas-fiscal",
+      "titulo": "Que al menos el 50% de los beneficios de la gran banca vaya al Estado",
+      "resumen": "Impuesto permanente sobre beneficios extraordinarios de la gran banca para que al menos el 50% revierta en las arcas públicas; exigir la devolución íntegra del rescate bancario; recuperar los beneficios extra de eléctricas y petroleras; impuesto del 7-15% de beneficios a las empresas más contaminantes.",
+      "cita": "Estableceremos un impuesto permanente sobre los beneficios extraordinarios de la gran banca, de forma que al menos el 50 % de sus beneficios revierta en las arcas públicas.",
+      "pagina": 17,
+      "concrecion": "alta",
+      "cifra": "≥50% de beneficios de la gran banca",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Gran banca, energéticas y empresas contaminantes.",
+        "coste": "Genera ingresos.",
+        "viabilidad": "Un impuesto de esta magnitud podría considerarse confiscatorio; el BCE ya alertó sobre el gravamen actual.",
+        "a_favor": [
+          "La banca obtuvo beneficios récord con la subida de tipos de interés."
+        ],
+        "en_contra": [
+          "Puede encarecer el crédito y reducir la solvencia de los bancos."
+        ]
+      }
+    },
+    {
+      "id": "podemos-009",
+      "tema": "fiscalidad",
+      "subtema": "patrimonio",
+      "titulo": "Impuesto estatal permanente a grandes fortunas e igualar capital y trabajo",
+      "resumen": "Convertir el impuesto temporal a grandes fortunas en estatal y permanente para todos los obligados por Patrimonio (impidiendo que las CCAA lo eliminen); equiparar en una legislatura la tributación del capital a la del trabajo; tipo mínimo efectivo de Sociedades del 19%; eliminar desgravaciones por planes de pensiones privados y la 'ley Beckham'.",
+      "cita": "Reformaremos el Impuesto Temporal de Solidaridad de las Grandes Fortunas para configurarlo como un impuesto estatal permanente con idénticas características que el Impuesto del Patrimonio.",
+      "pagina": 17,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Grandes patrimonios, rentas del capital, grandes empresas.",
+        "coste": "Genera ingresos.",
+        "viabilidad": "Competencia estatal.",
+        "a_favor": [
+          "Evita la competencia fiscal entre CCAA (Madrid bonifica Patrimonio al 100%)."
+        ],
+        "en_contra": [
+          "Riesgo de deslocalización de grandes patrimonios."
+        ]
+      }
+    },
+    {
+      "id": "podemos-010",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Bajar el tipo mínimo del IRPF y subirlo a partir de 60.000 €",
+      "resumen": "Reducir el tipo estatal mínimo del 9,5% al 9% y elevar los tipos estatales desde 60.000 € (23%) hasta el 28,5% a partir de 500.000 €. IVA reducido para peluquerías, veterinarios, espectáculos (5%) y exención en productos menstruales.",
+      "cita": "Reduciremos el tipo mínimo del 9,5 % actual al 9 %, y elevaremos los tipos a las bases imponibles de más de 60.000 euros anuales.",
+      "pagina": 21,
+      "concrecion": "alta",
+      "cifra": "Tramo estatal: 9% mín.; 28,5% > 500.000 €",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Rentas bajas (rebaja pequeña) y rentas por encima de 60.000 € (subida).",
+        "coste": "Neto positivo.",
+        "viabilidad": "Competencia estatal.",
+        "a_favor": [
+          "Aumenta la progresividad."
+        ],
+        "en_contra": [
+          "Sumado al tramo autonómico, el tipo máximo se acercaría al 55% en algunas CCAA."
+        ]
+      }
+    },
+    {
+      "id": "podemos-011",
+      "tema": "fiscalidad",
+      "subtema": "gasto",
+      "titulo": "Derogar la reforma del artículo 135 (prioridad del pago de la deuda)",
+      "resumen": "Revertir la reforma constitucional de 2011 que da prioridad al pago de la deuda y limita el déficit, para que no se recorten servicios públicos por reglas de austeridad.",
+      "cita": "Derogaremos la reforma constitucional que afectó al artículo 135 de la Constitución para evitar que el pago de la deuda externa sea preferente a la inversión social.",
+      "pagina": 23,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Política presupuestaria del Estado.",
+        "coste": "Permite más déficit.",
+        "viabilidad": "Reforma constitucional (3/5 de las Cámaras); las reglas fiscales europeas seguirían vigentes.",
+        "a_favor": [
+          "Evita recortes en servicios en crisis como los de 2011-2013."
+        ],
+        "en_contra": [
+          "Puede encarecer la financiación de España si los mercados dudan de su compromiso fiscal."
+        ]
+      }
+    },
+    {
+      "id": "podemos-012",
+      "tema": "economia",
+      "subtema": "modelo-productivo",
+      "titulo": "Banca pública que integre ICO, CDTI y ENISA",
+      "resumen": "Crear una Banca Pública con los recursos del ICO, CDTI y ENISA, con la que operen en exclusiva las administraciones, para orientar el ahorro al empleo estable; fomentar empresas públicas en el mercado.",
+      "cita": "Crearemos una Banca Pública a la que se integrarán todos los recursos y la estructura del ICO, CDTI y ENISA, que será con la que operen las administraciones públicas en exclusiva.",
+      "pagina": 17,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Sector financiero, administraciones.",
+        "coste": "Capital público.",
+        "viabilidad": "Viable; normativa bancaria europea exigente.",
+        "a_favor": [
+          "Crédito orientado a objetivos públicos."
+        ],
+        "en_contra": [
+          "Riesgo de politización del crédito (experiencia de las cajas de ahorro)."
+        ]
+      }
+    },
+    {
+      "id": "podemos-013",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Autónomos: cuota según beneficio real y cero si hay pérdidas",
+      "resumen": "Cotización de autónomos como porcentaje progresivo del beneficio, cero en caso de pérdidas y mayor para beneficios millonarios; reforma del IVA para pymes; acceso a contratación pública.",
+      "cita": "Estableceremos un sistema de cotización para los autónomos que consista en un porcentaje progresivo de su beneficio, huyendo de las cuantías fijas por tramos, llegando a la cotización 0 en caso de incurrir en pérdidas.",
+      "pagina": 23,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Autónomos.",
+        "coste": "Menos ingresos de autónomos con pérdidas, más de los que ganan mucho.",
+        "viabilidad": "Viable; amplía el sistema de ingresos reales de 2023.",
+        "a_favor": [
+          "Más justo con quienes ganan poco."
+        ],
+        "en_contra": [
+          "Cotizar cero implica no generar derechos de pensión."
+        ]
+      }
+    },
+    {
+      "id": "podemos-014",
+      "tema": "trabajo",
+      "subtema": "salarios",
+      "titulo": "Salario mínimo de 1.800 € y subidas salariales automáticas con el IPC",
+      "resumen": "Subir el SMI a 1.800 € al mes en la legislatura y fijar por ley que nunca baje del 75% del salario mediano; actualización automática de todos los salarios con el coste de la vida si el convenio no mejora.",
+      "cita": "Aumentaremos el SMI hasta los 1.800 euros al mes en una legislatura. Estableceremos por ley que nunca pueda ser inferior al 75% del salario mediano.",
+      "pagina": 41,
+      "concrecion": "alta",
+      "cifra": "SMI 1.800 €/mes (hoy ~1.221 €)",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Millones de trabajadores con salarios bajos; empresas, especialmente pymes y sectores como agricultura y hostelería.",
+        "coste": "Para las empresas: una subida del ~47% del SMI.",
+        "viabilidad": "Legalmente viable; un SMI al 75% de la mediana sería de los más altos del mundo en términos relativos.",
+        "a_favor": [
+          "Mejora inmediata del poder adquisitivo de quien menos gana."
+        ],
+        "en_contra": [
+          "Riesgo de destrucción de empleo y de más economía sumergida en sectores y regiones con salarios bajos.",
+          "La indexación automática al IPC puede alimentar espirales de precios."
+        ]
+      }
+    },
+    {
+      "id": "podemos-015",
+      "tema": "trabajo",
+      "subtema": "jornada",
+      "titulo": "Jornada de 30 horas sin bajar sueldo, semana de 4 días y teletrabajo 2 días",
+      "resumen": "Reducir la jornada a 35 horas y después a 30 horas semanales en la legislatura sin rebajar salarios, con opción de semana de cuatro días; teletrabajo dos días a la semana donde sea posible; prohibir horas extra no compensadas con descanso, con sanciones penales.",
+      "cita": "Reduciremos la jornada laboral a 30 horas semanales durante la legislatura, comenzando con una bajada a 35 horas.",
+      "pagina": 41,
+      "concrecion": "alta",
+      "cifra": "35 h → 30 h en la legislatura",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Todos los asalariados y empresas.",
+        "coste": "Pasar de 40 a 30 horas con el mismo sueldo supone subir un 33% el coste por hora trabajada.",
+        "viabilidad": "Ningún país tiene una jornada legal de 30 horas; muy difícil en una legislatura.",
+        "a_favor": [
+          "Más tiempo para vivir; las pruebas de semana de 4 días muestran buenos resultados en bienestar."
+        ],
+        "en_contra": [
+          "Impacto fuerte en costes y competitividad, sobre todo en pymes, hostelería, comercio o sanidad."
+        ]
+      }
+    },
+    {
+      "id": "podemos-016",
+      "tema": "social",
+      "subtema": "pensiones",
+      "titulo": "Jubilación a los 63 años y pensión mínima igual al SMI",
+      "resumen": "Adelantar la edad ordinaria de jubilación a 63 años financiando la diferencia con los Presupuestos; pensión mínima contributiva igual al SMI y no contributiva al 80%; eliminar el tope máximo de cotización; jubilación anticipada sin penalización en sectores duros.",
+      "cita": "Reformaremos el sistema de pensiones para adelantar la edad ordinaria de jubilación a los 63 años garantizando la sostenibilidad y suficiencia de las pensiones mediante su financiación a través de los Presupuestos Generales del Estado.",
+      "pagina": 41,
+      "concrecion": "alta",
+      "cifra": "Jubilación 63 años; pensión mínima = SMI",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Trabajadores y pensionistas.",
+        "coste": "Enorme: varios puntos del PIB adicionales al año (más pensionistas y pensiones mínimas mucho más altas).",
+        "viabilidad": "Va en sentido contrario a todas las reformas europeas; la Comisión Europea y AIReF advierten del coste ya creciente.",
+        "a_favor": [
+          "Las pensiones mínimas actuales están por debajo del umbral de pobreza en muchos casos."
+        ],
+        "en_contra": [
+          "Sostenibilidad muy dudosa con el envejecimiento de la población."
+        ]
+      }
+    },
+    {
+      "id": "podemos-017",
+      "tema": "social",
+      "subtema": "pobreza",
+      "titulo": "Convertir el IMV en una renta universal incondicionada",
+      "resumen": "Potenciar el Ingreso Mínimo Vital con el objetivo de convertirlo en una renta básica universal e incondicional para toda la ciudadanía.",
+      "cita": "Potenciaremos el Ingreso Mínimo Vital con el objetivo de convertirlo en una renta universal incondicionada para todos los ciudadanos y ciudadanas.",
+      "pagina": 45,
+      "concrecion": "baja",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Toda la población.",
+        "coste": "Una renta básica universal costaría decenas de miles de millones al año.",
+        "viabilidad": "Sin cuantía ni calendario.",
+        "a_favor": [
+          "Elimina la burocracia y el estigma de las ayudas condicionadas."
+        ],
+        "en_contra": [
+          "Coste muy alto; no hay experiencias a escala nacional."
+        ]
+      }
+    },
+    {
+      "id": "podemos-018",
+      "tema": "familia",
+      "subtema": "natalidad",
+      "titulo": "Prestación por hijo hasta los 21 años (15% del SMI) y permisos de 26 semanas",
+      "resumen": "Prestación mensual por cada hijo desde el nacimiento hasta los 21 años equivalente al 15% del SMI (unos 180 €/mes hoy); permisos por nacimiento de 26 semanas por progenitor (9 meses), dobles en familias monomarentales; permisos de cuidados de 7 días.",
+      "cita": "Establecer una prestación mensual por cada hija o hijo, desde el nacimiento hasta los 21 años, equivalente al 15 % del Salario Mínimo Interprofesional (SMI).",
+      "pagina": 60,
+      "concrecion": "alta",
+      "cifra": "15% SMI/mes por hijo hasta 21 años; 26 semanas de permiso",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Familias con hijos.",
+        "coste": "Muy elevado (más de 20.000 M€/año), mayor si el SMI sube a 1.800 €.",
+        "viabilidad": "Requiere financiación muy amplia.",
+        "a_favor": [
+          "Reduciría notablemente la pobreza infantil."
+        ],
+        "en_contra": [
+          "Coste fiscal muy alto y universal (también para rentas altas)."
+        ]
+      }
+    },
+    {
+      "id": "podemos-019",
+      "tema": "social",
+      "subtema": "dependencia",
+      "titulo": "Sistema Estatal de Cuidados y residencias 100% públicas",
+      "resumen": "Sistema Estatal de Cuidados y Conciliación como cuarto pilar del bienestar; desprivatizar las residencias: no más conciertos y los que caduquen pasan a gestión pública directa; Ley de la Buena Vejez; reconocer y remunerar los cuidados familiares.",
+      "cita": "Se llevará a cabo un proceso de desprivatización del sistema de residencias en España con el horizonte de que su gestión sea pública y directa al 100%.",
+      "pagina": 63,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Personas mayores, residencias privadas y concertadas (la mayoría de plazas actuales).",
+        "coste": "Muy alto: la mayoría de plazas son privadas o concertadas.",
+        "viabilidad": "Competencia autonómica; transición larga.",
+        "a_favor": [
+          "La crisis de la COVID evidenció problemas en residencias gestionadas por fondos."
+        ],
+        "en_contra": [
+          "Sin plazas públicas suficientes, podrían aumentar las listas de espera."
+        ]
+      }
+    },
+    {
+      "id": "podemos-020",
+      "tema": "migracion",
+      "subtema": "regularizacion",
+      "titulo": "Derogar la Ley de Extranjería, regularización permanente y cierre de los CIE",
+      "resumen": "Derogar la Ley de Extranjería y aprobar una ley integral de derechos; fin de las devoluciones en caliente; cerrar todos los CIE; procedimiento permanente de regularización por arraigo social, sin exigir contrato de trabajo; renovación automática de permisos; reparto obligatorio de menores no acompañados entre CCAA.",
+      "cita": "Procederemos al cierre de todos los Centros de Internamiento de Extranjeros, sustituyendo la privación de libertad por alternativas comunitarias.",
+      "pagina": 65,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Inmigrantes, solicitantes de asilo, CCAA de acogida.",
+        "coste": "Moderado.",
+        "viabilidad": "Choca con el Pacto Europeo de Migración y Asilo.",
+        "a_favor": [
+          "Permite a cientos de miles de personas trabajar legalmente y cotizar."
+        ],
+        "en_contra": [
+          "Sus críticos lo consideran un incentivo a la inmigración irregular."
+        ]
+      }
+    },
+    {
+      "id": "podemos-021",
+      "tema": "migracion",
+      "subtema": "integracion",
+      "titulo": "'Ius soli': los nacidos en España, españoles",
+      "resumen": "Que los nacidos en España de padres extranjeros residentes sean españoles de origen; voto de residentes extranjeros; ley integral antirracista y contra la islamofobia.",
+      "cita": "Ius soli: Los nacidos en España son españoles.",
+      "pagina": 66,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Hijos de inmigrantes nacidos en España.",
+        "coste": "Ninguno.",
+        "viabilidad": "Reforma del Código Civil, viable con mayoría simple.",
+        "a_favor": [
+          "Facilita la integración de niños que crecen en España."
+        ],
+        "en_contra": [
+          "Casi ningún país europeo aplica el 'ius soli' automático; postura opuesta a PP y Vox, que quieren endurecer la nacionalidad."
+        ]
+      }
+    },
+    {
+      "id": "podemos-022",
+      "tema": "exterior",
+      "subtema": "defensa",
+      "titulo": "Salir de la OTAN y cerrar las bases de EE.UU. de Rota y Morón",
+      "resumen": "Denunciar el Tratado del Atlántico Norte para sacar a España de la OTAN y cerrar las bases estadounidenses; reforma constitucional de 'No a la guerra' y Estatuto de Neutralidad; revertir por completo el aumento del gasto militar y congelarlo.",
+      "cita": "Impulsaremos la salida de España de la OTAN mediante la denuncia del Tratado del Atlántico Norte y pondremos fin a la presencia militar estadounidense en nuestro territorio, incluida la Base Naval de Rota y la Base Aérea de Morón.",
+      "pagina": 28,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Política de defensa, relación con EE.UU. y la UE; empleo en las bases (miles de empleos en Rota y Morón).",
+        "coste": "Ahorro en gasto militar; posible pérdida de inversión y empleo ligado a las bases.",
+        "viabilidad": "Denunciar el tratado es posible (artículo 13), pero sin apoyo parlamentario mayoritario; España entró por referéndum en 1986.",
+        "a_favor": [
+          "Política exterior independiente y menos riesgo de verse arrastrado a guerras ajenas."
+        ],
+        "en_contra": [
+          "España perdería la protección colectiva de la Alianza en un contexto de guerra en Europa.",
+          "Aislaría a España de sus socios europeos, casi todos en la OTAN."
+        ]
+      }
+    },
+    {
+      "id": "podemos-023",
+      "tema": "exterior",
+      "subtema": "politica-exterior",
+      "titulo": "Romper relaciones con Israel y reconocer la República Saharaui",
+      "resumen": "Ruptura de relaciones diplomáticas, culturales y comerciales con Israel hasta el fin de la ocupación; embargo total de armas; perseguir judicialmente a responsables; reconocimiento diplomático de la RASD y referéndum de autodeterminación; nacionalidad para saharauis; Ucrania: paz negociada con retirada rusa.",
+      "cita": "Ruptura de las relaciones diplomáticas, culturales y comerciales con Israel.",
+      "pagina": 34,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Relaciones con Israel, Marruecos, EE.UU.",
+        "coste": "Diplomático y comercial.",
+        "viabilidad": "Viable unilateralmente; muy costoso diplomáticamente.",
+        "a_favor": [
+          "Coherencia con la acusación de genocidio ante la Corte Internacional de Justicia."
+        ],
+        "en_contra": [
+          "Reconocer a la RASD abriría una crisis grave con Marruecos (migración, energía, Ceuta y Melilla)."
+        ]
+      }
+    },
+    {
+      "id": "podemos-024",
+      "tema": "sanidad",
+      "subtema": "gestion",
+      "titulo": "Sanidad 100% pública: prohibir la gestión privada y 2.900 € por habitante",
+      "resumen": "Derogar la Ley 15/1997 y toda ley que permita la gestión privada, blindando la gestión pública directa como obligatoria; prohibir externalizaciones; financiación hasta 2.900 € por habitante (~8% del PIB); industria farmacéutica pública; ratios mínimas de 18 psiquiatras y 18 psicólogos clínicos por 100.000 habitantes.",
+      "cita": "Blindaremos la titularidad y la gestión pública directa como modelo obligatorio del Sistema Nacional de Salud.",
+      "pagina": 88,
+      "concrecion": "alta",
+      "cifra": "2.900 €/habitante; 18 psiquiatras y 18 psicólogos/100.000",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Sanidad pública y privada, hospitales concesionados, pacientes.",
+        "coste": "Unos 30.000 M€ más al año para llegar a 2.900 €/habitante.",
+        "viabilidad": "Gestión autonómica; revertir concesiones exige indemnizaciones.",
+        "a_favor": [
+          "Fin del lucro en la sanidad pública; más inversión.",
+          "La ratio de salud mental actual es muy inferior a la europea."
+        ],
+        "en_contra": [
+          "Coste muy elevado y transición compleja que podría empeorar listas de espera a corto plazo."
+        ]
+      }
+    },
+    {
+      "id": "podemos-025",
+      "tema": "educacion",
+      "subtema": "modelo-educativo",
+      "titulo": "Fin progresivo de la concertada y supresión de la asignatura de Religión",
+      "resumen": "Avanzar hacia una única red educativa pública de gestión directa: moratoria indefinida a nuevos conciertos; bajar ratios; libros y material gratuitos; suprimir la enseñanza de cualquier religión en todos los colegios; moratoria a nuevas universidades privadas y universidad pública gratuita con becas-salario de hasta 800 €.",
+      "cita": "Suprimiremos la enseñanza de cualquier religión en cualquier colegio.",
+      "pagina": 79,
+      "concrecion": "alta",
+      "cifra": "Becas-salario hasta 800 €/mes",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Familias de la concertada (~25% del alumnado), colegios religiosos, universidades privadas.",
+        "coste": "Muy alto (absorber la concertada y gratuidad universitaria).",
+        "viabilidad": "Prohibir la religión en colegios privados chocaría con la libertad de enseñanza (art. 27 de la Constitución) y los Acuerdos con la Santa Sede.",
+        "a_favor": [
+          "Una sola red pública reduce la segregación escolar."
+        ],
+        "en_contra": [
+          "Elimina una opción que eligen muchas familias.",
+          "Dudosa constitucionalidad respecto a centros privados."
+        ]
+      }
+    },
+    {
+      "id": "podemos-026",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "95% renovable en 2035, cierre nuclear y placas solares públicas en los hogares",
+      "resumen": "Electricidad 95% renovable en 2035 y descarbonización total en 2040; cumplir el cierre nuclear empezando por Almaraz; inversión pública en placas solares y rehabilitación de viviendas de ingresos medios y bajos; subvenciones para eliminar instalaciones domésticas de gas.",
+      "cita": "Defenderemos el cumplimiento del calendario de cierre de las centrales nucleares, comenzando por Almaraz.",
+      "pagina": 103,
+      "concrecion": "alta",
+      "cifra": "95% renovable en 2035",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Sistema eléctrico, hogares, comarcas nucleares.",
+        "coste": "Elevado.",
+        "viabilidad": "Objetivo ambicioso; requiere grandes inversiones en almacenamiento.",
+        "a_favor": [
+          "Reduce dependencia de combustibles fósiles importados."
+        ],
+        "en_contra": [
+          "Seguridad de suministro con poca generación firme tras el apagón de 2025."
+        ]
+      }
+    },
+    {
+      "id": "podemos-027",
+      "tema": "movilidad",
+      "subtema": "transporte-publico",
+      "titulo": "Prohibir vuelos cortos con alternativa en tren de menos de 3 horas y jets privados",
+      "resumen": "Prohibir vuelos domésticos cuando haya tren de menos de 3 horas, también en avión privado; avanzar hacia la prohibición de jets privados no esenciales; más trenes y frecuencias en la España vaciada.",
+      "cita": "Prohibición de vuelos cortos cuando haya una alternativa ferroviaria de menos de tres horas, como se ha hecho recientemente en Francia.",
+      "pagina": 104,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Viajeros, aerolíneas, propietarios de jets.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable con límites europeos (Francia lo hizo para tres rutas).",
+        "a_favor": [
+          "Reduce emisiones del transporte."
+        ],
+        "en_contra": [
+          "Impacto en conectividad y turismo."
+        ]
+      }
+    },
+    {
+      "id": "podemos-028",
+      "tema": "territorio",
+      "subtema": "agro",
+      "titulo": "Moratoria a macrogranjas y a la compra de tierras por fondos",
+      "resumen": "Moratoria indefinida a nuevas macroexplotaciones y a la compra de tierras fértiles por fondos y grandes corporaciones; Banco Público de Tierras para jóvenes y cooperativas; PAC para quien trabaja la tierra; cerrar regadíos ilegales de Doñana, Daimiel y Mar Menor; prohibir urbanizar en zonas inundables.",
+      "cita": "Moratoria indefinida a la apertura de nuevas macroexplotaciones y a la compra de tierras fértiles por parte de fondos buitre y grandes corporaciones.",
+      "pagina": 111,
+      "concrecion": "alta",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Ganadería intensiva, fondos agrícolas, regantes ilegales.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable; conflictos con el sector agroindustrial.",
+        "a_favor": [
+          "Protege acuíferos y el modelo de agricultura familiar."
+        ],
+        "en_contra": [
+          "Frena inversión y empleo en el sector agroalimentario."
+        ]
+      }
+    },
+    {
+      "id": "podemos-029",
+      "tema": "estado",
+      "subtema": "forma-estado",
+      "titulo": "Proceso constituyente hacia una Tercera República",
+      "resumen": "Impulsar una constitución republicana y un referéndum sobre la forma de Estado ('romper el candado del Régimen del 78'); mientras, eliminar la inviolabilidad del Rey y someter a la Casa Real a transparencia; ley electoral proporcional; voto a los 16; supresión de aforamientos.",
+      "cita": "Impulsaremos la aprobación de una constitución republicana que incorpore los avances democráticos previstos en este capítulo.",
+      "pagina": 128,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Monarquía, sistema constitucional.",
+        "coste": "Ninguno directo.",
+        "viabilidad": "Cambiar la forma de Estado requiere reforma agravada (2/3 de ambas Cámaras, disolución y referéndum): inviable con el Parlamento actual.",
+        "a_favor": [
+          "La jefatura del Estado sería elegible; la inviolabilidad del Rey ha generado polémica por los casos de Juan Carlos I."
+        ],
+        "en_contra": [
+          "Abre un proceso constituyente sin consenso, rechazado por PP, PSOE y Vox."
+        ]
+      }
+    },
+    {
+      "id": "podemos-030",
+      "tema": "seguridad",
+      "subtema": "justicia",
+      "titulo": "Suprimir la Audiencia Nacional e instrucción por la Fiscalía",
+      "resumen": "Suprimir la Audiencia Nacional y repartir sus competencias; instrucción penal por los fiscales con juez de garantías; reforma del CGPJ y del TC para evitar bloqueos; recuperar la justicia universal; investigar el caso Pegasus y las 'cloacas del Estado'; nueva ley de secretos oficiales.",
+      "cita": "Proponemos la supresión de la Audiencia Nacional, creada en 1977 en el contexto de la Transición.",
+      "pagina": 131,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Poder judicial, lucha contra el terrorismo y la corrupción organizada.",
+        "coste": "Reorganización judicial.",
+        "viabilidad": "Ley orgánica.",
+        "a_favor": [
+          "Sus defensores la ven como heredera del Tribunal de Orden Público franquista."
+        ],
+        "en_contra": [
+          "La Audiencia Nacional concentra la experiencia contra terrorismo, narcotráfico y grandes casos de corrupción; dispersarla puede debilitar esa lucha."
+        ]
+      }
+    },
+    {
+      "id": "podemos-031",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Derogar la 'ley mordaza', prohibir pelotas de goma y despenalizar el cannabis",
+      "resumen": "Derogar la Ley de Seguridad Ciudadana y prohibir las pelotas de goma; prohibir la infiltración policial en movimientos sociales; identificación de agentes; legalizar el cannabis para uso medicinal y recreativo con clubs sociales.",
+      "cita": "Promover un proceso armonizado y garantista de la despenalización del cultivo y la tenencia de cannabis en los ámbitos personal y colectivo.",
+      "pagina": 133,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Manifestantes, policía, consumidores de cannabis.",
+        "coste": "El cannabis legal podría generar ingresos fiscales.",
+        "viabilidad": "La legalización recreativa choca con convenios internacionales (como en Alemania, que lo hizo parcialmente en 2024).",
+        "a_favor": [
+          "Reduce el mercado negro; Uruguay, Canadá o Alemania han legalizado."
+        ],
+        "en_contra": [
+          "Preocupación por efectos en la salud mental de jóvenes."
+        ]
+      }
+    },
+    {
+      "id": "podemos-032",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Denunciar el Concordato y recuperar los bienes inmatriculados por la Iglesia",
+      "resumen": "Denunciar el Concordato y los acuerdos de 1979 con la Santa Sede; Ley de Libertad de Conciencia; fin de los privilegios fiscales de la Iglesia (incluido el IBI); recuperar los bienes inmatriculados; ley de bebés robados; día festivo nacional de la República; memoria colonial y resignificación del 12 de octubre.",
+      "cita": "Denunciaremos el Concordato con la Santa Sede y los acuerdos de 1979 y aprobaremos una Ley de Libertad de Conciencia que garantice la plena laicidad y neutralidad religiosa del Estado.",
+      "pagina": 134,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Iglesia católica, entidades religiosas.",
+        "coste": "Ingresos fiscales.",
+        "viabilidad": "Denunciar un tratado internacional es posible pero conflictivo.",
+        "a_favor": [
+          "Estado plenamente laico."
+        ],
+        "en_contra": [
+          "Afecta a la labor social de entidades religiosas y a sentimientos de una parte amplia de la población."
+        ]
+      }
+    },
+    {
+      "id": "podemos-033",
+      "tema": "igualdad",
+      "subtema": "genero",
+      "titulo": "Blindar el aborto, anticoncepción gratuita y ley integral contra la trata",
+      "resumen": "Blindar el derecho al aborto; anticoncepción gratuita y reproducción asistida para todas; ley integral contra todas las formas de trata y regularización para víctimas; reconocer la violencia obstétrica; fondo de 1.000 M€ para violencia machista; protección de 'madres protectoras'.",
+      "cita": "Blindar el derecho al aborto. La interrupción voluntaria del embarazo es un derecho de las mujeres.",
+      "pagina": 51,
+      "concrecion": "media",
+      "cifra": "Fondo de 1.000 M€",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Mujeres, víctimas de violencia y trata.",
+        "coste": "1.000 M€ de fondo y prestaciones sanitarias.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Amplía derechos reproductivos y protección."
+        ],
+        "en_contra": [
+          "Quienes se oponen al aborto rechazan su blindaje."
+        ]
+      }
+    },
+    {
+      "id": "podemos-034",
+      "tema": "igualdad",
+      "subtema": "lgtbi",
+      "titulo": "Paquete integral de derechos LGTBIQA+",
+      "resumen": "Ampliar derechos LGTBIQA+, atención sanitaria trans despatologizada, igualdad de derechos de parejas de hecho y lucha contra la violencia digital LGTBIfóbica.",
+      "cita": "Paquete integral de avances en derechos LGTBIQA+ y protección.",
+      "pagina": 52,
+      "concrecion": "baja",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Personas LGTBIQA+.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Refuerza la protección frente a la discriminación."
+        ],
+        "en_contra": [
+          "Medida genérica sin detalle."
+        ]
+      }
+    },
+    {
+      "id": "podemos-035",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Duplicar el presupuesto de Cultura, museos gratis y fin de la tauromaquia",
+      "resumen": "Duplicar la partida de Cultura en una legislatura; museos públicos gratuitos; imprenta pública y plataforma pública de streaming musical; derogar la protección de la tauromaquia y eliminar ayudas a espectáculos con maltrato animal; red social pública bajo control democrático.",
+      "cita": "Derogaremos la Ley 18/2013 que declara la tauromaquia patrimonio cultural.",
+      "pagina": 124,
+      "concrecion": "alta",
+      "cifra": "x2 presupuesto de Cultura",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Sector cultural y taurino.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Acceso universal a la cultura."
+        ],
+        "en_contra": [
+          "Una red social pública plantea dudas sobre control estatal de la información."
+        ]
+      }
+    },
+    {
+      "id": "podemos-036",
+      "tema": "instituciones",
+      "subtema": "corrupcion",
+      "titulo": "Prohibir contratos públicos con empresas corruptas y financiación bancaria de campañas",
+      "resumen": "Prohibir la contratación pública con empresas condenadas por corrupción o con elusores fiscales; acabar con la financiación bancaria de campañas electorales y envío único de papeletas; dos debates electorales obligatorios en medios públicos.",
+      "cita": "Acabar con la financiación bancaria de las campañas electorales y establecer un envío único de papeletas.",
+      "pagina": 128,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Partidos, empresas contratistas.",
+        "coste": "Ahorro en envío electoral.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Reduce la dependencia de los partidos respecto a los bancos."
+        ],
+        "en_contra": [
+          "Los partidos necesitarían financiación alternativa (posiblemente pública)."
+        ]
+      }
+    },
+    {
+      "id": "podemos-037",
+      "tema": "medio-ambiente",
+      "subtema": "clima",
+      "titulo": "Ley de Adaptación Climática de ciudades y residuo cero",
+      "resumen": "Ley de adaptación climática urbana, más zonas verdes, calidad del aire, protección frente a olas de calor (prohibir trabajos al aire libre en alertas extremas), red de refugios climáticos, ley de residuo cero, depósito y devolución de envases.",
+      "cita": "Prohibir los trabajos al aire libre durante las alertas meteorológicas extremas.",
+      "pagina": 94,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Ciudades, trabajadores al aire libre, industria de envases.",
+        "coste": "Moderado.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Protege la salud ante olas de calor cada vez más frecuentes."
+        ],
+        "en_contra": [
+          "Costes para sectores como construcción o agricultura."
+        ]
+      }
+    },
+    {
+      "id": "podemos-b01",
+      "tema": "animales",
+      "subtema": "compania",
+      "titulo": "Aplicar la Ley de Bienestar Animal a todos, incluidos perros de caza",
+      "resumen": "Desarrollar íntegramente la Ley 7/2023 sin excepciones, más medios del SEPRONA contra el maltrato y tolerancia cero con el abandono.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Desarrollaremos íntegramente la Ley 7/2023 mediante las normas reglamentarias pendientes y avanzaremos en su adaptación al futuro marco europeo de protección de perros y gatos.",
+      "pagina": 121
+    },
+    {
+      "id": "podemos-b02",
+      "tema": "animales",
+      "subtema": "compania",
+      "titulo": "Reducir la compraventa de animales y priorizar la adopción",
+      "resumen": "Perseguir la cría ilegal y avanzar hacia menos venta de animales como bienes de consumo; IVA veterinario reducido.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Avanzando hacia un modelo que reduzca progresivamente su compraventa como bienes de consumo y priorice la adopción y la acogida responsable.",
+      "pagina": 121
+    },
+    {
+      "id": "podemos-b03",
+      "tema": "animales",
+      "subtema": "compania",
+      "titulo": "Nadie tendrá que separarse de su animal para alquilar o recibir ayuda",
+      "resumen": "Prohibir cláusulas genéricas contra mascotas en el alquiler y que albergues y recursos sociales admitan animales.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Ninguna persona debe verse obligada a separarse de su animal para acceder a una vivienda o a una protección social.",
+      "pagina": 122
+    },
+    {
+      "id": "podemos-b04",
+      "tema": "animales",
+      "subtema": "granja",
+      "titulo": "Hoja de ruta para eliminar las jaulas y la exportación de animales vivos",
+      "resumen": "Fin progresivo de jaulas con fondo de transición, sin fondos públicos a nuevas macrogranjas, más control del transporte y fin progresivo de la exportación en vivo; estrategia de alimentación vegetal.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Estableceremos una hoja de ruta para eliminar progresivamente las jaulas en las explotaciones ganaderas, acompañada de un fondo público de transición.",
+      "pagina": 122
+    },
+    {
+      "id": "podemos-b05",
+      "tema": "animales",
+      "subtema": "silvestres",
+      "titulo": "Prohibir circos con animales y espectáculos con fauna",
+      "resumen": "Prohibir circos y espectáculos itinerantes con animales (silvestres y domésticos) y actividades de interacción con fauna; alternativas a la experimentación animal.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Prohibiremos los circos y espectáculos itinerantes que utilicen animales, tanto silvestres como domésticos.",
+      "pagina": 124
+    },
+    {
+      "id": "podemos-b06",
+      "tema": "animales",
+      "subtema": "tauromaquia",
+      "titulo": "Acabar con la tauromaquia y fiestas con maltrato",
+      "resumen": "Derogar la protección de los toros, eliminar ayudas y que cada territorio pueda decidir por consulta sobre su celebración.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Acabar con la tauromaquia y las fiestas basadas en el maltrato animal.",
+      "pagina": 124
+    },
+    {
+      "id": "podemos-b07",
+      "tema": "digital",
+      "subtema": "medios",
+      "titulo": "Ley de información veraz y red social pública",
+      "resumen": "Ley orgánica contra la desinformación y por la pluralidad de los medios; crear una red social pública 'bajo control democrático'.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Aprobaremos una ley orgánica para garantizar el derecho a la información veraz, combatir la desinformación y los bulos y asegurar el pluralismo.",
+      "pagina": 138
+    },
+    {
+      "id": "podemos-b08",
+      "tema": "digital",
+      "subtema": "ciencia",
+      "titulo": "Ciencia pública al 2% del PIB",
+      "resumen": "Subir la inversión pública en ciencia e innovación hasta el 2% del PIB, priorizando ayudas directas frente a créditos.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Incrementaremos la inversión pública en ciencia e innovación hasta alcanzar el 2 % del PIB.",
+      "pagina": 87
+    },
+    {
+      "id": "podemos-b09",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Museos públicos gratis, imprenta pública y streaming musical público",
+      "resumen": "Gratuidad de museos y centros de ciencia, imprenta pública para editoriales independientes y plataforma pública alternativa a Spotify.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Creación de una plataforma pública de streaming para grupos y artistas musicales del Estado español alternativa a las existentes en la industria musical (Spotify).",
+      "pagina": 77
+    },
+    {
+      "id": "podemos-b10",
+      "tema": "cultura",
+      "subtema": "deporte",
+      "titulo": "Duplicar el presupuesto del deporte femenino",
+      "resumen": "Deporte como derecho universal y duplicar en la legislatura los fondos para deporte femenino.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Duplicaremos durante la próxima legislatura los presupuestos destinados al deporte femenino.",
+      "pagina": 87
+    },
+    {
+      "id": "podemos-b11",
+      "tema": "social",
+      "subtema": "discapacidad",
+      "titulo": "Fondo de Accesibilidad con el 1% de la inversión pública",
+      "resumen": "Fondo estatal para accesibilidad universal dotado con el 1% de la inversión en obras e infraestructuras; participación política de personas con discapacidad.",
+      "concrecion": "alta",
+      "breve": true,
+      "cita": "Convertir en un Fondo Estatal para la Accesibilidad Universal el programa estatal que creó la Ley 4/2026, con una dotación por ley del 1% de la inversión anual.",
+      "pagina": 59
+    },
+    {
+      "id": "podemos-b12",
+      "tema": "territorio",
+      "subtema": "islas",
+      "titulo": "Fiscalidad más justa para Canarias",
+      "resumen": "Revisar el Régimen Económico y Fiscal canario, que según Podemos favorece a grandes empresas frente a autónomos y pymes.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Como región ultraperiférica de la Unión Europea, Canarias cuenta en la actualidad con un Régimen Económico y Fiscal (REF) que consagra una enorme desigualdad.",
+      "pagina": 23
+    }
+  ],
+  "orden": 5
+}

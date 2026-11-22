@@ -1,0 +1,122 @@
+{
+  "id": "alfa",
+  "nombre": "Partido Alfa (DEMO)",
+  "siglas": "ALFA",
+  "color": "#d1495b",
+  "fuente": "demo-alfa.pdf",
+  "resumen": "Partido ficticio de ejemplo. Apuesta por más intervención pública: más gasto social, regulación del alquiler y subida de impuestos a rentas altas.",
+  "ideas_fuerza": ["Vivienda pública masiva", "Sanidad 100% pública", "Fiscalidad progresiva"],
+  "propuestas": [
+    {
+      "id": "alfa-001",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Tope al precio del alquiler en zonas tensionadas",
+      "resumen": "Limitar por ley la renta de los nuevos contratos de alquiler en las zonas declaradas tensionadas, usando un índice público de referencia.",
+      "cita": "Aplicaremos un índice de referencia vinculante que impida subidas abusivas del alquiler en las zonas de mercado tensionado.",
+      "pagina": 14,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Inquilinos (beneficio directo a corto plazo) y propietarios que alquilan (menos ingresos potenciales).",
+        "coste": "Coste presupuestario bajo; el coste recae sobre los propietarios vía rentas menores.",
+        "viabilidad": "Requiere declarar zonas tensionadas y depende del marco legal estatal de vivienda.",
+        "a_favor": ["Frena subidas rápidas y da previsibilidad a los inquilinos.", "Experiencias europeas muestran contención de precios en el corto plazo."],
+        "en_contra": ["Puede reducir la oferta si los propietarios retiran viviendas o pasan a alquiler de temporada.", "La evidencia sobre su efecto a largo plazo es mixta."]
+      }
+    },
+    {
+      "id": "alfa-002",
+      "tema": "vivienda",
+      "subtema": "vivienda-publica",
+      "titulo": "20.000 viviendas públicas de alquiler en 4 años",
+      "resumen": "Construir y adquirir 20.000 viviendas públicas destinadas a alquiler asequible durante la legislatura.",
+      "cita": "Pondremos en marcha 20.000 nuevas viviendas públicas en alquiler asequible en esta legislatura.",
+      "pagina": 15,
+      "concrecion": "alta",
+      "cifra": "20.000 viviendas en 4 años",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Personas con rentas bajas y medias, jóvenes que buscan emancipación.",
+        "coste": "Elevado: del orden de miles de millones si se construye en su totalidad; el programa no detalla financiación.",
+        "viabilidad": "Plazo ambicioso: la promoción de vivienda suele tardar 3-5 años desde la planificación del suelo.",
+        "a_favor": ["Aumenta la oferta asequible de forma estable.", "El parque público es muy pequeño en comparación con la media europea."],
+        "en_contra": ["Sin fuente de financiación explícita.", "Riesgo de no cumplir plazos por falta de suelo y licencias."]
+      }
+    },
+    {
+      "id": "alfa-003",
+      "tema": "sanidad",
+      "subtema": "listas-espera",
+      "titulo": "Máximo legal de 60 días para operaciones",
+      "resumen": "Fijar por ley un tiempo máximo de espera de 60 días para intervenciones quirúrgicas no urgentes.",
+      "cita": "Ninguna operación programada superará los 60 días de espera.",
+      "pagina": 22,
+      "concrecion": "alta",
+      "cifra": "60 días máximo",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Pacientes en lista de espera quirúrgica.",
+        "coste": "Requiere más personal y quirófanos; no cuantificado.",
+        "viabilidad": "Cumplirlo depende de contratar profesionales, que hoy escasean.",
+        "a_favor": ["Garantía exigible por el paciente.", "Compromiso medible y fácil de evaluar."],
+        "en_contra": ["Sin más recursos, la garantía puede quedarse en papel.", "Puede desplazar recursos de otras áreas."]
+      }
+    },
+    {
+      "id": "alfa-004",
+      "tema": "sanidad",
+      "subtema": "gestion",
+      "titulo": "Revertir conciertos con la sanidad privada",
+      "resumen": "Recuperar progresivamente para la gestión pública los servicios sanitarios hoy concertados con empresas privadas.",
+      "cita": "Revertiremos los conciertos sanitarios a medida que venzan.",
+      "pagina": 23,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Centros concertados, sus trabajadores y los pacientes que atienden.",
+        "coste": "A corto plazo puede encarecer (inversión en instalaciones propias).",
+        "viabilidad": "Factible al vencer cada contrato, pero exige capacidad pública para absorber la actividad.",
+        "a_favor": ["Mayor control público de la calidad y el gasto."],
+        "en_contra": ["Riesgo de aumentar listas de espera durante la transición."]
+      }
+    },
+    {
+      "id": "alfa-005",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Subir el IRPF a rentas de más de 100.000 €",
+      "resumen": "Aumentar dos puntos el tipo autonómico del IRPF para rentas superiores a 100.000 euros anuales.",
+      "cita": "Quien más tiene, más aporta: subiremos dos puntos el tramo autonómico a partir de 100.000 euros.",
+      "pagina": 8,
+      "concrecion": "alta",
+      "cifra": "+2 puntos desde 100.000 €",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Una minoría de contribuyentes con rentas altas (aprox. 1-2%).",
+        "coste": "Genera ingresos; recaudación estimada moderada.",
+        "viabilidad": "Competencia autonómica sobre el tramo propio: viable.",
+        "a_favor": ["Aumenta la progresividad del sistema.", "Financia servicios públicos."],
+        "en_contra": ["Posible deslocalización fiscal de contribuyentes con alta movilidad.", "Recaudación limitada por el número reducido de afectados."]
+      }
+    },
+    {
+      "id": "alfa-006",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Empresa pública de energía renovable",
+      "resumen": "Crear una empresa pública que produzca y comercialice electricidad renovable.",
+      "cita": "Impulsaremos una energética pública que garantice precios justos.",
+      "pagina": 31,
+      "concrecion": "baja",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Consumidores eléctricos y sector energético.",
+        "coste": "Inversión inicial no cuantificada.",
+        "viabilidad": "Poco concretada: no detalla tamaño, plazos ni modelo de negocio.",
+        "a_favor": ["Podría introducir competencia en precios."],
+        "en_contra": ["Propuesta genérica, difícil de evaluar.", "Riesgo de pérdidas si no compite en un mercado regulado."]
+      }
+    }
+  ]
+}

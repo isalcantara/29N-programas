@@ -1,0 +1,124 @@
+{
+  "id": "beta",
+  "nombre": "Partido Beta (DEMO)",
+  "siglas": "BETA",
+  "color": "#2e86ab",
+  "fuente": "demo-beta.pdf",
+  "resumen": "Partido ficticio de ejemplo. Apuesta por bajar impuestos, colaboración público-privada y liberalizar suelo para construir más.",
+  "ideas_fuerza": ["Bajada de impuestos", "Más suelo para construir", "Libertad de elección"],
+  "propuestas": [
+    {
+      "id": "beta-001",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Liberalizar suelo y agilizar licencias",
+      "resumen": "Reclasificar suelo urbanizable y reducir a 3 meses la concesión de licencias de obra.",
+      "cita": "Ninguna licencia de obra tardará más de tres meses.",
+      "pagina": 19,
+      "concrecion": "alta",
+      "cifra": "Licencias en máx. 3 meses",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Promotores, ayuntamientos y, de forma indirecta, compradores e inquilinos.",
+        "coste": "Bajo coste directo; requiere refuerzo de personal técnico municipal.",
+        "viabilidad": "Las licencias son competencia municipal: necesita acuerdo con ayuntamientos.",
+        "a_favor": ["Más oferta puede moderar precios a medio plazo.", "Reduce costes y retrasos de construir."],
+        "en_contra": ["Riesgo de expansión urbana dispersa y coste ambiental.", "Efecto en precios lento y no garantizado."]
+      }
+    },
+    {
+      "id": "beta-002",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Bonificación fiscal a propietarios que alquilen barato",
+      "resumen": "Deducciones en el IRPF para propietarios que alquilen por debajo del precio de referencia y seguro público contra impagos.",
+      "cita": "Premiaremos fiscalmente a quien alquile por debajo del precio de mercado y garantizaremos el cobro con un seguro de impago.",
+      "pagina": 20,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Propietarios que alquilan e inquilinos de esas viviendas.",
+        "coste": "Menor recaudación por las deducciones más el coste del seguro.",
+        "viabilidad": "Viable dentro de las competencias fiscales autonómicas.",
+        "a_favor": ["Incentivo voluntario, sin imponer límites.", "Puede sacar viviendas vacías al mercado."],
+        "en_contra": ["Beneficia también a quien ya alquilaba barato (coste sin efecto nuevo).", "Impacto incierto en el precio general."]
+      }
+    },
+    {
+      "id": "beta-003",
+      "tema": "sanidad",
+      "subtema": "listas-espera",
+      "titulo": "Plan de choque con la sanidad privada",
+      "resumen": "Derivar a centros privados concertados a los pacientes que superen 90 días de espera.",
+      "cita": "Si la pública no puede atenderte en 90 días, te atenderá un centro concertado sin coste.",
+      "pagina": 27,
+      "concrecion": "alta",
+      "cifra": "Derivación a partir de 90 días",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Pacientes en lista de espera y centros privados.",
+        "coste": "Pago por actividad a centros privados; no cuantificado.",
+        "viabilidad": "Rápido de aplicar si hay capacidad privada disponible.",
+        "a_favor": ["Reduce esperas de forma rápida.", "Aprovecha capacidad ya existente."],
+        "en_contra": ["Puede trasvasar recursos de la pública a la privada a largo plazo.", "No resuelve la falta de personal estructural."]
+      }
+    },
+    {
+      "id": "beta-004",
+      "tema": "fiscalidad",
+      "subtema": "patrimonio",
+      "titulo": "Bonificar al 100% el impuesto de sucesiones",
+      "resumen": "Eliminar en la práctica el impuesto de sucesiones y donaciones entre familiares directos.",
+      "cita": "Heredar no puede ser un castigo: bonificaremos al 100% sucesiones y donaciones entre padres, hijos y cónyuges.",
+      "pagina": 10,
+      "concrecion": "alta",
+      "cifra": "Bonificación del 100%",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Herederos; el beneficio es mayor cuanto mayor es la herencia.",
+        "coste": "Pérdida de recaudación autonómica relevante.",
+        "viabilidad": "Competencia autonómica: viable.",
+        "a_favor": ["Evita renuncias a herencias por no poder pagar el impuesto.", "Reduce la competencia fiscal con otras regiones."],
+        "en_contra": ["Beneficia sobre todo a grandes patrimonios (las herencias pequeñas ya suelen estar exentas).", "Menos ingresos para servicios públicos."]
+      }
+    },
+    {
+      "id": "beta-005",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Bajar un punto el IRPF en todos los tramos",
+      "resumen": "Reducir un punto el tipo autonómico del IRPF en todos los tramos de renta.",
+      "cita": "Bajaremos un punto el IRPF a todos los contribuyentes.",
+      "pagina": 9,
+      "concrecion": "alta",
+      "cifra": "-1 punto en todos los tramos",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Todos los contribuyentes; ahorro absoluto mayor en rentas altas.",
+        "coste": "Pérdida de recaudación significativa.",
+        "viabilidad": "Competencia autonómica: viable.",
+        "a_favor": ["Más renta disponible para hogares.", "Puede estimular consumo e inversión."],
+        "en_contra": ["Reduce ingresos públicos si no se compensa.", "Quien no tributa (rentas muy bajas) no se beneficia."]
+      }
+    },
+    {
+      "id": "beta-006",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Cuota cero para nuevos autónomos durante 2 años",
+      "resumen": "La comunidad pagará la cuota de la Seguridad Social a los nuevos autónomos durante sus dos primeros años.",
+      "cita": "Los dos primeros años de cualquier autónomo tendrán cuota cero.",
+      "pagina": 5,
+      "concrecion": "alta",
+      "cifra": "24 meses de cuota cero",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Personas que se dan de alta como autónomas.",
+        "coste": "Coste proporcional al número de altas; no estimado.",
+        "viabilidad": "Viable como ayuda autonómica (otras regiones ya lo aplican).",
+        "a_favor": ["Reduce la barrera de entrada al emprendimiento."],
+        "en_contra": ["Riesgo de 'falsos autónomos' y de altas solo para cobrar la ayuda."]
+      }
+    }
+  ]
+}

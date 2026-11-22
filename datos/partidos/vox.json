@@ -1,0 +1,1205 @@
+{
+  "id": "vox",
+  "nombre": "VOX",
+  "siglas": "VOX",
+  "color": "#5fa36a",
+  "fuente": "vox.pdf",
+  "resumen": "Programa breve (115 medidas) centrado en inmigración y 'prioridad nacional' para los españoles, bajada generalizada de impuestos, desregulación, rechazo al Pacto Verde europeo y endurecimiento penal. Pocas cifras concretas.",
+  "ideas_fuerza": [
+    "Freno total a la inmigración y 'remigración'",
+    "Prioridad nacional en vivienda, ayudas y servicios",
+    "Rebaja masiva de impuestos y recorte del gasto 'superfluo'",
+    "Derogar leyes de vivienda, laboral, género, memoria y LOMLOE",
+    "Nucleares, fin del Pacto Verde y defensa del campo frente a Bruselas"
+  ],
+  "propuestas": [
+    {
+      "id": "vox-001",
+      "tema": "migracion",
+      "subtema": "regularizacion",
+      "titulo": "Prohibir las regularizaciones y suprimir el arraigo",
+      "resumen": "Nadie que entre de forma irregular podrá regularizarse nunca. Se elimina la figura del arraigo (la vía actual para regularizar tras años en España) y las 'pasarelas rápidas' a la nacionalidad.",
+      "cita": "Prohibición de las regularizaciones masivas. Quien entra de forma ilegal jamás podrá regularizar su situación.",
+      "pagina": 15,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Cientos de miles de inmigrantes en situación irregular que hoy podrían regularizarse por arraigo; empleadores de sectores como agricultura, hostelería o cuidados.",
+        "coste": "Sin coste directo; posible pérdida de cotizaciones de personas que no podrían trabajar legalmente.",
+        "viabilidad": "Competencia estatal (Ley de Extranjería). Viable con mayoría parlamentaria.",
+        "a_favor": [
+          "Elimina el incentivo a entrar irregularmente esperando regularizarse después.",
+          "Refuerza el control del Estado sobre quién reside legalmente."
+        ],
+        "en_contra": [
+          "Las personas no desaparecen: quedarían en la economía sumergida, sin cotizar ni derechos.",
+          "Organizaciones empresariales y la Iglesia han defendido vías de regularización por falta de mano de obra."
+        ]
+      }
+    },
+    {
+      "id": "vox-002",
+      "tema": "migracion",
+      "subtema": "fronteras",
+      "titulo": "Repatriación de irregulares y plan de 'remigración'",
+      "resumen": "Repatriar a quienes estén en situación irregular y un plan para facilitar el retorno a sus países de los extranjeros que 'no contribuyan o vivan de subsidios'. Deportación de quienes cometan delitos graves o reiterados.",
+      "cita": "Remigración. Plan para facilitar el retorno a sus países de los extranjeros que no contribuyan o vivan de subsidios públicos que no alcanzan a los españoles.",
+      "pagina": 15,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Inmigrantes irregulares y también extranjeros legales que reciban prestaciones.",
+        "coste": "Las expulsiones son caras (detención, vuelos) y requieren acuerdos con los países de origen; no cuantificado.",
+        "viabilidad": "Las devoluciones dependen de que el país de origen acepte; hoy se ejecuta una minoría de las órdenes de expulsión. Expulsar a residentes legales por cobrar ayudas chocaría con la ley y la normativa europea.",
+        "a_favor": [
+          "Responde a la preocupación por la inmigración irregular y la delincuencia.",
+          "Aplica de forma estricta órdenes de expulsión que hoy no se ejecutan."
+        ],
+        "en_contra": [
+          "'Remigración' es un concepto asociado a la extrema derecha europea y criticado como discriminatorio.",
+          "Escasa capacidad real de ejecución y posibles conflictos con derechos fundamentales."
+        ]
+      }
+    },
+    {
+      "id": "vox-003",
+      "tema": "migracion",
+      "subtema": "fronteras",
+      "titulo": "Devolver a los menores no acompañados con sus familias",
+      "resumen": "Devolver a los menores extranjeros no acompañados a sus padres o a instituciones de tutela de su país y perseguir a ONG que 'colaboren' con su llegada.",
+      "cita": "Devolución de menores extranjeros no acompañados a sus padres o a las instituciones de tutela de sus países de origen, atendiendo al interés superior del menor.",
+      "pagina": 15,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Menores migrantes tutelados por las comunidades autónomas (varios miles, sobre todo en Canarias, Ceuta y Melilla).",
+        "coste": "Reduciría el gasto autonómico en centros de menores; coste de los procesos de retorno no cuantificado.",
+        "viabilidad": "La ley española y la Convención de Derechos del Niño exigen valorar caso a caso el interés del menor; los tribunales han anulado devoluciones colectivas.",
+        "a_favor": [
+          "Alivia la saturación de los centros de acogida.",
+          "La reagrupación con la familia puede ser lo mejor para algunos menores."
+        ],
+        "en_contra": [
+          "Riesgo de devolver a menores a situaciones de desprotección.",
+          "Choca con compromisos internacionales y sentencias previas."
+        ]
+      }
+    },
+    {
+      "id": "vox-004",
+      "tema": "migracion",
+      "subtema": "fronteras",
+      "titulo": "Quitar fondos a ONG y cooperación a países que no colaboren",
+      "resumen": "Eliminar subvenciones a ONG que 'faciliten' la inmigración ilegal y cortar la ayuda al desarrollo a países que no colaboren en controlar los flujos migratorios.",
+      "cita": "Ni un euro a ONGs que colaboren con el efecto llamada.",
+      "pagina": 16,
+      "concrecion": "media",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "ONG de acogida y rescate; países de origen y tránsito.",
+        "coste": "Ahorro presupuestario.",
+        "viabilidad": "Competencia estatal. Definir qué ONG 'colaboran' sería jurídicamente discutido.",
+        "a_favor": [
+          "Usa la ayuda exterior como palanca para que los países acepten devoluciones (lo que también plantea la UE)."
+        ],
+        "en_contra": [
+          "Muchas ONG prestan servicios de acogida encargados por el propio Estado.",
+          "Recortar cooperación puede agravar las causas de la emigración."
+        ]
+      }
+    },
+    {
+      "id": "vox-005",
+      "tema": "migracion",
+      "subtema": "integracion",
+      "titulo": "Prioridad nacional: los españoles primero en ayudas y servicios",
+      "resumen": "Acceso preferente de los españoles a vivienda pública, guarderías, becas comedor y transporte, ayudas y servicios sociales. El Ingreso Mínimo Vital solo para españoles.",
+      "cita": "En España, los españoles primero. Acceso preferente de los españoles a vivienda pública, plazas de guardería, bonos de comedor o transporte, ayudas, prestaciones y servicios sociales.",
+      "pagina": 19,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Extranjeros residentes legales (incluidos los que trabajan y cotizan) y españoles que compiten por estas plazas.",
+        "coste": "Sin coste directo; redistribuye el acceso.",
+        "viabilidad": "Muy dudosa: discriminar por nacionalidad a residentes legales choca con la Constitución, la normativa europea (los ciudadanos de la UE no pueden ser discriminados) y la jurisprudencia del TC.",
+        "a_favor": [
+          "Sus defensores lo ven como justo con quienes llevan más tiempo contribuyendo.",
+          "Puede reducir listas de espera para españoles."
+        ],
+        "en_contra": [
+          "Probable inconstitucionalidad.",
+          "Trata distinto a personas que pagan los mismos impuestos; riesgo de exclusión y segregación."
+        ]
+      }
+    },
+    {
+      "id": "vox-006",
+      "tema": "migracion",
+      "subtema": "integracion",
+      "titulo": "Sanidad pública solo urgencias para irregulares e impuesto a las remesas",
+      "resumen": "Excluir de la sanidad a los extranjeros en situación irregular salvo urgencia grave y gravar el dinero que los inmigrantes envían a sus países.",
+      "cita": "Gravamen sobre las remesas al extranjero.",
+      "pagina": 19,
+      "concrecion": "media",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Inmigrantes irregulares (sanidad) y todos los inmigrantes que envían dinero a sus familias (remesas).",
+        "coste": "Ahorro sanitario e ingresos por el impuesto, no cuantificados.",
+        "viabilidad": "La exclusión sanitaria ya se aplicó en 2012 y se revirtió en 2018. Un impuesto solo a remesas podría chocar con la libre circulación de capitales en la UE.",
+        "a_favor": [
+          "Reduce el gasto sanitario.",
+          "Retiene dinero en la economía española."
+        ],
+        "en_contra": [
+          "Expertos en salud pública alertan de que excluir de primaria acaba saturando urgencias y es un riesgo epidemiológico.",
+          "Las remesas se enviarían por canales informales."
+        ]
+      }
+    },
+    {
+      "id": "vox-007",
+      "tema": "migracion",
+      "subtema": "regularizacion",
+      "titulo": "Endurecer el acceso a la nacionalidad y retirarla por delitos",
+      "resumen": "Más requisitos para obtener la nacionalidad, revisar concesiones 'fraudulentas' y ampliar los casos de pérdida para españoles no de origen que cometan delitos graves.",
+      "cita": "Aumento de los supuestos de pérdida de nacionalidad española para los españoles no de origen en casos de delitos graves o reiterados.",
+      "pagina": 15,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Extranjeros que aspiran a la nacionalidad y españoles nacionalizados.",
+        "coste": "Ninguno relevante.",
+        "viabilidad": "La Constitución (art. 11) dice que ningún español de origen puede ser privado de la nacionalidad; para no de origen hay margen legal, pero crearía dos clases de ciudadanos.",
+        "a_favor": [
+          "Refuerza el valor de la nacionalidad.",
+          "Medidas similares existen en Francia o Dinamarca."
+        ],
+        "en_contra": [
+          "Ciudadanos con los mismos derechos tratados de forma desigual según su origen."
+        ]
+      }
+    },
+    {
+      "id": "vox-008",
+      "tema": "fiscalidad",
+      "subtema": "irpf",
+      "titulo": "Bajar el IRPF, más rebaja cuantos más hijos",
+      "resumen": "Simplificar y bajar el IRPF, con tipos más bajos según el número de hijos. Revisión y reducción 'sistemática' de todos los impuestos y tasas.",
+      "cita": "Simplificación y bajada del IRPF. Reducción del tipo aplicable del IRPF para cada contribuyente o familia en función del número de hijos.",
+      "pagina": 9,
+      "concrecion": "baja",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Contribuyentes de IRPF, especialmente familias con hijos.",
+        "coste": "Pérdida de recaudación no cuantificada. Se compensaría recortando 'gasto superfluo e ideológico', sin detallar cuánto.",
+        "viabilidad": "Competencia estatal (parte estatal del IRPF). Falta concretar tipos.",
+        "a_favor": [
+          "Más renta disponible para las familias.",
+          "Incentivo fiscal a la natalidad."
+        ],
+        "en_contra": [
+          "No dice cuánto baja ni cómo se financia.",
+          "Quien no paga IRPF (rentas bajas) no se beneficia."
+        ]
+      }
+    },
+    {
+      "id": "vox-009",
+      "tema": "fiscalidad",
+      "subtema": "iva",
+      "titulo": "Bajar el IVA general y reducido, sobre todo en productos básicos",
+      "resumen": "Rebaja del tipo general y del reducido del IVA, priorizando productos de primera necesidad.",
+      "cita": "Rebaja del tipo reducido y del tipo general del IVA atendiendo prioritariamente a productos esenciales y de primera necesidad.",
+      "pagina": 9,
+      "concrecion": "baja",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Todos los consumidores.",
+        "coste": "El IVA es uno de los mayores impuestos del Estado: cada punto del tipo general supone varios miles de millones. No cuantificado.",
+        "viabilidad": "Posible dentro de los márgenes de la directiva europea del IVA.",
+        "a_favor": [
+          "Abarata la cesta de la compra para todos."
+        ],
+        "en_contra": [
+          "Parte de la rebaja puede quedarse en márgenes empresariales en vez de bajar precios.",
+          "Gran pérdida de ingresos sin financiación explicada."
+        ]
+      }
+    },
+    {
+      "id": "vox-010",
+      "tema": "fiscalidad",
+      "subtema": "empresas-fiscal",
+      "titulo": "Bajar el Impuesto de Sociedades",
+      "resumen": "Reducir el tipo del Impuesto de Sociedades para dinamizar la economía y el empleo.",
+      "cita": "Reducir el tipo del Impuesto de Sociedades con el fin de promover la dinamización de nuestra economía.",
+      "pagina": 9,
+      "concrecion": "baja",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Empresas y sus accionistas.",
+        "coste": "Menor recaudación, no cuantificada.",
+        "viabilidad": "Competencia estatal; la UE y la OCDE fijan un mínimo del 15% para grandes multinacionales.",
+        "a_favor": [
+          "Puede atraer inversión y favorecer la competitividad."
+        ],
+        "en_contra": [
+          "El tipo efectivo que pagan las grandes empresas ya es inferior al nominal."
+        ]
+      }
+    },
+    {
+      "id": "vox-011",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Cuota de autónomos cero si se gana menos del SMI",
+      "resumen": "Los autónomos que ingresen menos del Salario Mínimo no pagarán cuota; por encima, cuota progresiva desde 50 euros.",
+      "cita": "Cuota de cero euros si los ingresos no llegan al Salario Mínimo Interprofesional y, superado dicho umbral, una cuota progresiva desde los 50 euros en función de sus ingresos.",
+      "pagina": 9,
+      "concrecion": "alta",
+      "cifra": "Cuota 0 € por debajo del SMI; desde 50 € por encima",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Autónomos con ingresos bajos (una parte importante del colectivo).",
+        "coste": "Menos ingresos para la Seguridad Social; no cuantificado.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Alivia a los autónomos que apenas ganan dinero.",
+          "Medida concreta y fácil de evaluar."
+        ],
+        "en_contra": [
+          "Sin cotizar, esos autónomos generan pensiones muy bajas en el futuro.",
+          "Riesgo de infradeclarar ingresos para no pagar."
+        ]
+      }
+    },
+    {
+      "id": "vox-012",
+      "tema": "fiscalidad",
+      "subtema": "gasto",
+      "titulo": "Recorte del tamaño de la Administración y fin de subvenciones a partidos, sindicatos y ONG",
+      "resumen": "Auditar y recortar el gasto 'superfluo' de las administraciones al mínimo, y eliminar progresivamente las subvenciones a partidos, sindicatos, patronales, ONG y 'organismos ideológicos'.",
+      "cita": "Reducir progresivamente hasta su eliminación total las subvenciones a partidos, sindicatos, patronales, ONGs, observatorios y otros organismos ideológicos.",
+      "pagina": 29,
+      "concrecion": "media",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Empleados públicos, entidades del tercer sector, sindicatos y partidos.",
+        "coste": "Ahorro, pero no se cuantifica ni se identifican partidas; es la vía con la que el programa dice financiar la bajada de impuestos.",
+        "viabilidad": "Las subvenciones son reducibles por ley; reducir el gasto en la cuantía necesaria para compensar las rebajas fiscales es incierto.",
+        "a_favor": [
+          "Busca un Estado más austero.",
+          "Reduce la dependencia de partidos y sindicatos del dinero público."
+        ],
+        "en_contra": [
+          "Muchas ONG prestan servicios sociales por encargo público.",
+          "El ahorro realista suele ser mucho menor que el coste de las rebajas fiscales prometidas."
+        ]
+      }
+    },
+    {
+      "id": "vox-013",
+      "tema": "trabajo",
+      "subtema": "contratos",
+      "titulo": "Derogar la reforma laboral actual",
+      "resumen": "Derogar la legislación laboral del Gobierno de Sánchez, que según VOX agrava la precariedad y 'maquilla' la temporalidad (fijos discontinuos).",
+      "cita": "Derogar la legislación laboral de Sánchez que ha agravado la precariedad, desincentivado la contratación y empeorado una situación ya de por sí insostenible.",
+      "pagina": 13,
+      "concrecion": "baja",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Todos los trabajadores asalariados y empresas.",
+        "coste": "Sin coste directo.",
+        "viabilidad": "Competencia estatal. No explica qué la sustituiría.",
+        "a_favor": [
+          "Critica que los fijos discontinuos ocultan paro real."
+        ],
+        "en_contra": [
+          "La reforma de 2021 redujo la temporalidad de forma notable según los datos oficiales.",
+          "No se dice qué modelo laboral la sustituye."
+        ]
+      }
+    },
+    {
+      "id": "vox-014",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Mantener las nucleares y construir nuevas",
+      "resumen": "Derogar el calendario de cierre de las centrales nucleares y estudiar construir nuevas centrales junto a las actuales.",
+      "cita": "Se garantizará la supervivencia de las centrales nucleares actuales, derogando el calendario de cierre. Se promoverán estudios urgentes para instalar centrales nucleares en los emplazamientos disponibles adyacentes a las actuales.",
+      "pagina": 12,
+      "concrecion": "alta",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Sector eléctrico, consumidores y municipios con centrales.",
+        "coste": "Prolongar centrales existentes es relativamente barato; construir nuevas cuesta miles de millones y tarda más de 10 años.",
+        "viabilidad": "La prórroga depende también de las empresas propietarias y del Consejo de Seguridad Nuclear.",
+        "a_favor": [
+          "Energía estable y sin emisiones de CO2.",
+          "Reduce el riesgo de apagones al aportar firmeza a la red."
+        ],
+        "en_contra": [
+          "Residuos radiactivos sin solución definitiva.",
+          "Las nuevas nucleares europeas han sufrido grandes sobrecostes y retrasos."
+        ]
+      }
+    },
+    {
+      "id": "vox-015",
+      "tema": "medio-ambiente",
+      "subtema": "clima",
+      "titulo": "Revertir el Pacto Verde: fin de la prohibición del motor de combustión, del impuesto al CO2 y de las ZBE",
+      "resumen": "Revertir normativas climáticas inspiradas en el Pacto Verde Europeo y la Agenda 2030: prohibición de coches de combustión, impuestos al CO2, zonas de bajas emisiones. Suspender acuerdos internacionales que 'impidan el desarrollo'.",
+      "cita": "Revertir las normativas que atacan frontalmente a la industria nacional (prohibición de motores de combustión, impuestos a las emisiones de CO2) inspiradas en el Pacto Verde Europeo, la Agenda 2030.",
+      "pagina": 11,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Industria, conductores, ciudades con ZBE, y compromisos climáticos de España.",
+        "coste": "Podría implicar sanciones europeas y pérdida de fondos ligados a objetivos climáticos.",
+        "viabilidad": "Gran parte de estas normas son europeas: España no puede derogarlas por su cuenta sin incumplir el Derecho de la UE.",
+        "a_favor": [
+          "Reduce costes para industria, transportistas y conductores.",
+          "Responde al malestar de quienes no pueden permitirse un coche nuevo."
+        ],
+        "en_contra": [
+          "España es uno de los países europeos más expuestos al cambio climático (sequías, olas de calor).",
+          "Incumplir normas europeas tiene consecuencias legales y económicas."
+        ]
+      }
+    },
+    {
+      "id": "vox-016",
+      "tema": "medio-ambiente",
+      "subtema": "energia",
+      "titulo": "Bajada masiva de impuestos a la electricidad",
+      "resumen": "Reducir los impuestos sobre la factura eléctrica para familias, empresas e industria, acabar con la 'doble imposición' y eliminar el tope a la inversión en redes eléctricas.",
+      "cita": "Bajada masiva de los impuestos de la energía eléctrica a familias, empresas e industrias españolas. Fin de la doble imposición.",
+      "pagina": 11,
+      "concrecion": "baja",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Todos los consumidores de electricidad.",
+        "coste": "Menos recaudación; no cuantificada.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Abarata la factura y mejora la competitividad industrial.",
+          "Más inversión en redes facilita conectar nuevas viviendas e industrias."
+        ],
+        "en_contra": [
+          "Sin cifras ni financiación.",
+          "Bajar impuestos a la energía reduce el incentivo al ahorro."
+        ]
+      }
+    },
+    {
+      "id": "vox-017",
+      "tema": "vivienda",
+      "subtema": "alquiler",
+      "titulo": "Derogar la Ley de Vivienda e incentivos fiscales al alquiler",
+      "resumen": "Derogar la Ley de Vivienda (que permite topar precios en zonas tensionadas) y sustituirla por incentivos fiscales al alquiler de larga duración y deducciones para inquilinos españoles. Regular los pisos turísticos.",
+      "cita": "Derogación de la Ley de Vivienda. Incentivos fiscales al alquiler de larga duración y deducciones para inquilinos españoles.",
+      "pagina": 23,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Inquilinos (perderían el posible tope de precios) y propietarios (más libertad y ventajas fiscales).",
+        "coste": "Las deducciones reducen recaudación; no cuantificado.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Devuelve seguridad jurídica a los propietarios para que saquen viviendas al alquiler.",
+          "La evidencia sobre los topes de precio muestra riesgo de reducir oferta."
+        ],
+        "en_contra": [
+          "Sin topes, los inquilinos quedan más expuestos a subidas.",
+          "Limitar las deducciones a 'inquilinos españoles' podría ser discriminatorio."
+        ]
+      }
+    },
+    {
+      "id": "vox-018",
+      "tema": "vivienda",
+      "subtema": "suelo",
+      "titulo": "Reformar la Ley del Suelo para construir mucho más",
+      "resumen": "Ampliar suelo disponible, agilizar procedimientos y eliminar trabas para multiplicar la construcción de vivienda nueva, y bajar los impuestos del proceso de edificación.",
+      "cita": "Reforma de la Ley del Suelo. Volver a ver grúas en los cielos.",
+      "pagina": 23,
+      "concrecion": "baja",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Promotores, constructoras, ayuntamientos y compradores.",
+        "coste": "Menor recaudación por los impuestos a la construcción.",
+        "viabilidad": "El urbanismo es sobre todo autonómico y municipal: el Estado solo fija el marco básico.",
+        "a_favor": [
+          "La falta de oferta es una causa central de la subida de precios.",
+          "Abarata y acelera construir."
+        ],
+        "en_contra": [
+          "Riesgo de crecimiento urbano disperso y de repetir excesos de la burbuja de 2008.",
+          "No asegura que lo construido sea asequible."
+        ]
+      }
+    },
+    {
+      "id": "vox-019",
+      "tema": "vivienda",
+      "subtema": "compra",
+      "titulo": "Primera vivienda sin impuestos (IVA 0% e ITP bonificado)",
+      "resumen": "IVA del 0% en la compra de primera vivienda nueva, bonificación del 100% del ITP en la de segunda mano y recuperación de la deducción por compra de vivienda en el IRPF. Fiscalidad 'disuasoria' para compradores no comunitarios y fondos.",
+      "cita": "Tipo 0% de IVA para la compra de tu primera vivienda habitual -de nueva construcción- y bonificación 100% del ITP para la compra de tu primera vivienda habitual -de segunda mano-.",
+      "pagina": 24,
+      "concrecion": "alta",
+      "cifra": "IVA 0% y 100% bonificación ITP en primera vivienda",
+      "tipo": "recorte",
+      "implicaciones": {
+        "afecta_a": "Familias españolas que compran su primera vivienda.",
+        "coste": "Pérdida importante de recaudación (el ITP es autonómico).",
+        "viabilidad": "El ITP es un impuesto cedido a las comunidades autónomas; el IVA 0% requiere encaje en la directiva europea.",
+        "a_favor": [
+          "Reduce mucho el dinero que hay que ahorrar para comprar.",
+          "Los impuestos que se pagan al comprar vivienda (10% IVA o 6-10% ITP) son altos."
+        ],
+        "en_contra": [
+          "Con poca oferta, las ayudas a la demanda tienden a subir precios.",
+          "La deducción por vivienda se eliminó en 2013 por su alto coste y efecto inflacionista."
+        ]
+      }
+    },
+    {
+      "id": "vox-020",
+      "tema": "vivienda",
+      "subtema": "okupacion",
+      "titulo": "Desalojo de okupas en 24 horas y la 'inquiocupación' como estafa",
+      "resumen": "Desalojo de viviendas okupadas en menos de 24 horas, endurecer el Código Penal y tipificar como estafa al inquilino que deja de pagar. Prohibir alquilar a inmigrantes irregulares.",
+      "cita": "Desalojo de la vivienda okupada en menos de 24 horas y recuperación inmediata de la posesión por su legítimo titular.",
+      "pagina": 24,
+      "concrecion": "alta",
+      "cifra": "Desalojo en menos de 24 h",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Propietarios afectados por okupación o impagos; inquilinos en situación vulnerable.",
+        "coste": "Bajo.",
+        "viabilidad": "Requiere reforma procesal; los desalojos sin resolución judicial plantean problemas de garantías.",
+        "a_favor": [
+          "Da seguridad a los pequeños propietarios.",
+          "Los procesos actuales pueden durar muchos meses."
+        ],
+        "en_contra": [
+          "La okupación de viviendas habitadas ya se resuelve rápido por la vía del allanamiento.",
+          "Convertir el impago de alquiler en delito podría criminalizar a familias sin recursos."
+        ]
+      }
+    },
+    {
+      "id": "vox-021",
+      "tema": "vivienda",
+      "subtema": "vivienda-publica",
+      "titulo": "Más vivienda protegida con colaboración público-privada y prioridad para españoles",
+      "resumen": "Aumentar la inversión pública en vivienda protegida mediante cesiones de suelo, subvenciones y avales a promotores privados, con prioridad nacional en la adjudicación.",
+      "cita": "Aumentar con urgencia la construcción de vivienda protegida para las familias españolas mediante su promoción y colaboración público-privada.",
+      "pagina": 23,
+      "concrecion": "baja",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Familias que buscan vivienda asequible; promotores.",
+        "coste": "No cuantificado.",
+        "viabilidad": "La prioridad por nacionalidad tendría problemas legales.",
+        "a_favor": [
+          "Combina esfuerzo público y privado para construir más rápido."
+        ],
+        "en_contra": [
+          "Sin cifras ni plazos.",
+          "La prioridad nacional excluiría a residentes legales extranjeros."
+        ]
+      }
+    },
+    {
+      "id": "vox-022",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Derogar tres normas por cada nueva y silencio administrativo positivo",
+      "resumen": "Cada ley nueva deberá derogar tres existentes; si la Administración no responde a tiempo, se entiende aprobado (salvo en inmigración y nacionalidad); fin de la cita previa obligatoria y ventanilla única digital.",
+      "cita": "Derogar tres normas por cada una que se apruebe. Cada ley nueva tendrá que identificar, en su propio texto, qué tres normas vigentes deroga.",
+      "pagina": 28,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Ciudadanos, empresas y administraciones.",
+        "coste": "Bajo; requiere digitalización.",
+        "viabilidad": "La regla 'uno dentro, tres fuera' es fácil de aprobar pero difícil de cumplir con sentido; el silencio positivo general es inviable en materias de seguridad o medio ambiente.",
+        "a_favor": [
+          "Reduce burocracia y tiempos de espera.",
+          "Atención presencial sin cita para quien tiene dificultades digitales."
+        ],
+        "en_contra": [
+          "Contar normas no mide su calidad.",
+          "El silencio positivo puede dejar pasar actividades dañinas sin control."
+        ]
+      }
+    },
+    {
+      "id": "vox-023",
+      "tema": "economia",
+      "subtema": "empresas",
+      "titulo": "Unidad de mercado: lo legal en una comunidad, legal en toda España",
+      "resumen": "Cualquier empresa o producto autorizado en una comunidad autónoma podrá operar en todo el país sin trámites adicionales.",
+      "cita": "Lo que es legal en una región de España, lo es en toda España.",
+      "pagina": 28,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Empresas y autónomos que operan en varias comunidades; competencias autonómicas.",
+        "coste": "Ninguno.",
+        "viabilidad": "Una ley similar (2013) fue recortada por el Tribunal Constitucional por invadir competencias autonómicas.",
+        "a_favor": [
+          "Reduce costes de operar en distintas regiones."
+        ],
+        "en_contra": [
+          "Iguala por abajo: la comunidad menos exigente marca la norma para todas."
+        ]
+      }
+    },
+    {
+      "id": "vox-024",
+      "tema": "igualdad",
+      "subtema": "genero",
+      "titulo": "Derogar las leyes de violencia de género",
+      "resumen": "Derogar las leyes de género, que según VOX 'criminalizan a los hombres', y sustituirlas por leyes que protejan a todas las víctimas de violencia sin distinción de sexo. Denuncia las 'denuncias falsas'.",
+      "cita": "Derogar las leyes que han criminalizado a los hombres y desprotegido a las mujeres.",
+      "pagina": 30,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Víctimas de violencia machista y el sistema de juzgados y recursos especializados.",
+        "coste": "Ahorro en estructuras específicas; no cuantificado.",
+        "viabilidad": "Competencia estatal. El TC avaló en 2008 la Ley de Violencia de Género.",
+        "a_favor": [
+          "Sus defensores cuestionan la diferencia de penas según el sexo.",
+          "Critica fallos reales como los de las pulseras o la ley del 'solo sí es sí'."
+        ],
+        "en_contra": [
+          "La Fiscalía cifra las denuncias falsas en menos del 0,01%.",
+          "Expertos y asociaciones temen perder recursos especializados que salvan vidas."
+        ]
+      }
+    },
+    {
+      "id": "vox-025",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Derogar la Ley de Memoria Democrática",
+      "resumen": "Superar las 'leyes ideológicas' como la de Memoria Democrática, que considera divisivas.",
+      "cita": "Superación de las divisivas leyes ideológicas que enfrentan a los españoles, tales como la de Memoria Democrática.",
+      "pagina": 30,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Familias de víctimas del franquismo (exhumaciones de fosas), simbología franquista.",
+        "coste": "Ahorro en programas de memoria.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Evita que el Estado fije una 'verdad oficial' sobre la historia."
+        ],
+        "en_contra": [
+          "Paralizaría exhumaciones de víctimas aún en fosas comunes.",
+          "La ONU ha pedido a España avanzar en reparación de víctimas."
+        ]
+      }
+    },
+    {
+      "id": "vox-026",
+      "tema": "igualdad",
+      "subtema": "vida",
+      "titulo": "Defensa de la vida 'desde la concepción hasta la muerte natural'",
+      "resumen": "Defender la vida desde la concepción y acabar con la 'cultura de la muerte' (aborto, eutanasia), garantizar la objeción de conciencia de sanitarios y potenciar los cuidados paliativos.",
+      "cita": "Defensa del derecho a la vida desde su concepción hasta la muerte natural y fin de la cultura de la muerte.",
+      "pagina": 52,
+      "concrecion": "baja",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Mujeres que deciden abortar, personas que solicitan la eutanasia, profesionales sanitarios.",
+        "coste": "Más gasto en paliativos.",
+        "viabilidad": "El TC avaló en 2023 las leyes del aborto y de la eutanasia; no concreta qué cambiaría.",
+        "a_favor": [
+          "Más cuidados paliativos, hoy insuficientes en muchas zonas."
+        ],
+        "en_contra": [
+          "Posible restricción de derechos reconocidos.",
+          "Redacción ambigua: no se sabe si propone prohibir el aborto o la eutanasia."
+        ]
+      }
+    },
+    {
+      "id": "vox-027",
+      "tema": "familia",
+      "subtema": "natalidad",
+      "titulo": "Ventajas de familia numerosa desde el primer hijo",
+      "resumen": "Extender los beneficios de familia numerosa a todas las familias desde el primer hijo, aumentándolos según el número de hijos. Bonificación del 100% de la ayuda en el hogar.",
+      "cita": "Todos los beneficios que ahora existen para las familias numerosas se aumentarán y se extenderán a todas las familias de manera progresiva desde el primer hijo.",
+      "pagina": 51,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Todas las familias con hijos.",
+        "coste": "Elevado; no cuantificado.",
+        "viabilidad": "Competencia estatal y autonómica.",
+        "a_favor": [
+          "España tiene una de las natalidades más bajas del mundo.",
+          "Apoyo directo a la crianza."
+        ],
+        "en_contra": [
+          "La evidencia sobre ayudas fiscales y natalidad muestra efectos modestos.",
+          "Sin coste estimado."
+        ]
+      }
+    },
+    {
+      "id": "vox-028",
+      "tema": "familia",
+      "subtema": "conciliacion",
+      "titulo": "El Estado cotiza por quienes cuidan de sus hijos",
+      "resumen": "El Estado pagará la cotización a la Seguridad Social de los españoles dedicados al cuidado de sus hijos, para que criar no penalice la jubilación. Educación 0-3 gratuita.",
+      "cita": "Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos.",
+      "pagina": 51,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Padres y sobre todo madres que dejan de trabajar o reducen jornada para criar.",
+        "coste": "Significativo, depende de cuánto tiempo y a cuántas personas cubra.",
+        "viabilidad": "Viable; ya existen periodos cotizados por cuidado de hijos (más limitados).",
+        "a_favor": [
+          "Reduce la brecha de pensiones de las mujeres."
+        ],
+        "en_contra": [
+          "Puede incentivar que las mujeres salgan del mercado laboral."
+        ]
+      }
+    },
+    {
+      "id": "vox-029",
+      "tema": "sanidad",
+      "subtema": "listas-espera",
+      "titulo": "Plan nacional de listas de espera con apoyo de la privada",
+      "resumen": "Plan nacional para reducir listas de espera, con colaboración público-privada cuando ayude a reducirlas, tarjeta sanitaria única en toda España e indicadores públicos comparables.",
+      "cita": "Fomento de la colaboración público-privada cuando ayude efectivamente a reducir demoras, con transparencia, evaluación de calidad y control del gasto.",
+      "pagina": 37,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Pacientes en espera y centros sanitarios privados.",
+        "coste": "No cuantificado.",
+        "viabilidad": "La sanidad es competencia autonómica; el Estado solo coordina.",
+        "a_favor": [
+          "La tarjeta única y la historia clínica compartida facilitan la atención fuera de la comunidad propia."
+        ],
+        "en_contra": [
+          "Las derivaciones a la privada no resuelven la falta de profesionales.",
+          "El Estado tiene poca capacidad directa sobre las listas de espera."
+        ]
+      }
+    },
+    {
+      "id": "vox-030",
+      "tema": "sanidad",
+      "subtema": "atencion-primaria",
+      "titulo": "Mejorar sueldos sanitarios y que la lengua regional no sea requisito",
+      "resumen": "Mejorar retribuciones y condiciones de los sanitarios, incentivos a plazas rurales, programa de retorno de sanitarios emigrados, y que no conocer la lengua cooficial no impida acceder a una plaza.",
+      "cita": "Garantizar que el desconocimiento de las lenguas regionales no sea en ningún caso impedimento para el acceso por oposición a plazas de personal sanitario.",
+      "pagina": 37,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Profesionales sanitarios y pacientes en comunidades con lengua cooficial.",
+        "coste": "Las mejoras salariales son costosas; no cuantificadas.",
+        "viabilidad": "Los requisitos lingüísticos los fijan las comunidades autónomas.",
+        "a_favor": [
+          "Amplía el número de candidatos a plazas difíciles de cubrir."
+        ],
+        "en_contra": [
+          "Algunos pacientes tienen derecho a ser atendidos en su lengua cooficial."
+        ]
+      }
+    },
+    {
+      "id": "vox-031",
+      "tema": "educacion",
+      "subtema": "modelo-educativo",
+      "titulo": "Derogar la LOMLOE, reválidas y EVAU única nacional",
+      "resumen": "Derogar la ley educativa actual, currículo y evaluaciones únicas en toda España, reválidas, EvAU única, fin de los móviles en clase y más autoridad del profesor.",
+      "cita": "Derogación de la LOMLOE y recuperación de una enseñanza basada en el esfuerzo, el saber, el mérito, la exigencia, la disciplina.",
+      "pagina": 41,
+      "concrecion": "media",
+      "tipo": "derogacion",
+      "implicaciones": {
+        "afecta_a": "Alumnos, profesores y comunidades autónomas (que gestionan la educación).",
+        "coste": "Bajo.",
+        "viabilidad": "La EvAU única y un currículo único chocan con competencias autonómicas.",
+        "a_favor": [
+          "Igualdad de condiciones en el acceso a la universidad.",
+          "Más exigencia académica."
+        ],
+        "en_contra": [
+          "Otro cambio de ley educativa: España ha tenido ocho en democracia."
+        ]
+      }
+    },
+    {
+      "id": "vox-032",
+      "tema": "educacion",
+      "subtema": "escuela",
+      "titulo": "Educación en español garantizada en toda España",
+      "resumen": "Garantizar que se pueda estudiar en español en todo el territorio nacional.",
+      "cita": "Se garantizará la educación en español en todo el territorio nacional.",
+      "pagina": 41,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Alumnos en comunidades con lengua cooficial (Cataluña, País Vasco, Galicia, Baleares, Valencia).",
+        "coste": "Bajo.",
+        "viabilidad": "Choca con los modelos de inmersión lingüística, avalados parcialmente por el TC.",
+        "a_favor": [
+          "Derecho de las familias a escolarizar en castellano."
+        ],
+        "en_contra": [
+          "Los defensores de la inmersión creen que es la mejor garantía de que todos dominen ambas lenguas."
+        ]
+      }
+    },
+    {
+      "id": "vox-033",
+      "tema": "educacion",
+      "subtema": "escuela",
+      "titulo": "Límite de alumnos extranjeros por aula y aulas de nivelación",
+      "resumen": "Fijar un máximo de alumnos 'de otras culturas' o con poco español por aula, con aulas específicas de nivelación. Fin de menús halal y del programa de lengua árabe. Prohibir burka y niqab en espacios públicos.",
+      "cita": "Establecimiento de un número máximo por aula de alumnos procedentes de otras culturas o con dominio insuficiente del español.",
+      "pagina": 42,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Alumnos de origen extranjero y centros con alta concentración.",
+        "coste": "Requiere más aulas y profesorado.",
+        "viabilidad": "Los cupos por origen podrían ser discriminatorios; las aulas de acogida ya existen en algunas comunidades.",
+        "a_favor": [
+          "Evita centros 'gueto' con alta concentración.",
+          "Refuerzo lingüístico antes de incorporarse al aula ordinaria."
+        ],
+        "en_contra": [
+          "Separar alumnos puede dificultar su integración.",
+          "Criterio 'de otras culturas' es ambiguo y posiblemente discriminatorio."
+        ]
+      }
+    },
+    {
+      "id": "vox-034",
+      "tema": "educacion",
+      "subtema": "modelo-educativo",
+      "titulo": "Libre elección de centro y distrito único",
+      "resumen": "Las familias podrán elegir cualquier centro (público, concertado) con distrito único, y prioridad nacional en ayudas, guarderías y becas.",
+      "cita": "Distrito único y libre elección de centro escolar para los padres.",
+      "pagina": 42,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Familias y centros educativos.",
+        "coste": "Depende de si se amplía la concertada.",
+        "viabilidad": "Competencia autonómica en buena medida.",
+        "a_favor": [
+          "Más libertad de las familias."
+        ],
+        "en_contra": [
+          "Estudios en Madrid asocian el distrito único a más segregación escolar."
+        ]
+      }
+    },
+    {
+      "id": "vox-035",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Bajar la edad penal y ampliar la prisión permanente revisable",
+      "resumen": "Reducir la edad de responsabilidad penal de los menores (hoy 14 años) y plantear que no haya inimputabilidad en homicidios o agresiones sexuales; ampliar la prisión permanente revisable.",
+      "cita": "Reducción de la edad de responsabilidad penal del menor y plantear la eliminación de inimputabilidad para ciertos delitos violentos.",
+      "pagina": 45,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Menores infractores y víctimas de delitos graves.",
+        "coste": "Más plazas penitenciarias.",
+        "viabilidad": "Competencia estatal; requiere mayoría absoluta (ley orgánica).",
+        "a_favor": [
+          "Respuesta más dura ante delitos graves cometidos por menores."
+        ],
+        "en_contra": [
+          "Los expertos en justicia juvenil señalan que la reinserción funciona mejor que la prisión a esas edades.",
+          "España ya tiene baja tasa de criminalidad en comparación europea."
+        ]
+      }
+    },
+    {
+      "id": "vox-036",
+      "tema": "seguridad",
+      "subtema": "seguridad-ciudadana",
+      "titulo": "Más medios y sueldos para policía, Guardia Civil y militares; profesión de riesgo",
+      "resumen": "Equiparación salarial, más medios y reconocimiento como profesión de riesgo para policías, guardias civiles, militares y funcionarios de prisiones. Ofensiva contra el narcotráfico.",
+      "cita": "Reconocimiento de la profesión y servicio en la Guardia Civil y el Cuerpo Nacional de Policía como profesión de riesgo.",
+      "pagina": 46,
+      "concrecion": "media",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Fuerzas de seguridad, militares y funcionarios de prisiones.",
+        "coste": "Elevado (salarios y jubilación anticipada por profesión de riesgo); no cuantificado.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Demanda histórica de estos colectivos.",
+          "El narcotráfico en el Campo de Gibraltar es un problema real."
+        ],
+        "en_contra": [
+          "Coste no explicado en un programa que también baja impuestos."
+        ]
+      }
+    },
+    {
+      "id": "vox-037",
+      "tema": "estado",
+      "subtema": "ceuta-melilla",
+      "titulo": "Militarizar la frontera de Ceuta y Melilla y sanciones a Marruecos",
+      "resumen": "Militarizar las fronteras de Ceuta y Melilla, sancionar y revisar relaciones con Marruecos hasta que respete la soberanía española, y procesar al Gobierno por su gestión de la crisis de Ceuta.",
+      "cita": "Militarización de la frontera para repeler cualquier intento futuro de invasión o ataque híbrido.",
+      "pagina": 7,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Habitantes de Ceuta y Melilla, relación con Marruecos.",
+        "coste": "Despliegue militar no cuantificado.",
+        "viabilidad": "Sancionar a Marruecos requiere a la UE; Marruecos es un socio clave en control migratorio, energía y antiterrorismo.",
+        "a_favor": [
+          "Respuesta firme ante presiones migratorias usadas como arma."
+        ],
+        "en_contra": [
+          "Riesgo de escalada diplomática con un vecino estratégico."
+        ]
+      }
+    },
+    {
+      "id": "vox-038",
+      "tema": "estado",
+      "subtema": "autonomias",
+      "titulo": "Recuperar la sedición e ilegalizar partidos que atenten contra la unidad",
+      "resumen": "Recuperar el delito de sedición, prohibir indultos por corrupción o delitos contra la integridad territorial e ilegalizar partidos y organizaciones que atenten contra la unidad de España. Endurecer penas por ofensas a símbolos.",
+      "cita": "Ilegalización de los partidos políticos, asociaciones u organizaciones de cualquier tipo que atenten contra la soberanía e independencia de España, su unidad e integridad territorial.",
+      "pagina": 55,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Partidos independentistas y sus votantes; libertad de expresión.",
+        "coste": "Ninguno.",
+        "viabilidad": "El TC ha establecido que defender la independencia por vías pacíficas es legal; ilegalizar partidos solo cabe por violencia o apoyo al terrorismo.",
+        "a_favor": [
+          "Refuerza la defensa del orden constitucional tras el 'procés'."
+        ],
+        "en_contra": [
+          "Ilegalizar ideas pacíficas es contrario a la jurisprudencia constitucional y europea."
+        ]
+      }
+    },
+    {
+      "id": "vox-039",
+      "tema": "seguridad",
+      "subtema": "justicia",
+      "titulo": "Que los jueces elijan a 12 vocales del CGPJ",
+      "resumen": "Los doce vocales judiciales del CGPJ serán elegidos por y entre los propios jueces, acabando con las cuotas de partido. Fiscal General independiente y despolitizar el Tribunal Constitucional.",
+      "cita": "Los doce vocales de procedencia judicial del Consejo General del Poder Judicial sean elegidos mediante voto personal, directo y secreto por y entre los propios jueces y magistrados.",
+      "pagina": 55,
+      "concrecion": "alta",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Gobierno de los jueces.",
+        "coste": "Ninguno.",
+        "viabilidad": "Ley orgánica. La Comisión Europea ha recomendado este modelo.",
+        "a_favor": [
+          "Mayor independencia judicial; lo recomiendan la UE y el Consejo de Europa."
+        ],
+        "en_contra": [
+          "Sus críticos temen que las asociaciones judiciales (mayoritariamente conservadoras) dominen el órgano."
+        ]
+      }
+    },
+    {
+      "id": "vox-040",
+      "tema": "instituciones",
+      "subtema": "corrupcion",
+      "titulo": "Que los corruptos respondan con todo su patrimonio",
+      "resumen": "Auditoría integral de las administraciones, responsabilidad patrimonial personal de los condenados por corrupción hasta devolver todo lo desviado y más medios para unidades anticorrupción.",
+      "cita": "Reforzaremos la responsabilidad patrimonial personal de los cargos públicos condenados por delitos de corrupción, garantizando que respondan con todos sus bienes presentes y futuros.",
+      "pagina": 57,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Cargos públicos condenados.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Mejora la recuperación de dinero robado, hoy muy baja."
+        ],
+        "en_contra": [
+          "Ya existe la responsabilidad civil derivada del delito; el problema suele ser la ocultación del patrimonio."
+        ]
+      }
+    },
+    {
+      "id": "vox-041",
+      "tema": "instituciones",
+      "subtema": "democracia",
+      "titulo": "Reformar RTVE para 'limpiarla de comisarios políticos'",
+      "resumen": "Reforma integral de la radio y televisión pública para que informe con objetividad y pluralidad, y reducir su gasto.",
+      "cita": "Limpiar RTVE de comisarios políticos, acabar con el despilfarro y ponerla al servicio de los españoles.",
+      "pagina": 58,
+      "concrecion": "baja",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "RTVE y sus trabajadores.",
+        "coste": "Ahorro.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Preocupación compartida por varios partidos sobre la neutralidad de RTVE."
+        ],
+        "en_contra": [
+          "No especifica cómo garantizar la independencia; cada gobierno ha acusado al anterior de controlarla."
+        ]
+      }
+    },
+    {
+      "id": "vox-042",
+      "tema": "territorio",
+      "subtema": "agro",
+      "titulo": "Rechazar el acuerdo UE-Mercosur y la reducción de la PAC",
+      "resumen": "Oponerse al acuerdo comercial con Mercosur y a cualquier acuerdo que obligue a competir en desigualdad, exigir 'cláusulas espejo', rechazar recortes de la PAC y crear un fondo de compensación frente a 'imposiciones de Bruselas'.",
+      "cita": "Rechazo explícito al acuerdo UE-Mercosur y de todo acuerdo comercial que obligue a nuestros productores a competir en desigualdad de condiciones.",
+      "pagina": 33,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Agricultores y ganaderos; también exportadores industriales que se benefician de Mercosur.",
+        "coste": "El fondo de compensación no se cuantifica.",
+        "viabilidad": "La política comercial es exclusiva de la UE; España solo puede votar en contra.",
+        "a_favor": [
+          "Defiende a productores que cumplen normas más exigentes que sus competidores."
+        ],
+        "en_contra": [
+          "Otros sectores españoles (automoción, vino, aceite) ganan con el acuerdo."
+        ]
+      }
+    },
+    {
+      "id": "vox-043",
+      "tema": "territorio",
+      "subtema": "agro",
+      "titulo": "Frenar las macroplantas solares y eólicas en suelo agrícola y defender la caza",
+      "resumen": "Impedir la instalación 'descontrolada' de grandes plantas renovables en terreno agrícola, defensa de la caza y limpieza de montes contra incendios.",
+      "cita": "Impedir la destrucción de la riqueza agrícola y el patrimonio natural para la instalación descontrolada de macro plantas de energías renovables, solar y eólica.",
+      "pagina": 34,
+      "concrecion": "baja",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Mundo rural, propietarios de terrenos y empresas renovables.",
+        "coste": "Bajo.",
+        "viabilidad": "Las autorizaciones son en parte autonómicas.",
+        "a_favor": [
+          "Protege el paisaje y la tierra cultivable.",
+          "Responde al malestar en zonas rurales."
+        ],
+        "en_contra": [
+          "Las renovables han abaratado la electricidad en España y generan ingresos a municipios rurales."
+        ]
+      }
+    },
+    {
+      "id": "vox-044",
+      "tema": "medio-ambiente",
+      "subtema": "agua",
+      "titulo": "Plan Nacional del Agua con interconexión de cuencas",
+      "resumen": "Interconectar todas las cuencas hidrográficas (trasvases) para redistribuir agua al regadío y la energía, y obras contra inundaciones.",
+      "cita": "Plan Nacional del Agua. Interconexión de todas las cuencas que permita una gestión más eficiente del agua.",
+      "pagina": 61,
+      "concrecion": "media",
+      "tipo": "nueva",
+      "implicaciones": {
+        "afecta_a": "Regantes del Levante y sur, comunidades de cuencas cedentes (Aragón, Castilla-La Mancha).",
+        "coste": "Obras de miles de millones; no cuantificado.",
+        "viabilidad": "Los trasvases generan fuertes conflictos territoriales; el del Ebro se canceló en 2004.",
+        "a_favor": [
+          "Garantiza agua al regadío del sureste."
+        ],
+        "en_contra": [
+          "Con el cambio climático, las cuencas cedentes también tienen menos agua.",
+          "Alto coste ambiental."
+        ]
+      }
+    },
+    {
+      "id": "vox-045",
+      "tema": "movilidad",
+      "subtema": "transporte-publico",
+      "titulo": "Priorizar Cercanías, Media Distancia y mantenimiento ferroviario",
+      "resumen": "Auditoría del estado de la red ferroviaria, prioridad a la seguridad, al mantenimiento, a Cercanías y Media Distancia, y electrificación de líneas convencionales.",
+      "cita": "Prioridad a la seguridad ferroviaria, al mantenimiento de una red abandonada e infradotada y a los servicios de Cercanías y Media Distancia.",
+      "pagina": 61,
+      "concrecion": "media",
+      "tipo": "reforma",
+      "implicaciones": {
+        "afecta_a": "Usuarios de trenes de cercanías y regionales, zonas rurales.",
+        "coste": "No cuantificado.",
+        "viabilidad": "Competencia estatal. Viable.",
+        "a_favor": [
+          "Coincide con la crítica generalizada al deterioro de Cercanías."
+        ],
+        "en_contra": [
+          "Sin cifras de inversión."
+        ]
+      }
+    },
+    {
+      "id": "vox-046",
+      "tema": "cultura",
+      "subtema": "cultura-general",
+      "titulo": "Defensa de la tauromaquia y la 'cultura nacional'",
+      "resumen": "Promoción de la tauromaquia, de la historia común española y del patrimonio, nueva Ley de Mecenazgo y rebaja de impuestos a espectáculos en vivo.",
+      "cita": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino.",
+      "pagina": 43,
+      "concrecion": "baja",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Sector taurino y cultural.",
+        "coste": "Bajo.",
+        "viabilidad": "Viable.",
+        "a_favor": [
+          "Protege una tradición con arraigo en parte del país."
+        ],
+        "en_contra": [
+          "Una mayoría creciente de la población rechaza las corridas según encuestas."
+        ]
+      }
+    },
+    {
+      "id": "vox-047",
+      "tema": "exterior",
+      "subtema": "defensa",
+      "titulo": "Más gasto en Defensa y recuperar Gibraltar",
+      "resumen": "Aumentar la inversión en defensa y los sueldos militares, proteger las fronteras con participación de las Fuerzas Armadas y presionar internacionalmente para recuperar la soberanía de Gibraltar.",
+      "cita": "Aumento de la inversión en Defensa, sueldos dignos y ayudas a la movilidad geográfica y a la vivienda.",
+      "pagina": 47,
+      "concrecion": "baja",
+      "tipo": "ampliacion",
+      "implicaciones": {
+        "afecta_a": "Fuerzas Armadas, industria de defensa, Campo de Gibraltar.",
+        "coste": "No cuantificado (no menciona el objetivo del 2% o 5% del PIB de la OTAN).",
+        "viabilidad": "Viable el gasto; Gibraltar depende de negociación con Reino Unido y la UE.",
+        "a_favor": [
+          "España está entre los países de la OTAN que menos gastan en defensa."
+        ],
+        "en_contra": [
+          "Sin cifras ni explicación de su financiación."
+        ]
+      }
+    },
+    {
+      "id": "vox-b01",
+      "tema": "animales",
+      "subtema": "silvestres",
+      "titulo": "Defensa de la caza",
+      "resumen": "La caza como actividad 'esencial' para controlar poblaciones y proteger explotaciones.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas.",
+      "pagina": 35
+    },
+    {
+      "id": "vox-b02",
+      "tema": "animales",
+      "subtema": "tauromaquia",
+      "titulo": "Defensa y promoción de la tauromaquia",
+      "resumen": "Promoción del arte taurino y de las actividades en torno a esta tradición.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Defensa de la Tauromaquia y promoción de la difusión del arte taurino y potenciación del conjunto de actividades alrededor de esta tradición.",
+      "pagina": 43
+    },
+    {
+      "id": "vox-b03",
+      "tema": "digital",
+      "subtema": "ia",
+      "titulo": "Sumar a España a la carrera de la inteligencia artificial",
+      "resumen": "Impulsar la IA en empresas, pymes y Administración, garantizando siempre la atención presencial.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Sumar a España a la carrera de la Inteligencia Artificial.",
+      "pagina": 27
+    },
+    {
+      "id": "vox-b04",
+      "tema": "digital",
+      "subtema": "ciencia",
+      "titulo": "Más I+D y plan de retorno de talento",
+      "resumen": "Reforzar la inversión en I+D+i, incentivos fiscales a la innovación y plan para recuperar el talento emigrado. Sin cifras.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Impulso nacional de la investigación, el desarrollo y la innovación. Reforzar la inversión en I+D+i.",
+      "pagina": 10
+    },
+    {
+      "id": "vox-b05",
+      "tema": "digital",
+      "subtema": "medios",
+      "titulo": "Libertad de expresión frente a la 'deriva censora'",
+      "resumen": "Garantizar la libertad de expresión frente a lo que considera censura del Gobierno.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Garantizar la libertad de expresión de todos los españoles frente a la deriva censora del Gobierno de Sánchez.",
+      "pagina": 58
+    },
+    {
+      "id": "vox-b06",
+      "tema": "cultura",
+      "subtema": "deporte",
+      "titulo": "Selecciones nacionales y deporte femenino por criterios biológicos",
+      "resumen": "Despolitizar el deporte, que las selecciones representen a España frente al 'separatismo', deporte femenino regido por criterios biológicos, becas y rebajas fiscales.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Compromiso con la defensa del deporte femenino, que debe regirse por criterios biológicos y deportivos objetivos.",
+      "pagina": 43
+    },
+    {
+      "id": "vox-b07",
+      "tema": "social",
+      "subtema": "discapacidad",
+      "titulo": "Más bonificaciones y menos burocracia para la discapacidad",
+      "resumen": "Reforzar deducciones, eliminar barreras arquitectónicas y desburocratizar el reconocimiento de discapacidad y dependencia.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Refuerzo de las bonificaciones y deducciones para personas con discapacidad, poner fin a las barreras arquitectónicas.",
+      "pagina": 52
+    },
+    {
+      "id": "vox-b08",
+      "tema": "territorio",
+      "subtema": "islas",
+      "titulo": "Menos impuestos en Canarias y Baleares",
+      "resumen": "Rebaja del IGIC canario, supresión del AIEM y actualizar el complemento de insularidad de los empleados públicos.",
+      "concrecion": "media",
+      "breve": true,
+      "cita": "Alivio del esfuerzo fiscal extra soportado en las Islas Baleares y las Islas Canarias.",
+      "pagina": 10
+    },
+    {
+      "id": "vox-b09",
+      "tema": "igualdad",
+      "subtema": "libertades",
+      "titulo": "Proteger tradiciones religiosas y símbolos de España",
+      "resumen": "Protección de usos, costumbres y tradiciones religiosas y populares; penas más duras por ofensas a la bandera, el himno o la Corona.",
+      "concrecion": "baja",
+      "breve": true,
+      "cita": "Protección de nuestros usos y costumbres y de las tradiciones religiosas y populares de España, frente a cualquier intento de imposición ideológica.",
+      "pagina": 56
+    }
+  ],
+  "orden": 3
+}

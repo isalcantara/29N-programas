@@ -1,0 +1,49 @@
+{
+  "vivienda": {
+    "resumen": "Los tres partidos priorizan la vivienda, pero con recetas opuestas: ALFA apuesta por regular precios y construir vivienda pública; BETA por aumentar la oferta privada con suelo e incentivos fiscales; GAMMA por movilizar vivienda vacía y facilitar la compra a jóvenes.",
+    "ejes": [
+      {
+        "pregunta": "¿Limitar el precio del alquiler?",
+        "posiciones": {
+          "alfa": { "postura": "si", "texto": "Sí, tope en zonas tensionadas." },
+          "beta": { "postura": "no", "texto": "No; incentivos fiscales voluntarios." },
+          "gamma": { "postura": "matiz", "texto": "No lo menciona; penaliza la vivienda vacía." }
+        }
+      },
+      {
+        "pregunta": "¿Quién debe construir?",
+        "posiciones": {
+          "alfa": { "postura": "matiz", "texto": "Principalmente la administración (20.000 viviendas)." },
+          "beta": { "postura": "matiz", "texto": "El sector privado, con más suelo y licencias rápidas." },
+          "gamma": { "postura": "sin", "texto": "No se pronuncia." }
+        }
+      }
+    ]
+  },
+  "sanidad": {
+    "resumen": "El gran choque es el papel de la sanidad privada: ALFA quiere reducirlo, BETA ampliarlo para recortar listas de espera, y GAMMA se centra en atención primaria.",
+    "ejes": [
+      {
+        "pregunta": "¿Usar la privada para reducir listas de espera?",
+        "posiciones": {
+          "alfa": { "postura": "no", "texto": "No; revertir conciertos." },
+          "beta": { "postura": "si", "texto": "Sí, derivar a partir de 90 días." },
+          "gamma": { "postura": "sin", "texto": "No se pronuncia." }
+        }
+      }
+    ]
+  },
+  "fiscalidad": {
+    "resumen": "ALFA sube impuestos a rentas altas; BETA baja IRPF a todos y elimina sucesiones. GAMMA solo plantea deducciones puntuales.",
+    "ejes": [
+      {
+        "pregunta": "¿Subir el IRPF?",
+        "posiciones": {
+          "alfa": { "postura": "si", "texto": "Subir a rentas > 100.000 €." },
+          "beta": { "postura": "no", "texto": "Bajar 1 punto a todos." },
+          "gamma": { "postura": "matiz", "texto": "Solo deducciones para el medio rural." }
+        }
+      }
+    ]
+  }
+}
